@@ -1,0 +1,50 @@
+# Versioned prompt templates. An entry is frozen once any run has used it: never edit a frozen
+# template or its hash. To change a prompt, add a new file (e.g. p2_reader_v2.txt) and a new entry here.
+# The harness refuses to run a template whose file hash differs from the hash recorded here.
+#
+# The text sent to a model is the file content with trailing newlines removed. The templates have
+# no slots: the manuscript is attached before the prompt, never pasted into it.
+
+review:
+  p1_bare_v1:
+    file: review/p1_bare_v1.txt
+    sha256: "4240cb08034879d138ba537b4229e7a58cc99bebbdf4d4bc4cc9fe25abebf95f"
+    rung: Prompt 1 (Bare)
+    added: 2026-10-15
+  p2_reader_v1:
+    file: review/p2_reader_v1.txt
+    sha256: "e69be9cc2400b721596f1da473fb578f8005e615b85ce30aa94b3b508081160a"
+    rung: Prompt 2 (Reader instructions)
+    added: 2026-10-15
+  p3_criteria_v1:
+    file: review/p3_criteria_v1.txt
+    sha256: "ddaa589f558f18f36f767f40aeeece56c1b3cb8b82004888bb803f2ddde0c8e6"
+    rung: Prompt 3 (Reader instructions plus Organization Science criteria)
+    added: 2026-10-15
+
+# Coding templates have two slots: {CODING_SHEET} (the frozen coding sheet, read from a local path outside this
+# repository) and {REVIEW} (the review text exactly as returned). The text up to {REVIEW} is the same in every call.
+coding:
+  code_v1:
+    file: coding/code_v1.txt
+    sha256: "f989ea3bf8d4b36c5fa2eae78d9584a6f9ff7d0583f89c8317c9fc263d25b47f"
+    added: 2026-10-23
+
+# Judge templates (exploratory judge analysis, plan of 24 Oct 2026). The system template is King and Worthington
+# (2026), Supplementary Appendix D(b), "Overall pairwise ranking (reviews only)", with their abbreviated Appendix B
+# guidelines inserted where they mark it: the opening paragraph and the thirteen-item checklist, closing with "Please
+# ensure your review focuses on the current research without recommending additional work" (their description of the
+# block in Appendix D). Characters as printed (curly quotes, em dash); paragraphs joined across the PDF's line breaks;
+# every paragraph and item checked against the PDF text (sha256 9643875e… of peerless-supp.pdf). The user template holds
+# the two reviews in the tags their prompt names.
+judge:
+  kw_pairwise_reviews_only_v1:
+    file: judge/kw_pairwise_reviews_only_v1.txt
+    sha256: "d191daaa262ce3e2716445f5ca00b08b2a56bf4744b3894dfbff5282a0297a48"
+    role: system message
+    added: 2026-10-24
+  kw_reviews_user_v1:
+    file: judge/kw_reviews_user_v1.txt
+    sha256: "736c33fa03b2dfd938475909ab0ba62fc7eb5d9adbe557069b509e3a0a4bba33"
+    role: user message, slots {REVIEW_A} and {REVIEW_B}
+    added: 2026-10-24

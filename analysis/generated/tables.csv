@@ -1,0 +1,412 @@
+table_id,table_title,row_number,column,value
+S3,Agreement with the investigator reference: original classifications,1,Concern,C1 Status gap narrowing
+S3,Agreement with the investigator reference: original classifications,1,Initial investigator matches,16
+S3,Agreement with the investigator reference: original classifications,1,Sonnet matches,22
+S3,Agreement with the investigator reference: original classifications,1,Qwen matches,23
+S3,Agreement with the investigator reference: original classifications,1,n,24
+S3,Agreement with the investigator reference: original classifications,1,Original qualification,Both pass
+S3,Agreement with the investigator reference: original classifications,2,Concern,C2 Changes in firms’ own status
+S3,Agreement with the investigator reference: original classifications,2,Initial investigator matches,19
+S3,Agreement with the investigator reference: original classifications,2,Sonnet matches,22
+S3,Agreement with the investigator reference: original classifications,2,Qwen matches,22
+S3,Agreement with the investigator reference: original classifications,2,n,24
+S3,Agreement with the investigator reference: original classifications,2,Original qualification,Both pass
+S3,Agreement with the investigator reference: original classifications,3,Concern,C3 Changing rules for everyone
+S3,Agreement with the investigator reference: original classifications,3,Initial investigator matches,13
+S3,Agreement with the investigator reference: original classifications,3,Sonnet matches,19
+S3,Agreement with the investigator reference: original classifications,3,Qwen matches,21
+S3,Agreement with the investigator reference: original classifications,3,n,24
+S3,Agreement with the investigator reference: original classifications,3,Original qualification,Qwen only
+S3,Agreement with the investigator reference: original classifications,4,Concern,C4 What the supplementary check measures
+S3,Agreement with the investigator reference: original classifications,4,Initial investigator matches,21
+S3,Agreement with the investigator reference: original classifications,4,Sonnet matches,24
+S3,Agreement with the investigator reference: original classifications,4,Qwen matches,23
+S3,Agreement with the investigator reference: original classifications,4,n,24
+S3,Agreement with the investigator reference: original classifications,4,Original qualification,Both pass
+S3,Agreement with the investigator reference: original classifications,5,Concern,C5 Related observations treated as independent
+S3,Agreement with the investigator reference: original classifications,5,Initial investigator matches,18
+S3,Agreement with the investigator reference: original classifications,5,Sonnet matches,19
+S3,Agreement with the investigator reference: original classifications,5,Qwen matches,19
+S3,Agreement with the investigator reference: original classifications,5,n,24
+S3,Agreement with the investigator reference: original classifications,5,Original qualification,Neither passes
+S3,Agreement with the investigator reference: original classifications,6,Concern,C6 Testing the claimed difference
+S3,Agreement with the investigator reference: original classifications,6,Initial investigator matches,11
+S3,Agreement with the investigator reference: original classifications,6,Sonnet matches,23
+S3,Agreement with the investigator reference: original classifications,6,Qwen matches,22
+S3,Agreement with the investigator reference: original classifications,6,n,24
+S3,Agreement with the investigator reference: original classifications,6,Original qualification,Both pass
+S3,Agreement with the investigator reference: original classifications,7,Concern,C7 Unmeasured capabilities
+S3,Agreement with the investigator reference: original classifications,7,Initial investigator matches,20
+S3,Agreement with the investigator reference: original classifications,7,Sonnet matches,15
+S3,Agreement with the investigator reference: original classifications,7,Qwen matches,19
+S3,Agreement with the investigator reference: original classifications,7,n,24
+S3,Agreement with the investigator reference: original classifications,7,Original qualification,Neither passes
+S3,Agreement with the investigator reference: original classifications,8,Concern,C8 Opportunities versus selection quality
+S3,Agreement with the investigator reference: original classifications,8,Initial investigator matches,19
+S3,Agreement with the investigator reference: original classifications,8,Sonnet matches,22
+S3,Agreement with the investigator reference: original classifications,8,Qwen matches,23
+S3,Agreement with the investigator reference: original classifications,8,n,24
+S3,Agreement with the investigator reference: original classifications,8,Original qualification,Both pass
+S3a,Agreement after the targeted quotation check,1,Concern,C1 Status gap narrowing
+S3a,Agreement after the targeted quotation check,1,Sonnet corrected matches,22
+S3a,Agreement after the targeted quotation check,1,Qwen corrected matches,23
+S3a,Agreement after the targeted quotation check,1,n,24
+S3a,Agreement after the targeted quotation check,1,Original qualification retained,Both pass
+S3a,Agreement after the targeted quotation check,2,Concern,C2 Changes in firms’ own status
+S3a,Agreement after the targeted quotation check,2,Sonnet corrected matches,22
+S3a,Agreement after the targeted quotation check,2,Qwen corrected matches,22
+S3a,Agreement after the targeted quotation check,2,n,24
+S3a,Agreement after the targeted quotation check,2,Original qualification retained,Both pass
+S3a,Agreement after the targeted quotation check,3,Concern,C3 Changing rules for everyone
+S3a,Agreement after the targeted quotation check,3,Sonnet corrected matches,19
+S3a,Agreement after the targeted quotation check,3,Qwen corrected matches,21
+S3a,Agreement after the targeted quotation check,3,n,24
+S3a,Agreement after the targeted quotation check,3,Original qualification retained,Qwen only
+S3a,Agreement after the targeted quotation check,4,Concern,C4 What the supplementary check measures
+S3a,Agreement after the targeted quotation check,4,Sonnet corrected matches,24
+S3a,Agreement after the targeted quotation check,4,Qwen corrected matches,23
+S3a,Agreement after the targeted quotation check,4,n,24
+S3a,Agreement after the targeted quotation check,4,Original qualification retained,Both pass
+S3a,Agreement after the targeted quotation check,5,Concern,C5 Related observations treated as independent
+S3a,Agreement after the targeted quotation check,5,Sonnet corrected matches,19
+S3a,Agreement after the targeted quotation check,5,Qwen corrected matches,19
+S3a,Agreement after the targeted quotation check,5,n,24
+S3a,Agreement after the targeted quotation check,5,Original qualification retained,Neither passes
+S3a,Agreement after the targeted quotation check,6,Concern,C6 Testing the claimed difference
+S3a,Agreement after the targeted quotation check,6,Sonnet corrected matches,23
+S3a,Agreement after the targeted quotation check,6,Qwen corrected matches,22
+S3a,Agreement after the targeted quotation check,6,n,24
+S3a,Agreement after the targeted quotation check,6,Original qualification retained,Both pass
+S3a,Agreement after the targeted quotation check,7,Concern,C7 Unmeasured capabilities
+S3a,Agreement after the targeted quotation check,7,Sonnet corrected matches,16
+S3a,Agreement after the targeted quotation check,7,Qwen corrected matches,20
+S3a,Agreement after the targeted quotation check,7,n,24
+S3a,Agreement after the targeted quotation check,7,Original qualification retained,Neither passes
+S3a,Agreement after the targeted quotation check,8,Concern,C8 Opportunities versus selection quality
+S3a,Agreement after the targeted quotation check,8,Sonnet corrected matches,22
+S3a,Agreement after the targeted quotation check,8,Qwen corrected matches,23
+S3a,Agreement after the targeted quotation check,8,n,24
+S3a,Agreement after the targeted quotation check,8,Original qualification retained,Both pass
+S4,Reader assessments after disclosure,1,Concern,C1
+S4,Reader assessments after disclosure,1,Yes,3
+S4,Reader assessments after disclosure,1,Qualified endorsement,1
+S4,Reader assessments after disclosure,1,No,1
+S4,Reader assessments after disclosure,1,Cannot judge,0
+S4,Reader assessments after disclosure,1,Total,5
+S4,Reader assessments after disclosure,2,Concern,C2
+S4,Reader assessments after disclosure,2,Yes,0
+S4,Reader assessments after disclosure,2,Qualified endorsement,2
+S4,Reader assessments after disclosure,2,No,3
+S4,Reader assessments after disclosure,2,Cannot judge,0
+S4,Reader assessments after disclosure,2,Total,5
+S4,Reader assessments after disclosure,3,Concern,C3
+S4,Reader assessments after disclosure,3,Yes,2
+S4,Reader assessments after disclosure,3,Qualified endorsement,1
+S4,Reader assessments after disclosure,3,No,2
+S4,Reader assessments after disclosure,3,Cannot judge,0
+S4,Reader assessments after disclosure,3,Total,5
+S4,Reader assessments after disclosure,4,Concern,C4
+S4,Reader assessments after disclosure,4,Yes,1
+S4,Reader assessments after disclosure,4,Qualified endorsement,4
+S4,Reader assessments after disclosure,4,No,0
+S4,Reader assessments after disclosure,4,Cannot judge,0
+S4,Reader assessments after disclosure,4,Total,5
+S4,Reader assessments after disclosure,5,Concern,C5
+S4,Reader assessments after disclosure,5,Yes,2
+S4,Reader assessments after disclosure,5,Qualified endorsement,3
+S4,Reader assessments after disclosure,5,No,0
+S4,Reader assessments after disclosure,5,Cannot judge,0
+S4,Reader assessments after disclosure,5,Total,5
+S4,Reader assessments after disclosure,6,Concern,C6
+S4,Reader assessments after disclosure,6,Yes,4
+S4,Reader assessments after disclosure,6,Qualified endorsement,0
+S4,Reader assessments after disclosure,6,No,1
+S4,Reader assessments after disclosure,6,Cannot judge,0
+S4,Reader assessments after disclosure,6,Total,5
+S4,Reader assessments after disclosure,7,Concern,C7
+S4,Reader assessments after disclosure,7,Yes,2
+S4,Reader assessments after disclosure,7,Qualified endorsement,1
+S4,Reader assessments after disclosure,7,No,1
+S4,Reader assessments after disclosure,7,Cannot judge,1
+S4,Reader assessments after disclosure,7,Total,5
+S4,Reader assessments after disclosure,8,Concern,C8
+S4,Reader assessments after disclosure,8,Yes,2
+S4,Reader assessments after disclosure,8,Qualified endorsement,1
+S4,Reader assessments after disclosure,8,No,1
+S4,Reader assessments after disclosure,8,Cannot judge,1
+S4,Reader assessments after disclosure,8,Total,5
+S5,Matched criticisms (%),1,Concern,C1 Status gap narrowing
+S5,Matched criticisms (%),1,Full planted,23.3–28.3
+S5,Matched criticisms (%),1,Full baseline,0.0–0.4
+S5,Matched criticisms (%),1,Full or partial planted,38.8–40.4
+S5,Matched criticisms (%),1,Full or partial baseline,0.8–3.8
+S5,Matched criticisms (%),2,Concern,C2 Changes in firms’ own status
+S5,Matched criticisms (%),2,Full planted,14.2–15.4
+S5,Matched criticisms (%),2,Full baseline,0.0
+S5,Matched criticisms (%),2,Full or partial planted,15.4–15.8
+S5,Matched criticisms (%),2,Full or partial baseline,0.0
+S5,Matched criticisms (%),3,Concern,C3‡ Changing rules for everyone
+S5,Matched criticisms (%),3,Full planted,17.5–18.8
+S5,Matched criticisms (%),3,Full baseline,12.9–15.4
+S5,Matched criticisms (%),3,Full or partial planted,23.8–25.0
+S5,Matched criticisms (%),3,Full or partial baseline,22.9–27.9
+S5,Matched criticisms (%),4,Concern,C4 What the supplementary check measures
+S5,Matched criticisms (%),4,Full planted,38.3
+S5,Matched criticisms (%),4,Full baseline,0.0
+S5,Matched criticisms (%),4,Full or partial planted,38.3–38.8
+S5,Matched criticisms (%),4,Full or partial baseline,0.4–1.7
+S5,Matched criticisms (%),5,Concern,C5† Related observations treated as independent
+S5,Matched criticisms (%),5,Full planted,56.7–58.8
+S5,Matched criticisms (%),5,Full baseline,0.0
+S5,Matched criticisms (%),5,Full or partial planted,62.1–62.5
+S5,Matched criticisms (%),5,Full or partial baseline,1.3–2.1
+S5,Matched criticisms (%),6,Concern,C6 Testing the claimed difference
+S5,Matched criticisms (%),6,Full planted,82.9–84.2
+S5,Matched criticisms (%),6,Full baseline,0.0–0.4
+S5,Matched criticisms (%),6,Full or partial planted,99.6–100.0
+S5,Matched criticisms (%),6,Full or partial baseline,84.6–93.8
+S5,Matched criticisms (%),7,Concern,C7† Unmeasured capabilities
+S5,Matched criticisms (%),7,Full planted,81.3–81.7
+S5,Matched criticisms (%),7,Full baseline,13.3–38.8
+S5,Matched criticisms (%),7,Full or partial planted,85.0–87.1
+S5,Matched criticisms (%),7,Full or partial baseline,88.8–90.8
+S5,Matched criticisms (%),8,Concern,C8 Opportunities versus selection quality
+S5,Matched criticisms (%),8,Full planted,58.3–64.6
+S5,Matched criticisms (%),8,Full baseline,0.0
+S5,Matched criticisms (%),8,Full or partial planted,81.3
+S5,Matched criticisms (%),8,Full or partial baseline,0.8–2.9
+S5,Matched criticisms (%),9,Concern,All eight
+S5,Matched criticisms (%),9,Full planted,46.6–48.8
+S5,Matched criticisms (%),9,Full baseline,3.3–6.9
+S5,Matched criticisms (%),9,Full or partial planted,55.5–56.4
+S5,Matched criticisms (%),9,Full or partial baseline,24.9–27.9
+S6,Sensitivity to concern inclusion and scorer choice (%),1,Analysis,All eight; original classifications
+S6,Sensitivity to concern inclusion and scorer choice (%),1,Count per version,1920
+S6,Sensitivity to concern inclusion and scorer choice (%),1,Full planted,46.5–48.8
+S6,Sensitivity to concern inclusion and scorer choice (%),1,Full baseline,3.2–6.9
+S6,Sensitivity to concern inclusion and scorer choice (%),1,Full or partial planted,55.5–56.4
+S6,Sensitivity to concern inclusion and scorer choice (%),1,Full or partial baseline,25.0–27.9
+S6,Sensitivity to concern inclusion and scorer choice (%),2,Analysis,All eight; after quotation check
+S6,Sensitivity to concern inclusion and scorer choice (%),2,Count per version,1920
+S6,Sensitivity to concern inclusion and scorer choice (%),2,Full planted,46.6–48.8
+S6,Sensitivity to concern inclusion and scorer choice (%),2,Full baseline,3.3–6.9
+S6,Sensitivity to concern inclusion and scorer choice (%),2,Full or partial planted,55.5–56.4
+S6,Sensitivity to concern inclusion and scorer choice (%),2,Full or partial baseline,24.9–27.9
+S6,Sensitivity to concern inclusion and scorer choice (%),3,Analysis,Exclude C5/C7; Qwen-only C3
+S6,Sensitivity to concern inclusion and scorer choice (%),3,Count per version,1440
+S6,Sensitivity to concern inclusion and scorer choice (%),3,Full planted,39.1–41.4
+S6,Sensitivity to concern inclusion and scorer choice (%),3,Full baseline,2.4–2.6
+S6,Sensitivity to concern inclusion and scorer choice (%),3,Full or partial planted,49.5–50.0
+S6,Sensitivity to concern inclusion and scorer choice (%),3,Full or partial baseline,18.5–21.1
+S6,Sensitivity to concern inclusion and scorer choice (%),4,Analysis,Also exclude C2; post hoc
+S6,Sensitivity to concern inclusion and scorer choice (%),4,Count per version,1200
+S6,Sensitivity to concern inclusion and scorer choice (%),4,Full planted,44.1–46.6
+S6,Sensitivity to concern inclusion and scorer choice (%),4,Full baseline,2.9–3.1
+S6,Sensitivity to concern inclusion and scorer choice (%),4,Full or partial planted,56.3–56.8
+S6,Sensitivity to concern inclusion and scorer choice (%),4,Full or partial baseline,22.3–25.3
+S7,Matches per review and repeated-run coverage,1,Model,Claude Fable 5.1
+S7,Matches per review and repeated-run coverage,1,Full planted /8,4.8–5.0
+S7,Matches per review and repeated-run coverage,1,Full baseline /8,0.3–0.7
+S7,Matches per review and repeated-run coverage,1,Full or partial planted /8,5.3
+S7,Matches per review and repeated-run coverage,1,Ever fully detected /8,7
+S7,Matches per review and repeated-run coverage,2,Model,Claude Haiku 5.5
+S7,Matches per review and repeated-run coverage,2,Full planted /8,3.8–4.1
+S7,Matches per review and repeated-run coverage,2,Full baseline /8,0.5–0.7
+S7,Matches per review and repeated-run coverage,2,Full or partial planted /8,4.6–4.7
+S7,Matches per review and repeated-run coverage,2,Ever fully detected /8,7
+S7,Matches per review and repeated-run coverage,3,Model,GPT-6 Astra
+S7,Matches per review and repeated-run coverage,3,Full planted /8,7.1–7.4
+S7,Matches per review and repeated-run coverage,3,Full baseline /8,0.5–0.7
+S7,Matches per review and repeated-run coverage,3,Full or partial planted /8,7.4
+S7,Matches per review and repeated-run coverage,3,Ever fully detected /8,8
+S7,Matches per review and repeated-run coverage,4,Model,GPT-6 Luna
+S7,Matches per review and repeated-run coverage,4,Full planted /8,3.8–4.0
+S7,Matches per review and repeated-run coverage,4,Full baseline /8,0.3–0.9
+S7,Matches per review and repeated-run coverage,4,Full or partial planted /8,4.7–4.8
+S7,Matches per review and repeated-run coverage,4,Ever fully detected /8,7
+S7,Matches per review and repeated-run coverage,5,Model,Gemini 4 Argon
+S7,Matches per review and repeated-run coverage,5,Full planted /8,4.5–4.6
+S7,Matches per review and repeated-run coverage,5,Full baseline /8,0.0
+S7,Matches per review and repeated-run coverage,5,Full or partial planted /8,4.8
+S7,Matches per review and repeated-run coverage,5,Ever fully detected /8,5
+S7,Matches per review and repeated-run coverage,6,Model,Gemini 3.5 Flash-Lite
+S7,Matches per review and repeated-run coverage,6,Full planted /8,0.1
+S7,Matches per review and repeated-run coverage,6,Full baseline /8,0.0
+S7,Matches per review and repeated-run coverage,6,Full or partial planted /8,1.2–1.4
+S7,Matches per review and repeated-run coverage,6,Ever fully detected /8,2
+S7,Matches per review and repeated-run coverage,7,Model,DeepSeek V4.1 Flash
+S7,Matches per review and repeated-run coverage,7,Full planted /8,1.7–1.9
+S7,Matches per review and repeated-run coverage,7,Full baseline /8,0.2–0.8
+S7,Matches per review and repeated-run coverage,7,Full or partial planted /8,3.0–3.1
+S7,Matches per review and repeated-run coverage,7,Ever fully detected /8,5
+S7,Matches per review and repeated-run coverage,8,Model,Kimi K3
+S7,Matches per review and repeated-run coverage,8,Full planted /8,3.9–4.1
+S7,Matches per review and repeated-run coverage,8,Full baseline /8,0.2–0.6
+S7,Matches per review and repeated-run coverage,8,Full or partial planted /8,4.5
+S7,Matches per review and repeated-run coverage,8,Ever fully detected /8,7
+S8,Prompt comparisons (%),1,Prompt,Bare
+S8,Prompt comparisons (%),1,Full planted,45.9–48.3
+S8,Prompt comparisons (%),1,Full baseline,3.1–6.6
+S8,Prompt comparisons (%),1,Full or partial planted,54.2–54.4
+S8,Prompt comparisons (%),1,Full or partial baseline,24.1–27.0
+S8,Prompt comparisons (%),2,Prompt,Reader instructions
+S8,Prompt comparisons (%),2,Full planted,45.5–48.3
+S8,Prompt comparisons (%),2,Full baseline,2.2–5.6
+S8,Prompt comparisons (%),2,Full or partial planted,54.8–55.9
+S8,Prompt comparisons (%),2,Full or partial baseline,24.8–27.3
+S8,Prompt comparisons (%),3,Prompt,Reader + criteria
+S8,Prompt comparisons (%),3,Full planted,48.3–49.7
+S8,Prompt comparisons (%),3,Full baseline,4.5–8.4
+S8,Prompt comparisons (%),3,Full or partial planted,57.5–58.8
+S8,Prompt comparisons (%),3,Full or partial baseline,25.9–29.2
+S9,Diagnostic matches per review (out of eight),1,Condition,"Astra, low"
+S9,Diagnostic matches per review (out of eight),1,Full planted,7.9–8.0
+S9,Diagnostic matches per review (out of eight),1,Full baseline,0.9–1.3
+S9,Diagnostic matches per review (out of eight),1,Full or partial planted,7.9–8.0
+S9,Diagnostic matches per review (out of eight),1,Full or partial baseline,3.0–3.1
+S9,Diagnostic matches per review (out of eight),2,Condition,"Astra, default"
+S9,Diagnostic matches per review (out of eight),2,Full planted,7.6–7.7
+S9,Diagnostic matches per review (out of eight),2,Full baseline,0.8–0.9
+S9,Diagnostic matches per review (out of eight),2,Full or partial planted,7.8
+S9,Diagnostic matches per review (out of eight),2,Full or partial baseline,2.8
+S9,Diagnostic matches per review (out of eight),3,Condition,"Astra, max"
+S9,Diagnostic matches per review (out of eight),3,Full planted,7.5–7.6
+S9,Diagnostic matches per review (out of eight),3,Full baseline,0.8–1.5
+S9,Diagnostic matches per review (out of eight),3,Full or partial planted,7.8
+S9,Diagnostic matches per review (out of eight),3,Full or partial baseline,2.9–3.2
+S9,Diagnostic matches per review (out of eight),4,Condition,"Argon, PDF"
+S9,Diagnostic matches per review (out of eight),4,Full planted,4.5–4.7
+S9,Diagnostic matches per review (out of eight),4,Full baseline,0.0
+S9,Diagnostic matches per review (out of eight),4,Full or partial planted,4.7
+S9,Diagnostic matches per review (out of eight),4,Full or partial baseline,1.7–1.9
+S9,Diagnostic matches per review (out of eight),5,Condition,"Argon, Text + figures"
+S9,Diagnostic matches per review (out of eight),5,Full planted,5.0
+S9,Diagnostic matches per review (out of eight),5,Full baseline,0.0
+S9,Diagnostic matches per review (out of eight),5,Full or partial planted,5.1
+S9,Diagnostic matches per review (out of eight),5,Full or partial baseline,1.4–1.9
+S10,"Preference for the review with more matched criticisms, % (eligible pairs)",1,Judge and analysis,"GPT-5.5, all"
+S10,"Preference for the review with more matched criticisms, % (eligible pairs)",1,"Full, planted",81.6–83.0 (94–98)
+S10,"Preference for the review with more matched criticisms, % (eligible pairs)",1,"Full or partial, planted",79.6–80.4 (92–93)
+S10,"Preference for the review with more matched criticisms, % (eligible pairs)",1,"Full, baseline",63.6–70.7 (41–66)
+S10,"Preference for the review with more matched criticisms, % (eligible pairs)",2,Judge and analysis,"GPT-5.5, without OpenAI"
+S10,"Preference for the review with more matched criticisms, % (eligible pairs)",2,"Full, planted",88.5–88.9 (52–54)
+S10,"Preference for the review with more matched criticisms, % (eligible pairs)",2,"Full or partial, planted",86.8–87.0 (53–54)
+S10,"Preference for the review with more matched criticisms, % (eligible pairs)",2,"Full, baseline",69.4–80.0 (20–36)
+S10,"Preference for the review with more matched criticisms, % (eligible pairs)",3,Judge and analysis,"Qwen3.8, all"
+S10,"Preference for the review with more matched criticisms, % (eligible pairs)",3,"Full, planted",72.6–73.9 (92–95)
+S10,"Preference for the review with more matched criticisms, % (eligible pairs)",3,"Full or partial, planted",69.7–70.1 (87–89)
+S10,"Preference for the review with more matched criticisms, % (eligible pairs)",3,"Full, baseline",62.5–64.1 (39–64)
+S10,"Preference for the review with more matched criticisms, % (eligible pairs)",4,Judge and analysis,"Qwen3.8, without OpenAI"
+S10,"Preference for the review with more matched criticisms, % (eligible pairs)",4,"Full, planted",86.5–86.8 (52–53)
+S10,"Preference for the review with more matched criticisms, % (eligible pairs)",4,"Full or partial, planted",84.0–84.3 (50–51)
+S10,"Preference for the review with more matched criticisms, % (eligible pairs)",4,"Full, baseline",64.9–78.9 (19–37)
+S10,"Preference for the review with more matched criticisms, % (eligible pairs)",5,Judge and analysis,"Qwen3.8, Sonnet codes"
+S10,"Preference for the review with more matched criticisms, % (eligible pairs)",5,"Full, planted",73.9 (92)
+S10,"Preference for the review with more matched criticisms, % (eligible pairs)",5,"Full or partial, planted",68.5 (89)
+S10,"Preference for the review with more matched criticisms, % (eligible pairs)",5,"Full, baseline",62.5 (40)
+S11,Publication recommendations (review counts),1,Prompt,Reader instructions
+S11,Publication recommendations (review counts),1,Version,planted
+S11,Publication recommendations (review counts),1,Reject,11
+S11,Publication recommendations (review counts),1,Major,62
+S11,Publication recommendations (review counts),1,Minor,7
+S11,Publication recommendations (review counts),1,Accept,0
+S11,Publication recommendations (review counts),1,None,0
+S11,Publication recommendations (review counts),1,n,80
+S11,Publication recommendations (review counts),2,Prompt,Reader instructions
+S11,Publication recommendations (review counts),2,Version,baseline
+S11,Publication recommendations (review counts),2,Reject,2
+S11,Publication recommendations (review counts),2,Major,71
+S11,Publication recommendations (review counts),2,Minor,7
+S11,Publication recommendations (review counts),2,Accept,0
+S11,Publication recommendations (review counts),2,None,0
+S11,Publication recommendations (review counts),2,n,80
+S11,Publication recommendations (review counts),3,Prompt,Reader + criteria
+S11,Publication recommendations (review counts),3,Version,planted
+S11,Publication recommendations (review counts),3,Reject,13
+S11,Publication recommendations (review counts),3,Major,62
+S11,Publication recommendations (review counts),3,Minor,5
+S11,Publication recommendations (review counts),3,Accept,0
+S11,Publication recommendations (review counts),3,None,0
+S11,Publication recommendations (review counts),3,n,80
+S11,Publication recommendations (review counts),4,Prompt,Reader + criteria
+S11,Publication recommendations (review counts),4,Version,baseline
+S11,Publication recommendations (review counts),4,Reject,10
+S11,Publication recommendations (review counts),4,Major,53
+S11,Publication recommendations (review counts),4,Minor,16
+S11,Publication recommendations (review counts),4,Accept,1
+S11,Publication recommendations (review counts),4,None,0
+S11,Publication recommendations (review counts),4,n,80
+S11,Publication recommendations (review counts),5,Prompt,Both requested prompts
+S11,Publication recommendations (review counts),5,Version,planted
+S11,Publication recommendations (review counts),5,Reject,24
+S11,Publication recommendations (review counts),5,Major,124
+S11,Publication recommendations (review counts),5,Minor,12
+S11,Publication recommendations (review counts),5,Accept,0
+S11,Publication recommendations (review counts),5,None,0
+S11,Publication recommendations (review counts),5,n,160
+S11,Publication recommendations (review counts),6,Prompt,Both requested prompts
+S11,Publication recommendations (review counts),6,Version,baseline
+S11,Publication recommendations (review counts),6,Reject,12
+S11,Publication recommendations (review counts),6,Major,124
+S11,Publication recommendations (review counts),6,Minor,23
+S11,Publication recommendations (review counts),6,Accept,1
+S11,Publication recommendations (review counts),6,None,0
+S11,Publication recommendations (review counts),6,n,160
+S11,Publication recommendations (review counts),7,Prompt,Bare
+S11,Publication recommendations (review counts),7,Version,planted
+S11,Publication recommendations (review counts),7,Reject,0
+S11,Publication recommendations (review counts),7,Major,58
+S11,Publication recommendations (review counts),7,Minor,0
+S11,Publication recommendations (review counts),7,Accept,0
+S11,Publication recommendations (review counts),7,None,22
+S11,Publication recommendations (review counts),7,n,80
+S11,Publication recommendations (review counts),8,Prompt,Bare
+S11,Publication recommendations (review counts),8,Version,baseline
+S11,Publication recommendations (review counts),8,Reject,0
+S11,Publication recommendations (review counts),8,Major,55
+S11,Publication recommendations (review counts),8,Minor,0
+S11,Publication recommendations (review counts),8,Accept,1
+S11,Publication recommendations (review counts),8,None,24
+S11,Publication recommendations (review counts),8,n,80
+Corrections,Dated quotation-check overlay,1,Review,B312
+Corrections,Dated quotation-check overlay,1,Concern,C3
+Corrections,Dated quotation-check overlay,1,Scorer,qwen
+Corrections,Dated quotation-check overlay,1,Original code,P
+Corrections,Dated quotation-check overlay,1,Corrected code,F
+Corrections,Dated quotation-check overlay,1,Purpose,effort
+Corrections,Dated quotation-check overlay,1,Version,planted
+Corrections,Dated quotation-check overlay,2,Review,B492
+Corrections,Dated quotation-check overlay,2,Concern,C7
+Corrections,Dated quotation-check overlay,2,Scorer,sonnet
+Corrections,Dated quotation-check overlay,2,Original code,P
+Corrections,Dated quotation-check overlay,2,Corrected code,–
+Corrections,Dated quotation-check overlay,2,Purpose,main
+Corrections,Dated quotation-check overlay,2,Version,baseline
+Corrections,Dated quotation-check overlay,3,Review,B366
+Corrections,Dated quotation-check overlay,3,Concern,C8
+Corrections,Dated quotation-check overlay,3,Scorer,sonnet
+Corrections,Dated quotation-check overlay,3,Original code,P
+Corrections,Dated quotation-check overlay,3,Corrected code,F
+Corrections,Dated quotation-check overlay,3,Purpose,main
+Corrections,Dated quotation-check overlay,3,Version,planted
+Corrections,Dated quotation-check overlay,4,Review,B441
+Corrections,Dated quotation-check overlay,4,Concern,C7
+Corrections,Dated quotation-check overlay,4,Scorer,sonnet
+Corrections,Dated quotation-check overlay,4,Original code,P
+Corrections,Dated quotation-check overlay,4,Corrected code,F
+Corrections,Dated quotation-check overlay,4,Purpose,main
+Corrections,Dated quotation-check overlay,4,Version,baseline
+Corrections,Dated quotation-check overlay,5,Review,B312
+Corrections,Dated quotation-check overlay,5,Concern,C3
+Corrections,Dated quotation-check overlay,5,Scorer,sonnet
+Corrections,Dated quotation-check overlay,5,Original code,P
+Corrections,Dated quotation-check overlay,5,Corrected code,F
+Corrections,Dated quotation-check overlay,5,Purpose,effort
+Corrections,Dated quotation-check overlay,5,Version,planted
+Corrections,Dated quotation-check overlay,6,Review,B492
+Corrections,Dated quotation-check overlay,6,Concern,C7
+Corrections,Dated quotation-check overlay,6,Scorer,qwen
+Corrections,Dated quotation-check overlay,6,Original code,P
+Corrections,Dated quotation-check overlay,6,Corrected code,–
+Corrections,Dated quotation-check overlay,6,Purpose,main
+Corrections,Dated quotation-check overlay,6,Version,baseline

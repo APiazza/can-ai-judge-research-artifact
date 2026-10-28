@@ -1,0 +1,56 @@
+[
+  {
+    "audit_id": "B312|qwen3p8-2p4t-a95b|C3",
+    "blind_id": "B312",
+    "coder": "qwen3p8-2p4t-a95b",
+    "concern": "C3",
+    "old_code": "P",
+    "recommended_code": "F",
+    "rationale": "The full review asks for conditions choosing criterion reconsideration rather than a different application of existing criteria, then distinguishes ability from motivation. This identifies the missing explanation for choosing shared rule revision, sufficient for F under the unchanged rule even without naming leniency."
+  },
+  {
+    "audit_id": "B492|claude-sonnet-5-5|C7",
+    "blind_id": "B492",
+    "coder": "claude-sonnet-5-5",
+    "concern": "C7",
+    "old_code": "P",
+    "recommended_code": "–",
+    "rationale": "The full review praises the manuscript's candor and sensitivity bounds. The C7 passage repeats the disclosed vulnerability and requests an explanation of why the benchmark is strong; it neither criticizes the H3 omitted-capability claim nor requests a missing caveat. The frozen first question is not satisfied, so P should become no match."
+  },
+  {
+    "audit_id": "B366|claude-sonnet-5-5|C8",
+    "blind_id": "B366",
+    "coder": "claude-sonnet-5-5",
+    "concern": "C8",
+    "old_code": "P",
+    "recommended_code": "F",
+    "rationale": "Beyond missing performance measures, the full review contrasts accommodation/favoritism with the inference of better procurement and rejects the preference for internal approval. The original quote omitted this distinct C8 reason."
+  },
+  {
+    "audit_id": "B441|claude-sonnet-5-5|C7",
+    "blind_id": "B441",
+    "coder": "claude-sonnet-5-5",
+    "concern": "C7",
+    "old_code": "P",
+    "recommended_code": "F",
+    "rationale": "The review explicitly sets the capability benchmark's elimination of H3 against the abstract and discussion's unqualified finding, then asks to temper the abstract. This identifies overstatement in the conclusion using sensitivity evidence and meets C7 F in substance without needing the words 'rules out'."
+  },
+  {
+    "audit_id": "B312|claude-sonnet-5-5|C3",
+    "blind_id": "B312",
+    "coder": "claude-sonnet-5-5",
+    "concern": "C3",
+    "old_code": "P",
+    "recommended_code": "F",
+    "rationale": "The whole review asks for conditions choosing criterion reconsideration rather than a different application of existing criteria and distinguishes ability from motivation. This meets frozen C3 F; naming leniency is expressly unnecessary."
+  },
+  {
+    "audit_id": "B492|qwen3p8-2p4t-a95b|C7",
+    "blind_id": "B492",
+    "coder": "qwen3p8-2p4t-a95b",
+    "concern": "C7",
+    "old_code": "P",
+    "recommended_code": "–",
+    "rationale": "The complete review praises transparent acknowledgment of H3 sensitivity and asks for explanation of why the capability benchmark is strong. It neither challenges the omitted-capability conclusion nor raises a missing caveat for H3. Repeating or praising the manuscript's statement fails the frozen first question; no match is required."
+  }
+]

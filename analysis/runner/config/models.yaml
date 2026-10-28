@@ -1,0 +1,178 @@
+# Model registry. Each key is a model *configuration*: the same model on a different route or input
+# format is a separate key. Never change an entry while a batch that uses it is open (resume and rerun refuse a
+# changed entry); each batch.json keeps the full configuration it ran with.
+#
+# route:           anthropic_api | gemini_api | openai_api | fireworks_serverless
+# input_format:    pdf          manuscript.pdf
+#                  md_figures   manuscript.md with each figure image placed at its position in the text
+# construction:    whether the model's family helped build the manuscript (Claude, Codex)
+# effort:          sent in every request when given. For providers that do not report effort (Anthropic,
+#                  Google) it is the documented default, so the record shows a value and a change of
+#                  default during the runs has no effect; the effort-comparison configurations set
+#                  low and max. Without it the provider default applies (OpenAI, DeepSeek report theirs;
+#                  Kimi's is not documented).
+# effort_default:  the provider's default effort or thinking level and where it comes from.
+
+reviewers:
+  claude-fable-5-1:
+    label: Claude Fable 5.1
+    provider: anthropic
+    route: anthropic_api
+    model_id: claude-fable-5-1
+    input_format: pdf
+    construction: used in construction
+    effort: high
+    effort_default: high (Anthropic API documentation; not reported in the response); sent explicitly
+    max_output_tokens: 128000
+
+  claude-haiku-5-5:
+    label: Claude Haiku 5.5
+    provider: anthropic
+    route: anthropic_api
+    model_id: claude-haiku-5-5
+    input_format: pdf
+    construction: used in construction
+    effort: medium
+    effort_default: medium (Anthropic API documentation; not reported in the response); sent explicitly
+    max_output_tokens: 128000
+
+  gpt-6-astra:
+    label: GPT-6 Astra
+    provider: openai
+    route: openai_api
+    model_id: gpt-6-astra
+    input_format: pdf
+    construction: used in construction
+    effort_default: not documented; reported in each response (reasoning.effort)
+    max_output_tokens: 128000
+
+  gpt-6-luna:
+    label: GPT-6 Luna
+    provider: openai
+    route: openai_api
+    model_id: gpt-6-luna
+    input_format: pdf
+    construction: used in construction
+    effort_default: medium (OpenAI documentation); also reported in each response (reasoning.effort)
+    max_output_tokens: 128000
+
+  # Effort comparison (Prompt 3, both versions): the same model with effort set explicitly.
+  gpt-6-astra-effort-low:
+    label: GPT-6 Astra (effort low)
+    provider: openai
+    route: openai_api
+    model_id: gpt-6-astra
+    input_format: pdf
+    construction: used in construction
+    effort: low
+    effort_default: not applicable (effort set to low)
+    max_output_tokens: 128000
+
+  gpt-6-astra-effort-max:
+    label: GPT-6 Astra (effort max)
+    provider: openai
+    route: openai_api
+    model_id: gpt-6-astra
+    input_format: pdf
+    construction: used in construction
+    effort: max
+    effort_default: not applicable (effort set to max)
+    max_output_tokens: 128000
+
+  gemini-4-argon:
+    label: Gemini 4 Argon
+    provider: google
+    route: gemini_api
+    model_id: gemini-4-argon
+    input_format: pdf
+    construction: not used in construction
+    effort: medium
+    effort_default: thinking level medium (Google model documentation; not reported in the response); sent explicitly
+    max_output_tokens: 32768     # model limit (Gemini models API, 15 Oct 2026)
+
+  # Format check: the same model on the text-plus-figures input.
+  gemini-4-argon-mdfig:
+    label: Gemini 4 Argon (text + figures)
+    provider: google
+    route: gemini_api
+    model_id: gemini-4-argon
+    input_format: md_figures
+    construction: not used in construction
+    effort: medium
+    effort_default: thinking level medium (Google model documentation; not reported in the response); sent explicitly
+    max_output_tokens: 32768     # model limit (Gemini models API, 15 Oct 2026)
+
+  gemini-3-5-flash-lite:
+    label: Gemini 3.5 Flash-Lite
+    provider: google
+    route: gemini_api
+    model_id: gemini-3.5-flash-lite
+    input_format: pdf
+    construction: not used in construction
+    effort: minimal
+    effort_default: thinking level minimal (Google model documentation; not reported in the response); sent explicitly
+    max_output_tokens: 65536
+
+  # DeepSeek V4 Pro (deepseek-v4-pro, deepseek-v4-pro-0813) is on-demand only on Fireworks (checked 15 Oct
+  # 2026), so V4.1 Flash replaces it (decided 15 Oct 2026). Open weights, MIT licence.
+  deepseek-v4p1-flash:
+    label: DeepSeek V4.1 Flash
+    provider: fireworks
+    route: fireworks_serverless
+    model_id: accounts/fireworks/models/deepseek-v4p1-flash
+    input_format: md_figures
+    construction: not used in construction
+    serving_precision: not stated by Fireworks; released weights BF16 and FP8 E4M3 (Hugging Face model card, checked 2026-10-15)
+    effort_default: unknown (not exposed by Fireworks)
+    max_output_tokens: 65536
+
+  kimi-k3:
+    label: Kimi K3
+    provider: fireworks
+    route: fireworks_serverless
+    model_id: accounts/fireworks/models/kimi-k3
+    input_format: md_figures
+    construction: not used in construction
+    serving_precision: MXFP4 weights, MXFP8 activations (Fireworks model page, checked 2026-10-15)
+    effort_default: provider default, not documented
+    max_output_tokens: 65536
+
+coders:
+  claude-sonnet-5-5:
+    label: Claude Sonnet 5.5
+    provider: anthropic
+    route: anthropic_api
+    model_id: claude-sonnet-5-5
+    effort: high
+    effort_default: high (Anthropic API documentation; not reported in the response); sent explicitly
+    max_output_tokens: 64000
+
+  qwen3p8-2p4t-a95b:
+    label: Qwen3.8-2.4T-A95B
+    provider: fireworks
+    route: fireworks_serverless
+    model_id: accounts/fireworks/models/qwen3p8-2p4t-a95b
+    serving_precision: not stated by Fireworks; provider metadata recorded in each coding batch
+    effort_default: unknown (not exposed by Fireworks)
+    max_output_tokens: 32000
+
+# Judges (exploratory judge analysis, plan of 24 Oct 2026). GPT-5.5 at its maximum reasoning effort, as in King and
+# Worthington (2026); Qwen3.8 from a provider whose models were not reviewed, at the provider default as in coding.
+judges:
+  gpt-5-5:
+    label: GPT-5.5
+    provider: openai
+    route: openai_api
+    model_id: gpt-5.5
+    effort: xhigh
+    effort_default: medium (OpenAI model page, checked 2026-10-24); xhigh is the maximum and is sent explicitly
+    max_output_tokens: 128000
+
+  qwen3p8-2p4t-a95b:
+    label: Qwen3.8-2.4T-A95B
+    provider: fireworks
+    route: fireworks_serverless
+    model_id: accounts/fireworks/models/qwen3p8-2p4t-a95b
+    serving_precision: not stated by Fireworks; provider metadata recorded in each judge batch
+    effort_default: unknown (not exposed by Fireworks)
+    max_output_tokens: 32000

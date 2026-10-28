@@ -1,0 +1,17 @@
+# Coding of every review from the main, effort and format runs by the two LLM coders (run plan, section 7;
+# coding sheet v1.0, frozen 23 Oct 2026). The seed fixes the blinding order and the human sample; it is set here
+# before any review is coded.
+plan_id: coding_v1
+purpose: coding
+template: code_v1
+coders: [claude-sonnet-5-5, qwen3p8-2p4t-a95b]
+review_batches:
+  - main_v1-20261018T210504Z
+  - effort_v1-20261018T221245Z
+  - format_v1-20261018T215347Z
+coding_sheet:
+  version: "v1.0 (frozen 2026-10-23)"
+  sha256: "1fb2c0ca110c6dee0d7fa2209d4cff54a2e7683cfb78accc62dc72ed178dcc2f"        # coding_sheet_v1.0_frozen.md, the text sent
+  docx_sha256: "c67c0e4e6a9aac5b1e405f7d5b264d28fcef450c7f1f9f12ca40bc24143b21a2"   # STATUS-P01-coding-sheet-v1.0-frozen.docx in corpus/keys
+seed: 20261023
+workers_per_coder: 3

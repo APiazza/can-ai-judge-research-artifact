@@ -1,0 +1,14 @@
+# Exploratory judge analysis (the principal investigator's plan of 24 Oct 2026, project workspace harness/pilot_run_plan/
+# preference_vs_detection_plan_2026-10-24.md, with the details settled in the worklog of 24 Oct): a judge chooses the
+# more helpful of two main reviews. Pairs are drawn within version x prompt, two different models per pair, every main
+# review in one pair (240 pairs); each pair is judged in both orders. AI-against-reader pairs are not in this plan.
+plan_id: judge_v1
+purpose: judge (exploratory)
+source: "King and Worthington (2026), Supplementary Appendix D(b); gking.harvard.edu/files/peerless-supp.pdf"
+blinding_plan: coding_v1
+review_purpose: main
+system_template: kw_pairwise_reviews_only_v1
+user_template: kw_reviews_user_v1
+judges: [gpt-5-5, qwen3p8-2p4t-a95b]
+seed: 20261024
+workers_per_judge: 6

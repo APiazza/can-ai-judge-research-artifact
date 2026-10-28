@@ -1,0 +1,51 @@
+# --- secrets: never commit these ---
+.env
+.env.*
+.Renviron
+*.key
+*_secret*
+credentials*
+api_keys*
+
+# --- human reviewer data: identifiable, never public ---
+reviews/raw/
+reviews/*identified*
+*_participants*
+
+# --- model outputs and run artifacts ---
+results/raw/
+results/**/*.jsonl
+results/**/*.parquet
+cache/
+*.log
+
+# --- R ---
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+renv/library/
+renv/staging/
+
+# --- Python (if any tooling creeps in) ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# --- local paths, inputs and run data: never in the repository ---
+config/paths.local.yaml
+corpus/papers/
+corpus/keys/
+runs/
+dry_runs/
+.pytest_cache/

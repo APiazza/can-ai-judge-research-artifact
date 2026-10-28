@@ -1,0 +1,759 @@
+{
+  "status": "Recorded configuration; original API-call runner source unavailable in this package",
+  "batches": [
+    {
+      "batch_id": "main_v1-20261018T210504Z",
+      "plan_id": "main_v1",
+      "purpose": "main",
+      "plan_sha256": "b534313b7a746611e1488ca6f1fa34a092e4a547f7f77867c9ad99d51e1abdff",
+      "created_utc": "2026-10-18T21:05:04.097Z",
+      "harness_version": "0.1.0",
+      "sdk_versions": {
+        "anthropic": "1.14.0",
+        "openai": "3.31.0",
+        "google-genai": "2.31.0",
+        "pyyaml": "6.0.3"
+      },
+      "python": "3.11.9",
+      "templates": {
+        "p1_bare_v1": {
+          "file": "review/p1_bare_v1.txt",
+          "sha256": "4240cb08034879d138ba537b4229e7a58cc99bebbdf4d4bc4cc9fe25abebf95f"
+        },
+        "p2_reader_v1": {
+          "file": "review/p2_reader_v1.txt",
+          "sha256": "e69be9cc2400b721596f1da473fb578f8005e615b85ce30aa94b3b508081160a"
+        },
+        "p3_criteria_v1": {
+          "file": "review/p3_criteria_v1.txt",
+          "sha256": "ddaa589f558f18f36f767f40aeeece56c1b3cb8b82004888bb803f2ddde0c8e6"
+        }
+      },
+      "models_yaml_sha256": "d797951d6e71367078c3047a9322f82fbb7cac00ff134bca494328c3ac622250",
+      "isolation": {
+        "passed": true,
+        "inputs_folder_files_scanned": 21,
+        "key_sha256_checked": [
+          "4f69e4e71e24b6c8122f6c9c99e723714c0b02760863b709bff16ba51729d742",
+          "a49b3751c074fe4991621a1202f0fb9e94ae7269842efe39afec4f6b8bba5f22"
+        ],
+        "files_sent": 20,
+        "label_patterns_checked": "(?i)\\b(planted|answer[ _-]key|status-p01|pilot-v6|clean-matched|flawed version)\\b",
+        "key_path_available_to_review_runner": false
+      },
+      "models": {
+        "claude-fable-5-1": {
+          "label": "Claude Fable 5.1",
+          "provider": "anthropic",
+          "route": "anthropic_api",
+          "model_id": "claude-fable-5-1",
+          "input_format": "pdf",
+          "construction": "used in construction",
+          "effort": "high",
+          "effort_default": "high (Anthropic API documentation; not reported in the response); sent explicitly",
+          "max_output_tokens": 128000
+        },
+        "claude-haiku-5-5": {
+          "label": "Claude Haiku 5.5",
+          "provider": "anthropic",
+          "route": "anthropic_api",
+          "model_id": "claude-haiku-5-5",
+          "input_format": "pdf",
+          "construction": "used in construction",
+          "effort": "medium",
+          "effort_default": "medium (Anthropic API documentation; not reported in the response); sent explicitly",
+          "max_output_tokens": 128000
+        },
+        "deepseek-v4p1-flash": {
+          "label": "DeepSeek V4.1 Flash",
+          "provider": "fireworks",
+          "route": "fireworks_serverless",
+          "model_id": "accounts/fireworks/models/deepseek-v4p1-flash",
+          "input_format": "md_figures",
+          "construction": "not used in construction",
+          "serving_precision": "not stated by Fireworks; released weights BF16 and FP8 E4M3 (Hugging Face model card, checked 2026-10-15)",
+          "effort_default": "unknown (not exposed by Fireworks)",
+          "max_output_tokens": 65536
+        },
+        "gemini-3-5-flash-lite": {
+          "label": "Gemini 3.5 Flash-Lite",
+          "provider": "google",
+          "route": "gemini_api",
+          "model_id": "gemini-3.5-flash-lite",
+          "input_format": "pdf",
+          "construction": "not used in construction",
+          "effort": "minimal",
+          "effort_default": "thinking level minimal (Google model documentation; not reported in the response); sent explicitly",
+          "max_output_tokens": 65536
+        },
+        "gemini-4-argon": {
+          "label": "Gemini 4 Argon",
+          "provider": "google",
+          "route": "gemini_api",
+          "model_id": "gemini-4-argon",
+          "input_format": "pdf",
+          "construction": "not used in construction",
+          "effort": "medium",
+          "effort_default": "thinking level medium (Google model documentation; not reported in the response); sent explicitly",
+          "max_output_tokens": 32768
+        },
+        "gpt-6-astra": {
+          "label": "GPT-6 Astra",
+          "provider": "openai",
+          "route": "openai_api",
+          "model_id": "gpt-6-astra",
+          "input_format": "pdf",
+          "construction": "used in construction",
+          "effort_default": "not documented; reported in each response (reasoning.effort)",
+          "max_output_tokens": 128000
+        },
+        "gpt-6-luna": {
+          "label": "GPT-6 Luna",
+          "provider": "openai",
+          "route": "openai_api",
+          "model_id": "gpt-6-luna",
+          "input_format": "pdf",
+          "construction": "used in construction",
+          "effort_default": "medium (OpenAI documentation); also reported in each response (reasoning.effort)",
+          "max_output_tokens": 128000
+        },
+        "kimi-k3": {
+          "label": "Kimi K3",
+          "provider": "fireworks",
+          "route": "fireworks_serverless",
+          "model_id": "accounts/fireworks/models/kimi-k3",
+          "input_format": "md_figures",
+          "construction": "not used in construction",
+          "serving_precision": "MXFP4 weights, MXFP8 activations (Fireworks model page, checked 2026-10-15)",
+          "effort_default": "provider default, not documented",
+          "max_output_tokens": 65536
+        }
+      },
+      "batch_manifest_sha256": "4edaa613d8c2a61eaa78c542beb5eba176e8da094927d87c8a293fc5b6b7155f",
+      "recorded_calls": 483,
+      "status_counts": {
+        "ok": 480,
+        "error": 3
+      },
+      "call_utc_range": {
+        "time_sent_utc": {
+          "first": "2026-10-18T21:05:14.203Z",
+          "last": "2026-10-19T00:18:53.358Z"
+        },
+        "time_received_utc": {
+          "first": "2026-10-18T21:05:26.144Z",
+          "last": "2026-10-19T00:21:06.976Z"
+        }
+      },
+      "reported_effort_counts": {
+        "gemini-3-5-flash-lite": {
+          "unknown": 60
+        },
+        "gemini-4-argon": {
+          "unknown": 60
+        },
+        "gpt-6-astra": {
+          "medium": 60
+        },
+        "gpt-6-luna": {
+          "medium": 60
+        },
+        "claude-haiku-5-5": {
+          "unknown": 60
+        },
+        "deepseek-v4p1-flash": {
+          "high": 60
+        },
+        "claude-fable-5-1": {
+          "unknown": 60
+        },
+        "kimi-k3": {
+          "max": 60
+        }
+      },
+      "actual_call_settings": {
+        "gemini-3-5-flash-lite": [
+          {
+            "effort": "thinking_level MINIMAL",
+            "max_output_tokens": 65536,
+            "prompt_caching": "implicit (provider default)",
+            "sdk_retries": 0,
+            "seed": "not set",
+            "system_prompt": "none",
+            "temperature": "not set (provider default)",
+            "thinking": "thinking_level MINIMAL",
+            "tools": "none"
+          }
+        ],
+        "gemini-4-argon": [
+          {
+            "effort": "thinking_level MEDIUM",
+            "max_output_tokens": 32768,
+            "prompt_caching": "implicit (provider default)",
+            "sdk_retries": 0,
+            "seed": "not set",
+            "system_prompt": "none",
+            "temperature": "not set (provider default)",
+            "thinking": "thinking_level MEDIUM",
+            "tools": "none"
+          }
+        ],
+        "gpt-6-astra": [
+          {
+            "effort": "not set (provider default)",
+            "max_output_tokens": 128000,
+            "prompt_caching": "automatic, prompt_cache_key ms-28521e69aa68a51f (manuscript file hash)",
+            "sdk_retries": 0,
+            "seed": "not set",
+            "store": false,
+            "system_prompt": "none",
+            "temperature": "not set (provider default)",
+            "thinking": "not set (provider default)",
+            "tools": "none"
+          },
+          {
+            "effort": "not set (provider default)",
+            "max_output_tokens": 128000,
+            "prompt_caching": "automatic, prompt_cache_key ms-ff81361cf9d97388 (manuscript file hash)",
+            "sdk_retries": 0,
+            "seed": "not set",
+            "store": false,
+            "system_prompt": "none",
+            "temperature": "not set (provider default)",
+            "thinking": "not set (provider default)",
+            "tools": "none"
+          }
+        ],
+        "gpt-6-luna": [
+          {
+            "effort": "not set (provider default)",
+            "max_output_tokens": 128000,
+            "prompt_caching": "automatic, prompt_cache_key ms-28521e69aa68a51f (manuscript file hash)",
+            "sdk_retries": 0,
+            "seed": "not set",
+            "store": false,
+            "system_prompt": "none",
+            "temperature": "not set (provider default)",
+            "thinking": "not set (provider default)",
+            "tools": "none"
+          },
+          {
+            "effort": "not set (provider default)",
+            "max_output_tokens": 128000,
+            "prompt_caching": "automatic, prompt_cache_key ms-ff81361cf9d97388 (manuscript file hash)",
+            "sdk_retries": 0,
+            "seed": "not set",
+            "store": false,
+            "system_prompt": "none",
+            "temperature": "not set (provider default)",
+            "thinking": "not set (provider default)",
+            "tools": "none"
+          }
+        ],
+        "claude-haiku-5-5": [
+          {
+            "effort": "medium",
+            "max_tokens": 128000,
+            "prompt_caching": "ephemeral breakpoint after the manuscript",
+            "refusal_fallback": "none",
+            "sdk_retries": 0,
+            "seed": "not set",
+            "streaming": true,
+            "system_prompt": "none",
+            "temperature": "not set (provider default)",
+            "thinking": "not set (provider default)",
+            "tools": "none"
+          }
+        ],
+        "deepseek-v4p1-flash": [
+          {
+            "effort": "not set (provider default)",
+            "max_tokens": 65536,
+            "prompt_caching": "provider default",
+            "sdk_retries": 0,
+            "seed": "not set",
+            "serving_precision": "not stated by Fireworks; released weights BF16 and FP8 E4M3 (Hugging Face model card, checked 2026-10-15)",
+            "streaming": true,
+            "system_prompt": "none",
+            "temperature": "not set (provider default)",
+            "thinking": "not set (provider default)",
+            "tools": "none"
+          }
+        ],
+        "claude-fable-5-1": [
+          {
+            "effort": "high",
+            "max_tokens": 128000,
+            "prompt_caching": "ephemeral breakpoint after the manuscript",
+            "refusal_fallback": "none",
+            "sdk_retries": 0,
+            "seed": "not set",
+            "streaming": true,
+            "system_prompt": "none",
+            "temperature": "not set (provider default)",
+            "thinking": "not set (provider default)",
+            "tools": "none"
+          }
+        ],
+        "kimi-k3": [
+          {
+            "effort": "not set (provider default)",
+            "max_tokens": 65536,
+            "prompt_caching": "provider default",
+            "sdk_retries": 0,
+            "seed": "not set",
+            "serving_precision": "MXFP4 weights, MXFP8 activations (Fireworks model page, checked 2026-10-15)",
+            "streaming": true,
+            "system_prompt": "none",
+            "temperature": "not set (provider default)",
+            "thinking": "not set (provider default)",
+            "tools": "none"
+          }
+        ]
+      },
+      "planned_slot_counts": {
+        "p1_bare_v1|pilot-v6": 80,
+        "p2_reader_v1|pilot-v6": 80,
+        "p3_criteria_v1|pilot-v6": 80,
+        "p1_bare_v1|clean-matched-v6": 80,
+        "p2_reader_v1|clean-matched-v6": 80,
+        "p3_criteria_v1|clean-matched-v6": 80
+      }
+    },
+    {
+      "batch_id": "effort_v1-20261018T221245Z",
+      "plan_id": "effort_v1",
+      "purpose": "effort",
+      "plan_sha256": "3e15ec94e839c3c522433302fb9eb297b48166db9f02cc1952e83ac8136f2d0e",
+      "created_utc": "2026-10-18T22:12:45.124Z",
+      "harness_version": "0.1.0",
+      "sdk_versions": {
+        "anthropic": "1.14.0",
+        "openai": "3.31.0",
+        "google-genai": "2.31.0",
+        "pyyaml": "6.0.3"
+      },
+      "python": "3.11.9",
+      "templates": {
+        "p3_criteria_v1": {
+          "file": "review/p3_criteria_v1.txt",
+          "sha256": "ddaa589f558f18f36f767f40aeeece56c1b3cb8b82004888bb803f2ddde0c8e6"
+        }
+      },
+      "models_yaml_sha256": "d797951d6e71367078c3047a9322f82fbb7cac00ff134bca494328c3ac622250",
+      "isolation": {
+        "passed": true,
+        "inputs_folder_files_scanned": 21,
+        "key_sha256_checked": [
+          "4f69e4e71e24b6c8122f6c9c99e723714c0b02760863b709bff16ba51729d742",
+          "a49b3751c074fe4991621a1202f0fb9e94ae7269842efe39afec4f6b8bba5f22"
+        ],
+        "files_sent": 2,
+        "label_patterns_checked": "(?i)\\b(planted|answer[ _-]key|status-p01|pilot-v6|clean-matched|flawed version)\\b",
+        "key_path_available_to_review_runner": false
+      },
+      "models": {
+        "gpt-6-astra-effort-low": {
+          "label": "GPT-6 Astra (effort low)",
+          "provider": "openai",
+          "route": "openai_api",
+          "model_id": "gpt-6-astra",
+          "input_format": "pdf",
+          "construction": "used in construction",
+          "effort": "low",
+          "effort_default": "not applicable (effort set to low)",
+          "max_output_tokens": 128000
+        },
+        "gpt-6-astra-effort-max": {
+          "label": "GPT-6 Astra (effort max)",
+          "provider": "openai",
+          "route": "openai_api",
+          "model_id": "gpt-6-astra",
+          "input_format": "pdf",
+          "construction": "used in construction",
+          "effort": "max",
+          "effort_default": "not applicable (effort set to max)",
+          "max_output_tokens": 128000
+        }
+      },
+      "batch_manifest_sha256": "3e24b877ab1dedd7f05b521b2bc8bd32287f060d059a0cd3461d0da303141037",
+      "recorded_calls": 40,
+      "status_counts": {
+        "ok": 40
+      },
+      "call_utc_range": {
+        "time_sent_utc": {
+          "first": "2026-10-18T22:12:46.885Z",
+          "last": "2026-10-19T00:31:25.879Z"
+        },
+        "time_received_utc": {
+          "first": "2026-10-18T22:13:43.520Z",
+          "last": "2026-10-19T00:37:56.209Z"
+        }
+      },
+      "reported_effort_counts": {
+        "gpt-6-astra-effort-low": {
+          "low": 20
+        },
+        "gpt-6-astra-effort-max": {
+          "max": 20
+        }
+      },
+      "actual_call_settings": {
+        "gpt-6-astra-effort-low": [
+          {
+            "effort": "low",
+            "max_output_tokens": 128000,
+            "prompt_caching": "automatic, prompt_cache_key ms-28521e69aa68a51f (manuscript file hash)",
+            "sdk_retries": 0,
+            "seed": "not set",
+            "store": false,
+            "system_prompt": "none",
+            "temperature": "not set (provider default)",
+            "thinking": "not set (provider default)",
+            "tools": "none"
+          },
+          {
+            "effort": "low",
+            "max_output_tokens": 128000,
+            "prompt_caching": "automatic, prompt_cache_key ms-ff81361cf9d97388 (manuscript file hash)",
+            "sdk_retries": 0,
+            "seed": "not set",
+            "store": false,
+            "system_prompt": "none",
+            "temperature": "not set (provider default)",
+            "thinking": "not set (provider default)",
+            "tools": "none"
+          }
+        ],
+        "gpt-6-astra-effort-max": [
+          {
+            "effort": "max",
+            "max_output_tokens": 128000,
+            "prompt_caching": "automatic, prompt_cache_key ms-28521e69aa68a51f (manuscript file hash)",
+            "sdk_retries": 0,
+            "seed": "not set",
+            "store": false,
+            "system_prompt": "none",
+            "temperature": "not set (provider default)",
+            "thinking": "not set (provider default)",
+            "tools": "none"
+          },
+          {
+            "effort": "max",
+            "max_output_tokens": 128000,
+            "prompt_caching": "automatic, prompt_cache_key ms-ff81361cf9d97388 (manuscript file hash)",
+            "sdk_retries": 0,
+            "seed": "not set",
+            "store": false,
+            "system_prompt": "none",
+            "temperature": "not set (provider default)",
+            "thinking": "not set (provider default)",
+            "tools": "none"
+          }
+        ]
+      }
+    },
+    {
+      "batch_id": "format_v1-20261018T215347Z",
+      "plan_id": "format_v1",
+      "purpose": "format",
+      "plan_sha256": "d0d56f2f4bf9eae9d42087fd52608ef75bada7eee8f057d144f6125099399693",
+      "created_utc": "2026-10-18T21:53:47.261Z",
+      "harness_version": "0.1.0",
+      "sdk_versions": {
+        "anthropic": "1.14.0",
+        "openai": "3.31.0",
+        "google-genai": "2.31.0",
+        "pyyaml": "6.0.3"
+      },
+      "python": "3.11.9",
+      "templates": {
+        "p2_reader_v1": {
+          "file": "review/p2_reader_v1.txt",
+          "sha256": "e69be9cc2400b721596f1da473fb578f8005e615b85ce30aa94b3b508081160a"
+        }
+      },
+      "models_yaml_sha256": "d797951d6e71367078c3047a9322f82fbb7cac00ff134bca494328c3ac622250",
+      "isolation": {
+        "passed": true,
+        "inputs_folder_files_scanned": 21,
+        "key_sha256_checked": [
+          "4f69e4e71e24b6c8122f6c9c99e723714c0b02760863b709bff16ba51729d742",
+          "a49b3751c074fe4991621a1202f0fb9e94ae7269842efe39afec4f6b8bba5f22"
+        ],
+        "files_sent": 18,
+        "label_patterns_checked": "(?i)\\b(planted|answer[ _-]key|status-p01|pilot-v6|clean-matched|flawed version)\\b",
+        "key_path_available_to_review_runner": false
+      },
+      "models": {
+        "gemini-4-argon-mdfig": {
+          "label": "Gemini 4 Argon (text + figures)",
+          "provider": "google",
+          "route": "gemini_api",
+          "model_id": "gemini-4-argon",
+          "input_format": "md_figures",
+          "construction": "not used in construction",
+          "effort": "medium",
+          "effort_default": "thinking level medium (Google model documentation; not reported in the response); sent explicitly",
+          "max_output_tokens": 32768
+        }
+      },
+      "batch_manifest_sha256": "3620a2c9c7059c4472fc7948e0aa0e73f9fd37009552c60eb71ee7b4a67c90ce",
+      "recorded_calls": 20,
+      "status_counts": {
+        "ok": 20
+      },
+      "call_utc_range": {
+        "time_sent_utc": {
+          "first": "2026-10-18T21:53:48.151Z",
+          "last": "2026-10-18T22:07:51.581Z"
+        },
+        "time_received_utc": {
+          "first": "2026-10-18T21:54:31.120Z",
+          "last": "2026-10-18T22:08:28.506Z"
+        }
+      },
+      "reported_effort_counts": {
+        "gemini-4-argon-mdfig": {
+          "unknown": 20
+        }
+      },
+      "actual_call_settings": {
+        "gemini-4-argon-mdfig": [
+          {
+            "effort": "thinking_level MEDIUM",
+            "max_output_tokens": 32768,
+            "prompt_caching": "implicit (provider default)",
+            "sdk_retries": 0,
+            "seed": "not set",
+            "system_prompt": "none",
+            "temperature": "not set (provider default)",
+            "thinking": "thinking_level MEDIUM",
+            "tools": "none"
+          }
+        ]
+      }
+    },
+    {
+      "batch_id": "coding_v1-20261024T191027Z",
+      "plan_id": "coding_v1",
+      "purpose": "coding",
+      "plan_sha256": "b42f622913c5ff14eeb2941e5149b0e18c1f21a2f23fa92db90f56199f18dc64",
+      "created_utc": "2026-10-24T19:10:35.099Z",
+      "harness_version": "0.1.0",
+      "sdk_versions": {
+        "anthropic": "1.14.0",
+        "openai": "3.31.0",
+        "google-genai": "2.31.0",
+        "pyyaml": "6.0.3"
+      },
+      "python": "3.11.9",
+      "models_yaml_sha256": "1958023387178d3f467000cf92003f39bd6b386659aa3b65b19ad9ce0693f813",
+      "coders": {
+        "claude-sonnet-5-5": {
+          "label": "Claude Sonnet 5.5",
+          "provider": "anthropic",
+          "route": "anthropic_api",
+          "model_id": "claude-sonnet-5-5",
+          "effort": "high",
+          "effort_default": "high (Anthropic API documentation; not reported in the response); sent explicitly",
+          "max_output_tokens": 64000
+        },
+        "qwen3p8-2p4t-a95b": {
+          "label": "Qwen3.8-2.4T-A95B",
+          "provider": "fireworks",
+          "route": "fireworks_serverless",
+          "model_id": "accounts/fireworks/models/qwen3p8-2p4t-a95b",
+          "serving_precision": "not stated by Fireworks; provider metadata recorded in each coding batch",
+          "effort_default": "unknown (not exposed by Fireworks)",
+          "max_output_tokens": 32000
+        }
+      },
+      "template": {
+        "id": "code_v1",
+        "file": "coding/code_v1.txt",
+        "sha256": "f989ea3bf8d4b36c5fa2eae78d9584a6f9ff7d0583f89c8317c9fc263d25b47f"
+      },
+      "coding_sheet": {
+        "version": "v1.0 (frozen 2026-10-23)",
+        "sha256": "1fb2c0ca110c6dee0d7fa2209d4cff54a2e7683cfb78accc62dc72ed178dcc2f",
+        "docx_sha256": "c67c0e4e6a9aac5b1e405f7d5b264d28fcef450c7f1f9f12ca40bc24143b21a2",
+        "file_name": "coding_sheet_v1.0_frozen.md"
+      },
+      "review_runs_could_not_read_key": true,
+      "review_runs_isolation": {
+        "main_v1-20261018T210504Z": {
+          "passed": true,
+          "inputs_folder_files_scanned": 21,
+          "key_sha256_checked": [
+            "4f69e4e71e24b6c8122f6c9c99e723714c0b02760863b709bff16ba51729d742",
+            "a49b3751c074fe4991621a1202f0fb9e94ae7269842efe39afec4f6b8bba5f22"
+          ],
+          "files_sent": 20,
+          "label_patterns_checked": "(?i)\\b(planted|answer[ _-]key|status-p01|pilot-v6|clean-matched|flawed version)\\b",
+          "key_path_available_to_review_runner": false
+        },
+        "effort_v1-20261018T221245Z": {
+          "passed": true,
+          "inputs_folder_files_scanned": 21,
+          "key_sha256_checked": [
+            "4f69e4e71e24b6c8122f6c9c99e723714c0b02760863b709bff16ba51729d742",
+            "a49b3751c074fe4991621a1202f0fb9e94ae7269842efe39afec4f6b8bba5f22"
+          ],
+          "files_sent": 2,
+          "label_patterns_checked": "(?i)\\b(planted|answer[ _-]key|status-p01|pilot-v6|clean-matched|flawed version)\\b",
+          "key_path_available_to_review_runner": false
+        },
+        "format_v1-20261018T215347Z": {
+          "passed": true,
+          "inputs_folder_files_scanned": 21,
+          "key_sha256_checked": [
+            "4f69e4e71e24b6c8122f6c9c99e723714c0b02760863b709bff16ba51729d742",
+            "a49b3751c074fe4991621a1202f0fb9e94ae7269842efe39afec4f6b8bba5f22"
+          ],
+          "files_sent": 18,
+          "label_patterns_checked": "(?i)\\b(planted|answer[ _-]key|status-p01|pilot-v6|clean-matched|flawed version)\\b",
+          "key_path_available_to_review_runner": false
+        }
+      },
+      "batch_manifest_sha256": "f0d7653b0a986285e477ce4cce69280b3ce9adf5cb60faa4b25c9e5296d5c275",
+      "recorded_calls": 1087,
+      "status_counts": {
+        "ok": 987,
+        "invalid_output": 96,
+        "interrupted": 3,
+        "error": 1
+      },
+      "call_utc_range": {
+        "time_sent_utc": {
+          "first": "2026-10-24T19:10:35.622Z",
+          "last": "2026-10-25T05:42:46.949Z"
+        },
+        "time_received_utc": {
+          "first": "2026-10-24T19:10:43.869Z",
+          "last": "2026-10-25T05:44:53.603Z"
+        }
+      },
+      "reported_effort_counts": {
+        "claude-sonnet-5-5": {
+          "unknown": 447
+        },
+        "qwen3p8-2p4t-a95b": {
+          "xhigh": 540
+        }
+      }
+    },
+    {
+      "batch_id": "judge_v1-20261026T053102Z",
+      "plan_id": "judge_v1",
+      "purpose": "judge (exploratory)",
+      "plan_sha256": "77e74eb6b4cb7ed404b3a7c6113b11ce70598099ad27f480900a0070e47aff50",
+      "created_utc": "2026-10-26T05:31:02.691Z",
+      "harness_version": "0.1.0",
+      "sdk_versions": {
+        "anthropic": "1.14.0",
+        "openai": "3.31.0",
+        "google-genai": "2.31.0",
+        "pyyaml": "6.0.3"
+      },
+      "python": "3.11.9",
+      "models_yaml_sha256": "59df001b4d74075ae93d956e2a1c70cb112ee0ef8cd75d244413901e1e91673b",
+      "judges": {
+        "gpt-5-5": {
+          "label": "GPT-5.5",
+          "provider": "openai",
+          "route": "openai_api",
+          "model_id": "gpt-5.5",
+          "effort": "xhigh",
+          "effort_default": "medium (OpenAI model page, checked 2026-10-24); xhigh is the maximum and is sent explicitly",
+          "max_output_tokens": 128000
+        },
+        "qwen3p8-2p4t-a95b": {
+          "label": "Qwen3.8-2.4T-A95B",
+          "provider": "fireworks",
+          "route": "fireworks_serverless",
+          "model_id": "accounts/fireworks/models/qwen3p8-2p4t-a95b",
+          "serving_precision": "not stated by Fireworks; provider metadata recorded in each judge batch",
+          "effort_default": "unknown (not exposed by Fireworks)",
+          "max_output_tokens": 32000
+        }
+      },
+      "system_template": {
+        "id": "kw_pairwise_reviews_only_v1",
+        "file": "judge/kw_pairwise_reviews_only_v1.txt",
+        "sha256": "d191daaa262ce3e2716445f5ca00b08b2a56bf4744b3894dfbff5282a0297a48"
+      },
+      "user_template": {
+        "id": "kw_reviews_user_v1",
+        "file": "judge/kw_reviews_user_v1.txt",
+        "sha256": "736c33fa03b2dfd938475909ab0ba62fc7eb5d9adbe557069b509e3a0a4bba33"
+      },
+      "batch_manifest_sha256": "d1d206c8140106f79532be50878cb9511db17fe2c4cce80935d0a8db281fd21f",
+      "recorded_calls": 960,
+      "status_counts": {
+        "ok": 960
+      },
+      "call_utc_range": {
+        "time_sent_utc": {
+          "first": "2026-10-26T05:31:05.852Z",
+          "last": "2026-10-26T05:52:30.335Z"
+        },
+        "time_received_utc": {
+          "first": "2026-10-26T05:31:08.179Z",
+          "last": "2026-10-26T05:52:41.155Z"
+        }
+      },
+      "reported_effort_counts": {
+        "qwen3p8-2p4t-a95b": {
+          "xhigh": 480
+        },
+        "gpt-5-5": {
+          "xhigh": 480
+        }
+      },
+      "recovered_judge_system_prompt_sha256": "328e05a1e4d43e62ee2517ccc35c6e45d1de2406da281b72b34152aed8963388"
+    }
+  ],
+  "review_prompts": {
+    "p1_bare_v1": {
+      "sha256": "5b63190f3655596289f2f9771cbd47f5761f2187709d18a4802050f785e96618",
+      "recorded_template_sha256": "4240cb08034879d138ba537b4229e7a58cc99bebbdf4d4bc4cc9fe25abebf95f",
+      "recorded_hash_matches_with_appended_newline": {
+        "": false,
+        "\n": true,
+        "\r\n": false
+      },
+      "recovered_from": "Retained successful API request; manuscript content omitted"
+    },
+    "p2_reader_v1": {
+      "sha256": "a22394cb5fbf9929e3b8e35f86f45307fa16c1d6e3189b161800942fe5e5b6ef",
+      "recorded_template_sha256": "e69be9cc2400b721596f1da473fb578f8005e615b85ce30aa94b3b508081160a",
+      "recorded_hash_matches_with_appended_newline": {
+        "": false,
+        "\n": true,
+        "\r\n": false
+      },
+      "recovered_from": "Retained successful API request; manuscript content omitted"
+    },
+    "p3_criteria_v1": {
+      "sha256": "cdfdde986bf1e3e9f1fef637fff56393bd01d7f4066284a8c044a585e747571b",
+      "recorded_template_sha256": "ddaa589f558f18f36f767f40aeeece56c1b3cb8b82004888bb803f2ddde0c8e6",
+      "recorded_hash_matches_with_appended_newline": {
+        "": false,
+        "\n": true,
+        "\r\n": false
+      },
+      "recovered_from": "Retained successful API request; manuscript content omitted"
+    }
+  },
+  "provenance_note": "Released file hashes identify sanitized configuration files, not Git commits or byte identity with the original execution checkout. Original commit provenance is retained separately.",
+  "unavailable_sources": [
+    "harness runner package",
+    "plans/*.yaml",
+    "models.yaml",
+    "original scoring-table modules",
+    "original judge-analysis module",
+    "original recommendation extraction module"
+  ]
+}

@@ -1,0 +1,481 @@
+blind_id,model,version,prompt,recommendation,how_read
+B001,deepseek-v4p1-flash,planted,Reader instructions,Major revision,automatic
+B003,gemini-4-argon,clean,Bare,none stated,none stated
+B004,gemini-4-argon,planted,Reader instructions,Major revision,automatic
+B005,gpt-6-luna,planted,Reader instructions,Major revision,automatic
+B006,gemini-4-argon,clean,Reader instructions,Minor revision,"rule for mixed statements, investigator checked"
+B007,gpt-6-luna,clean,Reader + criteria,Major revision,automatic
+B008,gpt-6-astra,planted,Bare,Major revision,automatic
+B009,gemini-4-argon,clean,Reader instructions,Minor revision,"rule for mixed statements, investigator checked"
+B010,claude-fable-5-1,planted,Bare,Major revision,automatic
+B011,kimi-k3,clean,Reader + criteria,Major revision,automatic
+B012,claude-haiku-5-5,clean,Reader + criteria,Major revision,automatic
+B013,gemini-3-5-flash-lite,clean,Reader instructions,Minor revision,automatic
+B014,claude-haiku-5-5,planted,Bare,Major revision,automatic
+B016,kimi-k3,planted,Bare,Major revision,automatic
+B017,gpt-6-luna,clean,Reader instructions,Major revision,automatic
+B018,gemini-4-argon,clean,Bare,none stated,none stated
+B019,deepseek-v4p1-flash,planted,Bare,none stated,none stated
+B023,gpt-6-luna,planted,Reader + criteria,Major revision,automatic
+B024,gemini-4-argon,planted,Reader + criteria,Major revision,automatic
+B025,gemini-3-5-flash-lite,clean,Bare,Accept,"rule for mixed statements, investigator checked"
+B026,deepseek-v4p1-flash,clean,Reader instructions,Major revision,automatic
+B027,gemini-3-5-flash-lite,clean,Reader instructions,Major revision,automatic
+B028,gemini-4-argon,planted,Reader instructions,Major revision,automatic
+B029,claude-haiku-5-5,planted,Bare,Major revision,automatic
+B030,gemini-4-argon,planted,Bare,none stated,none stated
+B031,gpt-6-luna,planted,Reader + criteria,Major revision,automatic
+B032,gpt-6-astra,clean,Bare,Major revision,automatic
+B033,claude-haiku-5-5,planted,Bare,Major revision,automatic
+B034,claude-haiku-5-5,planted,Reader instructions,Major revision,automatic
+B035,kimi-k3,clean,Reader instructions,Major revision,automatic
+B036,claude-fable-5-1,planted,Bare,Major revision,automatic
+B037,gemini-3-5-flash-lite,clean,Reader instructions,Major revision,automatic
+B038,kimi-k3,clean,Bare,Major revision,automatic
+B039,claude-fable-5-1,planted,Reader instructions,Major revision,automatic
+B040,gemini-3-5-flash-lite,clean,Reader instructions,Major revision,automatic
+B041,gpt-6-astra,planted,Reader instructions,Reject,automatic
+B042,gpt-6-astra,clean,Reader instructions,Reject,automatic
+B043,gpt-6-luna,planted,Reader instructions,Major revision,automatic
+B044,kimi-k3,planted,Bare,Major revision,automatic
+B045,gpt-6-astra,clean,Reader + criteria,Reject,automatic
+B046,claude-haiku-5-5,planted,Bare,Major revision,automatic
+B047,gemini-4-argon,clean,Bare,none stated,none stated
+B048,deepseek-v4p1-flash,clean,Reader instructions,Major revision,automatic
+B049,gpt-6-astra,clean,Reader + criteria,Reject,automatic
+B050,gpt-6-astra,planted,Reader + criteria,Reject,automatic
+B051,kimi-k3,planted,Reader instructions,Major revision,automatic
+B052,claude-haiku-5-5,planted,Reader instructions,Major revision,automatic
+B053,gemini-3-5-flash-lite,planted,Reader instructions,Minor revision,automatic
+B054,deepseek-v4p1-flash,clean,Bare,Major revision,automatic
+B055,gemini-4-argon,clean,Reader + criteria,Minor revision,automatic
+B056,gemini-4-argon,clean,Reader instructions,Major revision,automatic
+B057,gemini-3-5-flash-lite,clean,Reader instructions,Major revision,automatic
+B059,claude-fable-5-1,planted,Bare,Major revision,automatic
+B060,kimi-k3,clean,Reader instructions,Major revision,automatic
+B061,gpt-6-astra,clean,Bare,Major revision,automatic
+B062,claude-haiku-5-5,clean,Reader instructions,Major revision,automatic
+B063,claude-haiku-5-5,planted,Reader + criteria,Major revision,automatic
+B064,claude-haiku-5-5,clean,Bare,Major revision,automatic
+B065,gpt-6-luna,planted,Bare,Major revision,automatic
+B066,gpt-6-astra,planted,Bare,Major revision,automatic
+B067,claude-fable-5-1,clean,Reader + criteria,Major revision,automatic
+B068,gemini-3-5-flash-lite,planted,Reader instructions,Major revision,automatic
+B069,gemini-4-argon,planted,Bare,none stated,none stated
+B071,gemini-3-5-flash-lite,clean,Reader + criteria,Minor revision,automatic
+B073,kimi-k3,planted,Reader instructions,Major revision,automatic
+B074,gpt-6-astra,clean,Reader instructions,Major revision,automatic
+B075,gemini-3-5-flash-lite,planted,Bare,none stated,none stated
+B076,kimi-k3,planted,Reader + criteria,Major revision,automatic
+B077,claude-fable-5-1,planted,Bare,Major revision,automatic
+B078,kimi-k3,planted,Reader instructions,Major revision,automatic
+B080,gpt-6-luna,planted,Bare,Major revision,automatic
+B081,claude-fable-5-1,planted,Bare,Major revision,automatic
+B082,gpt-6-luna,planted,Reader + criteria,Major revision,automatic
+B083,kimi-k3,clean,Reader instructions,Major revision,automatic
+B084,claude-haiku-5-5,clean,Reader + criteria,Major revision,automatic
+B085,gpt-6-luna,clean,Reader + criteria,Major revision,automatic
+B086,gemini-3-5-flash-lite,clean,Bare,none stated,none stated
+B087,gemini-3-5-flash-lite,planted,Bare,none stated,none stated
+B088,deepseek-v4p1-flash,planted,Reader instructions,Major revision,automatic
+B089,gpt-6-luna,planted,Reader instructions,Major revision,automatic
+B090,kimi-k3,clean,Reader + criteria,Major revision,automatic
+B091,deepseek-v4p1-flash,clean,Bare,Major revision,automatic
+B092,gemini-4-argon,planted,Reader + criteria,Minor revision,"rule for mixed statements, investigator checked"
+B093,deepseek-v4p1-flash,clean,Reader + criteria,Major revision,automatic
+B094,gpt-6-luna,clean,Reader instructions,Major revision,automatic
+B095,claude-haiku-5-5,planted,Bare,Major revision,automatic
+B096,gemini-3-5-flash-lite,planted,Bare,none stated,none stated
+B098,gemini-4-argon,clean,Bare,none stated,none stated
+B099,gpt-6-luna,planted,Reader instructions,Major revision,automatic
+B101,deepseek-v4p1-flash,planted,Reader + criteria,Major revision,automatic
+B102,claude-haiku-5-5,planted,Reader + criteria,Major revision,automatic
+B103,gpt-6-astra,planted,Reader instructions,Reject,automatic
+B104,gemini-3-5-flash-lite,clean,Reader + criteria,Minor revision,automatic
+B105,claude-fable-5-1,clean,Bare,Major revision,automatic
+B106,kimi-k3,planted,Reader + criteria,Major revision,automatic
+B107,gpt-6-astra,planted,Reader + criteria,Reject,automatic
+B108,claude-haiku-5-5,clean,Reader instructions,Major revision,automatic
+B109,kimi-k3,planted,Bare,Major revision,automatic
+B110,gemini-3-5-flash-lite,planted,Reader + criteria,Major revision,automatic
+B111,gemini-3-5-flash-lite,planted,Bare,none stated,none stated
+B112,gemini-4-argon,clean,Reader instructions,Major revision,automatic
+B113,claude-fable-5-1,planted,Reader instructions,Major revision,automatic
+B114,kimi-k3,clean,Bare,Major revision,automatic
+B115,claude-fable-5-1,clean,Reader instructions,Major revision,automatic
+B116,claude-fable-5-1,planted,Bare,Major revision,automatic
+B118,gemini-3-5-flash-lite,planted,Reader + criteria,Major revision,automatic
+B119,deepseek-v4p1-flash,clean,Reader instructions,Major revision,automatic
+B120,claude-fable-5-1,clean,Bare,Major revision,automatic
+B122,claude-haiku-5-5,clean,Reader + criteria,Major revision,automatic
+B123,kimi-k3,planted,Reader instructions,Major revision,automatic
+B124,gemini-3-5-flash-lite,planted,Reader + criteria,Minor revision,automatic
+B126,claude-fable-5-1,clean,Reader + criteria,Major revision,automatic
+B127,kimi-k3,clean,Reader + criteria,Major revision,automatic
+B128,deepseek-v4p1-flash,planted,Reader + criteria,Major revision,automatic
+B129,gemini-4-argon,planted,Bare,none stated,none stated
+B130,gpt-6-astra,clean,Bare,Major revision,automatic
+B131,claude-fable-5-1,planted,Reader instructions,Major revision,automatic
+B132,deepseek-v4p1-flash,clean,Bare,Major revision,automatic
+B133,kimi-k3,planted,Reader + criteria,Major revision,automatic
+B134,gemini-3-5-flash-lite,planted,Reader + criteria,Minor revision,automatic
+B135,claude-haiku-5-5,clean,Bare,Major revision,automatic
+B136,gpt-6-luna,planted,Reader + criteria,Major revision,automatic
+B138,claude-fable-5-1,planted,Reader + criteria,Major revision,automatic
+B139,gpt-6-astra,clean,Reader instructions,Major revision,automatic
+B140,gpt-6-astra,planted,Reader instructions,Major revision,automatic
+B141,gpt-6-luna,planted,Bare,Major revision,automatic
+B143,kimi-k3,clean,Reader instructions,Major revision,automatic
+B144,claude-haiku-5-5,planted,Bare,Major revision,automatic
+B145,claude-fable-5-1,clean,Reader instructions,Major revision,automatic
+B146,claude-fable-5-1,planted,Reader + criteria,Major revision,automatic
+B147,kimi-k3,clean,Bare,Major revision,automatic
+B149,deepseek-v4p1-flash,planted,Reader + criteria,Major revision,automatic
+B150,gemini-4-argon,planted,Reader instructions,Major revision,"rule for mixed statements, investigator checked"
+B151,gemini-3-5-flash-lite,planted,Reader + criteria,Major revision,automatic
+B152,claude-fable-5-1,planted,Reader instructions,Major revision,automatic
+B153,gemini-3-5-flash-lite,planted,Reader + criteria,Minor revision,"rule for mixed statements, investigator checked"
+B154,claude-fable-5-1,clean,Bare,Major revision,automatic
+B155,gemini-4-argon,planted,Reader instructions,Major revision,automatic
+B156,claude-fable-5-1,clean,Reader + criteria,Major revision,automatic
+B157,gemini-3-5-flash-lite,clean,Reader + criteria,Minor revision,automatic
+B158,gemini-4-argon,planted,Reader + criteria,Reject,automatic
+B159,claude-fable-5-1,planted,Reader + criteria,Major revision,automatic
+B160,gpt-6-astra,clean,Reader + criteria,Reject,automatic
+B161,gemini-4-argon,clean,Reader instructions,Major revision,automatic
+B162,claude-fable-5-1,clean,Bare,Major revision,automatic
+B163,gpt-6-luna,clean,Bare,Major revision,automatic
+B164,gemini-3-5-flash-lite,planted,Reader + criteria,Major revision,automatic
+B165,deepseek-v4p1-flash,clean,Bare,Major revision,automatic
+B166,deepseek-v4p1-flash,clean,Bare,Major revision,automatic
+B167,deepseek-v4p1-flash,planted,Reader + criteria,Major revision,automatic
+B168,gemini-3-5-flash-lite,planted,Bare,none stated,none stated
+B169,kimi-k3,planted,Reader instructions,Major revision,automatic
+B170,claude-fable-5-1,planted,Reader + criteria,Major revision,automatic
+B171,claude-haiku-5-5,clean,Reader + criteria,Major revision,automatic
+B172,claude-fable-5-1,clean,Bare,Major revision,automatic
+B173,claude-haiku-5-5,clean,Bare,Major revision,automatic
+B174,gpt-6-astra,planted,Reader + criteria,Reject,automatic
+B175,gemini-3-5-flash-lite,clean,Reader instructions,Major revision,automatic
+B176,deepseek-v4p1-flash,planted,Reader + criteria,Major revision,automatic
+B177,gpt-6-luna,planted,Reader instructions,Major revision,automatic
+B178,gpt-6-luna,clean,Bare,Major revision,automatic
+B180,gpt-6-luna,clean,Reader instructions,Major revision,automatic
+B181,claude-fable-5-1,clean,Reader + criteria,Major revision,automatic
+B183,gpt-6-astra,planted,Bare,Major revision,automatic
+B184,kimi-k3,clean,Reader instructions,Major revision,automatic
+B185,gpt-6-luna,clean,Reader + criteria,Major revision,automatic
+B186,gemini-3-5-flash-lite,clean,Bare,none stated,none stated
+B187,gemini-4-argon,planted,Reader instructions,Reject,automatic
+B188,gpt-6-luna,planted,Reader + criteria,Major revision,automatic
+B190,claude-haiku-5-5,planted,Bare,Major revision,automatic
+B191,gpt-6-astra,planted,Reader instructions,Reject,automatic
+B192,claude-fable-5-1,planted,Reader instructions,Major revision,automatic
+B193,deepseek-v4p1-flash,clean,Bare,none stated,none stated
+B194,deepseek-v4p1-flash,planted,Bare,Major revision,automatic
+B195,deepseek-v4p1-flash,planted,Reader instructions,Major revision,automatic
+B196,claude-haiku-5-5,clean,Reader instructions,Major revision,automatic
+B197,gpt-6-luna,planted,Reader instructions,Major revision,automatic
+B198,gpt-6-astra,planted,Reader + criteria,Reject,automatic
+B199,deepseek-v4p1-flash,clean,Reader + criteria,Major revision,automatic
+B200,gpt-6-astra,planted,Reader + criteria,Reject,automatic
+B201,claude-fable-5-1,clean,Reader + criteria,Major revision,automatic
+B202,gpt-6-luna,planted,Reader + criteria,Major revision,automatic
+B203,kimi-k3,planted,Bare,Major revision,automatic
+B204,gemini-4-argon,planted,Reader + criteria,Major revision,automatic
+B205,gpt-6-astra,planted,Reader + criteria,Reject,automatic
+B206,claude-haiku-5-5,clean,Reader instructions,Major revision,automatic
+B207,kimi-k3,clean,Bare,Major revision,automatic
+B208,gemini-3-5-flash-lite,planted,Reader instructions,Major revision,automatic
+B210,gpt-6-astra,clean,Bare,Major revision,automatic
+B211,claude-haiku-5-5,clean,Reader instructions,Major revision,automatic
+B212,gpt-6-astra,clean,Reader + criteria,Reject,automatic
+B213,claude-haiku-5-5,planted,Reader instructions,Major revision,automatic
+B214,claude-fable-5-1,planted,Reader + criteria,Major revision,automatic
+B215,kimi-k3,clean,Reader + criteria,Major revision,automatic
+B216,deepseek-v4p1-flash,planted,Bare,Major revision,automatic
+B217,gpt-6-luna,clean,Bare,Major revision,automatic
+B218,kimi-k3,planted,Reader instructions,Major revision,automatic
+B219,deepseek-v4p1-flash,planted,Reader instructions,Major revision,automatic
+B220,claude-haiku-5-5,clean,Reader instructions,Major revision,automatic
+B221,deepseek-v4p1-flash,clean,Bare,Major revision,automatic
+B222,gemini-3-5-flash-lite,planted,Reader instructions,Minor revision,automatic
+B223,deepseek-v4p1-flash,clean,Reader + criteria,Major revision,automatic
+B224,claude-haiku-5-5,clean,Reader + criteria,Major revision,automatic
+B225,gemini-3-5-flash-lite,planted,Reader instructions,Minor revision,automatic
+B226,claude-haiku-5-5,clean,Bare,Major revision,automatic
+B227,claude-haiku-5-5,clean,Bare,Major revision,automatic
+B228,gpt-6-astra,clean,Bare,Major revision,automatic
+B230,gpt-6-astra,planted,Reader instructions,Reject,automatic
+B232,claude-fable-5-1,clean,Bare,Major revision,automatic
+B234,deepseek-v4p1-flash,clean,Bare,none stated,none stated
+B235,claude-fable-5-1,clean,Reader instructions,Major revision,automatic
+B236,claude-haiku-5-5,clean,Reader + criteria,Major revision,automatic
+B237,gemini-4-argon,clean,Bare,none stated,none stated
+B238,claude-haiku-5-5,clean,Reader instructions,Major revision,automatic
+B239,gemini-3-5-flash-lite,clean,Reader + criteria,Accept,"rule for mixed statements, investigator checked"
+B240,claude-haiku-5-5,clean,Reader + criteria,Major revision,automatic
+B241,claude-fable-5-1,planted,Reader + criteria,Major revision,automatic
+B242,kimi-k3,planted,Reader + criteria,Major revision,automatic
+B244,gemini-3-5-flash-lite,clean,Bare,none stated,none stated
+B245,gpt-6-astra,clean,Reader instructions,Major revision,automatic
+B246,claude-haiku-5-5,planted,Reader + criteria,Major revision,automatic
+B247,gpt-6-astra,planted,Bare,Major revision,automatic
+B248,gpt-6-astra,clean,Bare,Major revision,automatic
+B250,claude-haiku-5-5,planted,Reader + criteria,Major revision,automatic
+B251,claude-haiku-5-5,planted,Reader instructions,Major revision,automatic
+B252,deepseek-v4p1-flash,clean,Reader instructions,Major revision,automatic
+B253,kimi-k3,planted,Reader + criteria,Major revision,automatic
+B254,gpt-6-astra,planted,Reader + criteria,Reject,automatic
+B255,kimi-k3,clean,Bare,Major revision,automatic
+B256,gemini-3-5-flash-lite,planted,Reader instructions,Minor revision,automatic
+B257,gpt-6-astra,planted,Bare,Major revision,automatic
+B258,gemini-4-argon,clean,Reader + criteria,Minor revision,automatic
+B261,claude-fable-5-1,planted,Reader + criteria,Major revision,automatic
+B263,claude-fable-5-1,clean,Bare,Major revision,automatic
+B264,gemini-3-5-flash-lite,clean,Bare,none stated,none stated
+B265,kimi-k3,planted,Bare,Major revision,automatic
+B266,gpt-6-astra,planted,Reader instructions,Major revision,automatic
+B267,gpt-6-luna,planted,Bare,Major revision,automatic
+B268,gemini-3-5-flash-lite,clean,Reader + criteria,Major revision,automatic
+B269,gpt-6-astra,clean,Bare,Major revision,automatic
+B270,gemini-4-argon,planted,Reader instructions,Reject,automatic
+B271,gpt-6-luna,clean,Bare,Major revision,automatic
+B272,gemini-3-5-flash-lite,clean,Reader + criteria,Minor revision,automatic
+B273,gpt-6-astra,planted,Bare,Major revision,automatic
+B274,claude-haiku-5-5,clean,Reader instructions,Major revision,"rule for mixed statements, investigator checked"
+B275,gemini-3-5-flash-lite,clean,Bare,none stated,none stated
+B276,gemini-4-argon,clean,Reader + criteria,Minor revision,"rule for mixed statements, investigator checked"
+B278,claude-haiku-5-5,clean,Bare,Major revision,automatic
+B279,gemini-4-argon,planted,Reader + criteria,Reject,"rule for mixed statements, investigator checked"
+B280,claude-haiku-5-5,planted,Reader + criteria,Major revision,automatic
+B281,gemini-4-argon,planted,Reader + criteria,Major revision,automatic
+B282,deepseek-v4p1-flash,planted,Reader + criteria,Major revision,automatic
+B284,deepseek-v4p1-flash,clean,Reader + criteria,Major revision,automatic
+B285,deepseek-v4p1-flash,planted,Bare,Major revision,automatic
+B286,gpt-6-luna,clean,Bare,Major revision,automatic
+B287,kimi-k3,planted,Reader instructions,Major revision,automatic
+B288,gpt-6-astra,planted,Bare,Major revision,automatic
+B289,gpt-6-astra,clean,Reader instructions,Major revision,automatic
+B290,gpt-6-luna,planted,Bare,Major revision,automatic
+B291,gpt-6-luna,clean,Reader + criteria,Major revision,automatic
+B292,gemini-3-5-flash-lite,planted,Bare,none stated,none stated
+B293,kimi-k3,clean,Bare,Major revision,automatic
+B294,claude-fable-5-1,clean,Reader + criteria,Major revision,automatic
+B295,claude-haiku-5-5,clean,Reader + criteria,Major revision,automatic
+B296,kimi-k3,clean,Reader instructions,Major revision,automatic
+B297,gemini-3-5-flash-lite,clean,Reader instructions,Major revision,automatic
+B298,gemini-4-argon,planted,Bare,none stated,none stated
+B299,claude-haiku-5-5,planted,Reader instructions,Major revision,automatic
+B300,gemini-4-argon,planted,Reader instructions,Minor revision,"rule for mixed statements, investigator checked"
+B301,deepseek-v4p1-flash,clean,Reader + criteria,Major revision,automatic
+B302,claude-fable-5-1,planted,Reader + criteria,Major revision,automatic
+B303,claude-haiku-5-5,clean,Bare,Major revision,automatic
+B304,deepseek-v4p1-flash,planted,Bare,Major revision,"rule for mixed statements, investigator checked"
+B306,gemini-3-5-flash-lite,planted,Reader instructions,Major revision,automatic
+B307,claude-haiku-5-5,clean,Reader + criteria,Major revision,automatic
+B309,claude-haiku-5-5,planted,Reader + criteria,Major revision,automatic
+B310,gemini-4-argon,planted,Reader + criteria,Major revision,automatic
+B311,kimi-k3,clean,Reader + criteria,Major revision,automatic
+B313,claude-fable-5-1,clean,Bare,Major revision,automatic
+B314,claude-fable-5-1,planted,Reader + criteria,Major revision,automatic
+B315,gpt-6-luna,clean,Reader instructions,Major revision,automatic
+B316,claude-haiku-5-5,clean,Reader + criteria,Major revision,automatic
+B317,gpt-6-astra,clean,Reader + criteria,Reject,automatic
+B318,kimi-k3,planted,Reader + criteria,Major revision,automatic
+B319,gemini-4-argon,planted,Bare,none stated,none stated
+B320,gemini-4-argon,planted,Reader + criteria,Reject,"rule for mixed statements, investigator checked"
+B321,kimi-k3,planted,Bare,Major revision,automatic
+B322,gpt-6-astra,clean,Reader instructions,Major revision,automatic
+B323,claude-fable-5-1,planted,Reader instructions,Major revision,automatic
+B324,gpt-6-astra,planted,Bare,Major revision,automatic
+B325,gemini-4-argon,clean,Bare,none stated,none stated
+B326,gpt-6-luna,clean,Reader + criteria,Major revision,automatic
+B327,gemini-4-argon,planted,Reader instructions,Reject,"rule for mixed statements, investigator checked"
+B328,gpt-6-astra,clean,Reader + criteria,Reject,automatic
+B330,gpt-6-luna,planted,Bare,Major revision,automatic
+B331,gemini-3-5-flash-lite,clean,Bare,none stated,none stated
+B332,claude-fable-5-1,clean,Reader instructions,Major revision,automatic
+B333,claude-fable-5-1,planted,Bare,Major revision,automatic
+B334,gpt-6-astra,clean,Bare,Major revision,automatic
+B335,kimi-k3,clean,Reader instructions,Major revision,automatic
+B336,claude-fable-5-1,clean,Reader + criteria,Major revision,automatic
+B337,deepseek-v4p1-flash,planted,Bare,Major revision,automatic
+B338,deepseek-v4p1-flash,planted,Reader + criteria,Major revision,automatic
+B339,deepseek-v4p1-flash,planted,Reader instructions,Major revision,automatic
+B340,deepseek-v4p1-flash,planted,Reader instructions,Major revision,automatic
+B341,claude-haiku-5-5,clean,Reader instructions,Major revision,automatic
+B342,claude-haiku-5-5,planted,Reader + criteria,Major revision,automatic
+B343,gemini-3-5-flash-lite,planted,Reader instructions,Major revision,automatic
+B346,deepseek-v4p1-flash,planted,Bare,Major revision,automatic
+B348,kimi-k3,clean,Reader instructions,Major revision,"rule for mixed statements, investigator checked"
+B349,kimi-k3,planted,Reader instructions,Major revision,automatic
+B350,gpt-6-luna,planted,Reader instructions,Major revision,automatic
+B353,gemini-4-argon,clean,Reader + criteria,Minor revision,automatic
+B354,claude-fable-5-1,clean,Reader instructions,Major revision,automatic
+B355,claude-haiku-5-5,planted,Reader + criteria,Major revision,automatic
+B356,claude-fable-5-1,clean,Reader instructions,Major revision,automatic
+B357,gemini-4-argon,clean,Reader instructions,Minor revision,"rule for mixed statements, investigator checked"
+B358,deepseek-v4p1-flash,clean,Reader instructions,Major revision,automatic
+B359,gemini-4-argon,clean,Reader + criteria,Minor revision,automatic
+B360,claude-haiku-5-5,planted,Bare,Major revision,"rule for mixed statements, investigator checked"
+B361,claude-haiku-5-5,clean,Bare,Major revision,automatic
+B363,gpt-6-luna,clean,Reader + criteria,Major revision,automatic
+B364,claude-fable-5-1,planted,Bare,Major revision,automatic
+B365,gemini-3-5-flash-lite,planted,Reader instructions,Minor revision,automatic
+B366,gpt-6-astra,planted,Bare,Major revision,automatic
+B367,gpt-6-luna,planted,Bare,Major revision,automatic
+B368,gpt-6-astra,clean,Bare,Major revision,automatic
+B369,gpt-6-luna,clean,Reader + criteria,Major revision,automatic
+B370,kimi-k3,clean,Reader instructions,Major revision,automatic
+B371,gemini-3-5-flash-lite,clean,Bare,none stated,none stated
+B372,gemini-3-5-flash-lite,clean,Reader instructions,Major revision,automatic
+B373,gpt-6-astra,planted,Reader + criteria,Reject,automatic
+B374,gemini-3-5-flash-lite,planted,Reader instructions,Minor revision,automatic
+B375,claude-fable-5-1,planted,Reader instructions,Major revision,automatic
+B376,gpt-6-astra,clean,Reader + criteria,Reject,automatic
+B377,claude-haiku-5-5,planted,Reader instructions,Major revision,automatic
+B378,claude-fable-5-1,clean,Reader + criteria,Major revision,automatic
+B380,gemini-4-argon,clean,Bare,none stated,none stated
+B381,gpt-6-astra,clean,Bare,Major revision,automatic
+B382,gemini-3-5-flash-lite,planted,Reader + criteria,Major revision,automatic
+B383,gpt-6-luna,planted,Reader + criteria,Major revision,automatic
+B384,gemini-3-5-flash-lite,planted,Bare,none stated,none stated
+B385,gemini-4-argon,clean,Reader instructions,Minor revision,"rule for mixed statements, investigator checked"
+B386,kimi-k3,clean,Bare,none stated,none stated
+B387,deepseek-v4p1-flash,clean,Reader instructions,Major revision,automatic
+B388,gpt-6-luna,clean,Reader instructions,Major revision,automatic
+B389,gpt-6-astra,clean,Reader + criteria,Reject,automatic
+B390,kimi-k3,clean,Reader + criteria,Major revision,automatic
+B391,gemini-3-5-flash-lite,clean,Reader + criteria,Minor revision,automatic
+B392,kimi-k3,clean,Reader + criteria,Major revision,automatic
+B393,claude-haiku-5-5,planted,Reader instructions,Major revision,automatic
+B394,gpt-6-astra,planted,Reader instructions,Reject,automatic
+B395,gemini-4-argon,planted,Reader instructions,Major revision,automatic
+B396,kimi-k3,clean,Reader + criteria,Major revision,automatic
+B397,deepseek-v4p1-flash,planted,Reader instructions,Major revision,automatic
+B398,deepseek-v4p1-flash,planted,Bare,none stated,none stated
+B399,gpt-6-luna,clean,Bare,Major revision,automatic
+B400,gpt-6-astra,planted,Reader instructions,Reject,automatic
+B401,gemini-4-argon,clean,Reader instructions,Minor revision,"rule for mixed statements, investigator checked"
+B402,claude-haiku-5-5,planted,Bare,Major revision,automatic
+B403,gpt-6-luna,planted,Bare,Major revision,automatic
+B404,deepseek-v4p1-flash,clean,Reader instructions,Major revision,automatic
+B405,deepseek-v4p1-flash,planted,Reader instructions,Major revision,automatic
+B406,gpt-6-astra,clean,Reader + criteria,Reject,automatic
+B407,gpt-6-luna,clean,Reader instructions,Major revision,automatic
+B409,kimi-k3,planted,Bare,Major revision,automatic
+B410,kimi-k3,clean,Bare,Major revision,automatic
+B411,gpt-6-luna,clean,Reader instructions,Major revision,automatic
+B412,gemini-4-argon,clean,Reader + criteria,Minor revision,automatic
+B413,deepseek-v4p1-flash,clean,Reader instructions,Major revision,automatic
+B414,kimi-k3,clean,Reader + criteria,Major revision,automatic
+B415,gemini-4-argon,planted,Bare,none stated,none stated
+B416,gpt-6-luna,planted,Reader instructions,Major revision,automatic
+B417,claude-fable-5-1,planted,Reader + criteria,Major revision,automatic
+B418,claude-fable-5-1,planted,Reader instructions,Major revision,automatic
+B420,kimi-k3,planted,Bare,Major revision,automatic
+B421,gemini-4-argon,planted,Bare,none stated,none stated
+B422,kimi-k3,planted,Reader + criteria,Major revision,automatic
+B423,kimi-k3,planted,Reader + criteria,Major revision,automatic
+B425,claude-fable-5-1,clean,Bare,Major revision,automatic
+B426,gpt-6-luna,clean,Bare,Major revision,automatic
+B427,claude-haiku-5-5,planted,Reader instructions,Major revision,automatic
+B428,claude-fable-5-1,planted,Bare,Major revision,automatic
+B430,gpt-6-astra,clean,Reader instructions,Major revision,automatic
+B431,gemini-3-5-flash-lite,planted,Reader + criteria,Major revision,automatic
+B432,deepseek-v4p1-flash,clean,Reader + criteria,Major revision,automatic
+B433,claude-haiku-5-5,planted,Bare,Major revision,automatic
+B434,gemini-4-argon,clean,Bare,none stated,none stated
+B435,gpt-6-astra,clean,Reader instructions,Major revision,automatic
+B436,claude-haiku-5-5,planted,Reader + criteria,Major revision,automatic
+B437,gpt-6-luna,planted,Reader + criteria,Major revision,automatic
+B438,gemini-3-5-flash-lite,planted,Reader + criteria,Minor revision,automatic
+B439,deepseek-v4p1-flash,clean,Reader + criteria,Major revision,automatic
+B440,gpt-6-astra,clean,Reader instructions,Reject,automatic
+B441,claude-haiku-5-5,clean,Bare,Major revision,automatic
+B442,gpt-6-luna,clean,Bare,Major revision,automatic
+B444,deepseek-v4p1-flash,planted,Reader + criteria,Major revision,automatic
+B445,deepseek-v4p1-flash,clean,Reader + criteria,Major revision,automatic
+B446,claude-fable-5-1,clean,Reader instructions,Major revision,automatic
+B447,gpt-6-luna,planted,Reader instructions,Major revision,automatic
+B448,gemini-4-argon,clean,Reader instructions,Major revision,automatic
+B449,gpt-6-luna,planted,Bare,Major revision,automatic
+B450,gpt-6-astra,planted,Reader instructions,Reject,automatic
+B451,gpt-6-luna,clean,Reader instructions,Major revision,automatic
+B452,claude-fable-5-1,planted,Reader instructions,Major revision,automatic
+B453,gemini-4-argon,planted,Reader + criteria,Major revision,automatic
+B454,deepseek-v4p1-flash,clean,Reader + criteria,Major revision,automatic
+B455,gemini-4-argon,planted,Bare,none stated,none stated
+B456,deepseek-v4p1-flash,clean,Reader instructions,Major revision,automatic
+B457,claude-fable-5-1,clean,Reader instructions,Major revision,automatic
+B458,claude-fable-5-1,clean,Reader + criteria,Major revision,automatic
+B460,gpt-6-astra,planted,Reader instructions,Reject,automatic
+B461,kimi-k3,planted,Reader + criteria,Major revision,automatic
+B462,gemini-4-argon,planted,Bare,none stated,none stated
+B463,gpt-6-luna,clean,Reader instructions,Major revision,automatic
+B464,gpt-6-luna,clean,Bare,Major revision,automatic
+B465,deepseek-v4p1-flash,planted,Reader instructions,Major revision,automatic
+B466,gpt-6-luna,clean,Reader + criteria,Major revision,automatic
+B469,gemini-3-5-flash-lite,clean,Reader + criteria,Major revision,automatic
+B470,gpt-6-luna,planted,Reader + criteria,Major revision,automatic
+B471,deepseek-v4p1-flash,planted,Reader + criteria,Major revision,automatic
+B472,gemini-4-argon,clean,Reader + criteria,Minor revision,automatic
+B473,gemini-3-5-flash-lite,clean,Bare,none stated,none stated
+B474,deepseek-v4p1-flash,clean,Bare,none stated,none stated
+B475,gemini-3-5-flash-lite,clean,Reader instructions,Minor revision,automatic
+B479,gpt-6-luna,planted,Reader instructions,Major revision,automatic
+B480,kimi-k3,planted,Reader + criteria,Major revision,automatic
+B481,gpt-6-luna,clean,Reader instructions,Major revision,automatic
+B482,claude-fable-5-1,planted,Bare,Major revision,automatic
+B483,kimi-k3,planted,Bare,Major revision,automatic
+B484,gpt-6-astra,planted,Reader + criteria,Reject,automatic
+B485,gpt-6-luna,clean,Reader + criteria,Major revision,automatic
+B486,gemini-4-argon,clean,Reader + criteria,Minor revision,automatic
+B487,gpt-6-astra,planted,Reader + criteria,Reject,automatic
+B488,gemini-4-argon,planted,Reader instructions,Major revision,"rule for mixed statements, investigator checked"
+B489,claude-haiku-5-5,planted,Reader instructions,Major revision,automatic
+B490,gemini-3-5-flash-lite,planted,Bare,none stated,none stated
+B491,kimi-k3,clean,Bare,none stated,none stated
+B492,gemini-4-argon,clean,Reader + criteria,Minor revision,automatic
+B493,claude-fable-5-1,clean,Reader instructions,Major revision,"rule for mixed statements, investigator checked"
+B494,gpt-6-astra,planted,Bare,Major revision,automatic
+B495,gemini-4-argon,clean,Reader + criteria,Minor revision,automatic
+B496,gemini-3-5-flash-lite,clean,Reader instructions,Major revision,automatic
+B497,gemini-3-5-flash-lite,planted,Bare,none stated,none stated
+B498,gemini-4-argon,clean,Bare,none stated,none stated
+B499,gpt-6-luna,planted,Reader + criteria,Major revision,automatic
+B500,gemini-4-argon,clean,Reader instructions,Major revision,automatic
+B502,claude-haiku-5-5,clean,Reader instructions,Major revision,automatic
+B503,gpt-6-luna,clean,Reader + criteria,Major revision,automatic
+B505,deepseek-v4p1-flash,clean,Reader instructions,Major revision,automatic
+B506,claude-fable-5-1,clean,Bare,Major revision,automatic
+B507,gpt-6-astra,clean,Reader + criteria,Reject,automatic
+B508,deepseek-v4p1-flash,clean,Bare,Major revision,automatic
+B509,deepseek-v4p1-flash,planted,Bare,Major revision,automatic
+B510,gpt-6-luna,clean,Bare,Major revision,automatic
+B511,gemini-4-argon,clean,Bare,none stated,none stated
+B512,deepseek-v4p1-flash,planted,Bare,Major revision,automatic
+B513,kimi-k3,planted,Reader instructions,Major revision,"rule for mixed statements, investigator checked"
+B514,claude-fable-5-1,clean,Reader + criteria,Major revision,"rule for mixed statements, investigator checked"
+B515,gemini-3-5-flash-lite,planted,Bare,none stated,none stated
+B516,deepseek-v4p1-flash,planted,Reader + criteria,Major revision,automatic
+B517,kimi-k3,clean,Reader + criteria,Major revision,automatic
+B519,claude-haiku-5-5,clean,Bare,Major revision,automatic
+B520,claude-haiku-5-5,planted,Reader instructions,Major revision,automatic
+B521,kimi-k3,clean,Reader instructions,Major revision,automatic
+B522,gemini-3-5-flash-lite,clean,Bare,none stated,none stated
+B523,gemini-3-5-flash-lite,clean,Reader + criteria,Major revision,automatic
+B525,gemini-4-argon,planted,Reader + criteria,Major revision,automatic
+B526,gemini-3-5-flash-lite,clean,Reader + criteria,Minor revision,automatic
+B527,claude-fable-5-1,planted,Reader instructions,Major revision,automatic
+B528,deepseek-v4p1-flash,clean,Reader + criteria,Major revision,automatic
+B529,kimi-k3,planted,Reader instructions,Major revision,automatic
+B531,deepseek-v4p1-flash,planted,Reader instructions,Major revision,automatic
+B532,kimi-k3,clean,Bare,Major revision,automatic
+B533,kimi-k3,planted,Bare,Major revision,automatic
+B534,claude-fable-5-1,clean,Reader instructions,Major revision,"rule for mixed statements, investigator checked"
+B536,gpt-6-astra,clean,Reader instructions,Major revision,automatic
+B538,gpt-6-luna,planted,Bare,Major revision,automatic
+B539,gemini-4-argon,planted,Bare,none stated,none stated
+B540,claude-haiku-5-5,planted,Reader + criteria,Major revision,automatic

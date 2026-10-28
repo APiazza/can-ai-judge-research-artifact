@@ -1,0 +1,83 @@
+{
+  "release": "v0.15",
+  "as_of": "2026-10-26",
+  "model_labels": {
+    "claude-fable-5-1": "Claude Fable 5.1",
+    "claude-haiku-5-5": "Claude Haiku 5.5",
+    "gpt-6-astra": "GPT-6 Astra",
+    "gpt-6-luna": "GPT-6 Luna",
+    "gpt-6-astra-effort-low": "GPT-6 Astra (effort low)",
+    "gpt-6-astra-effort-max": "GPT-6 Astra (effort max)",
+    "gemini-4-argon": "Gemini 4 Argon",
+    "gemini-4-argon-mdfig": "Gemini 4 Argon (text + figures)",
+    "gemini-3-5-flash-lite": "Gemini 3.5 Flash-Lite",
+    "deepseek-v4p1-flash": "DeepSeek V4.1 Flash",
+    "kimi-k3": "Kimi K3"
+  },
+  "model_order": [
+    "claude-fable-5-1",
+    "claude-haiku-5-5",
+    "gpt-6-astra",
+    "gpt-6-luna",
+    "gemini-4-argon",
+    "gemini-3-5-flash-lite",
+    "deepseek-v4p1-flash",
+    "kimi-k3"
+  ],
+  "concerns": {
+    "C1": {
+      "title": "Does the status gap actually narrow?",
+      "short_title": "Status gap narrowing",
+      "type": "Taste/mixed"
+    },
+    "C2": {
+      "title": "Could the firms’ own status have changed?",
+      "short_title": "Changes in firms’ own status",
+      "type": "Mixed"
+    },
+    "C3": {
+      "title": "Why change the rules for everyone?",
+      "short_title": "Changing rules for everyone",
+      "type": "Taste/mixed"
+    },
+    "C4": {
+      "title": "Does the extra check measure the same thing?",
+      "short_title": "What the supplementary check measures",
+      "type": "Technical/mixed"
+    },
+    "C5": {
+      "title": "Are related observations treated as independent?",
+      "short_title": "Related observations treated as independent",
+      "type": "Technical"
+    },
+    "C6": {
+      "title": "Does the analysis test the difference it claims?",
+      "short_title": "Testing the claimed difference",
+      "type": "Technical"
+    },
+    "C7": {
+      "title": "Could unmeasured capabilities still explain the result?",
+      "short_title": "Unmeasured capabilities",
+      "type": "Technical/mixed"
+    },
+    "C8": {
+      "title": "Do more opportunities mean better selection?",
+      "short_title": "Opportunities versus selection quality",
+      "type": "Taste/mixed"
+    }
+  },
+  "prompt_order": [
+    "Bare",
+    "Reader instructions",
+    "Reader + criteria"
+  ],
+  "calibration_threshold": 20,
+  "human_rejection_threshold": 0.5,
+  "metadata": {
+    "scope": "Single invented manuscript pair; original scoring plus six dated audit corrections.",
+    "human_validation": "Five completed post-disclosure validation assessments, shared only as aggregate counts. Original human referee reports are not included or scored.",
+    "calibration": "Investigator 1 and Investigator 2 are research-team coders of AI reviews, distinct from the five external readers. Original first-code qualification is retained.",
+    "C2_sensitivity": "Exploratory exclusion of C2 following three of five No responses, not a prospectively specified exclusion rule.",
+    "planned_simulations": "No sample-size or power simulation results are claimed or reproduced."
+  }
+}

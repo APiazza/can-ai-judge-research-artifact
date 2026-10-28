@@ -1,0 +1,146 @@
+[
+  {
+    "file": "clean-matched-v6/figures/figure_1.png",
+    "bytes": 1225524,
+    "sha256": "7449f51c519327dd849f0a6e722f52f276868573781c94f35581c53236147970",
+    "matches_review_batch": true
+  },
+  {
+    "file": "clean-matched-v6/figures/figure_2.png",
+    "bytes": 121665,
+    "sha256": "f11fa204d4892e1003b2ac9c6373051edb2c79bbbb114b14c514d281fd1daa94",
+    "matches_review_batch": true
+  },
+  {
+    "file": "clean-matched-v6/figures/figure_3.png",
+    "bytes": 133101,
+    "sha256": "48f52a49e425570f21056a63430ae204e56e1872a572971bebdbfb45d67c77a4",
+    "matches_review_batch": true
+  },
+  {
+    "file": "clean-matched-v6/figures/figure_4.png",
+    "bytes": 129764,
+    "sha256": "d6a8653271095fa81a36244102ebfba381109036cc53c70357de16f51b9820c6",
+    "matches_review_batch": true
+  },
+  {
+    "file": "clean-matched-v6/figures/figure_A1.png",
+    "bytes": 178614,
+    "sha256": "7d25a12a5e7d9b3e29b11b3328467b521574e3e08f636c01e6347f03b6ee7a9b",
+    "matches_review_batch": true
+  },
+  {
+    "file": "clean-matched-v6/figures/figure_A2.png",
+    "bytes": 166167,
+    "sha256": "547169faf6b7ec4e7f6736b7ac10b5dcd04b814c741ed9d1bf53b3dd15ab688a",
+    "matches_review_batch": true
+  },
+  {
+    "file": "clean-matched-v6/figures/figure_A3.png",
+    "bytes": 165929,
+    "sha256": "aeb8bdedc282a0906620351c1b21f333b1bf9480cd015ce4adeaa6c830ca977e",
+    "matches_review_batch": true
+  },
+  {
+    "file": "clean-matched-v6/figures/figure_A4.png",
+    "bytes": 149869,
+    "sha256": "ba5c104d7328d7950278b27c7247009669c4c203c5e63e5cbd56d01e6652fa7d",
+    "matches_review_batch": true
+  },
+  {
+    "file": "clean-matched-v6/manuscript.md",
+    "bytes": 107061,
+    "sha256": "f777eaf086bc5496be4fad66f08208913e447a8ca18114eca2a34f9dc4d94b59",
+    "matches_review_batch": true
+  },
+  {
+    "file": "clean-matched-v6/manuscript.pdf",
+    "bytes": 1606169,
+    "sha256": "28521e69aa68a51feb54e0a0b1973d623a5113e59ac200e9543d01b26a173ba6",
+    "matches_review_batch": true
+  },
+  {
+    "file": "pilot-v6/figures/figure_1.png",
+    "bytes": 1225524,
+    "sha256": "7449f51c519327dd849f0a6e722f52f276868573781c94f35581c53236147970",
+    "matches_review_batch": true
+  },
+  {
+    "file": "pilot-v6/figures/figure_2.png",
+    "bytes": 121665,
+    "sha256": "f11fa204d4892e1003b2ac9c6373051edb2c79bbbb114b14c514d281fd1daa94",
+    "matches_review_batch": true
+  },
+  {
+    "file": "pilot-v6/figures/figure_3.png",
+    "bytes": 133101,
+    "sha256": "48f52a49e425570f21056a63430ae204e56e1872a572971bebdbfb45d67c77a4",
+    "matches_review_batch": true
+  },
+  {
+    "file": "pilot-v6/figures/figure_4.png",
+    "bytes": 139236,
+    "sha256": "7319dca5adffff5ab9b336d7acc33533a4273cae36c9fc9d044c28580cef1ce9",
+    "matches_review_batch": true
+  },
+  {
+    "file": "pilot-v6/figures/figure_A1.png",
+    "bytes": 178614,
+    "sha256": "7d25a12a5e7d9b3e29b11b3328467b521574e3e08f636c01e6347f03b6ee7a9b",
+    "matches_review_batch": true
+  },
+  {
+    "file": "pilot-v6/figures/figure_A2.png",
+    "bytes": 189547,
+    "sha256": "dee6ebfed3e5d9fc0c4503f2cb1a593eda9241707139edb810ec679772b11351",
+    "matches_review_batch": true
+  },
+  {
+    "file": "pilot-v6/figures/figure_A3.png",
+    "bytes": 190321,
+    "sha256": "08955ee6c01e11415361791ca7af4923ecf745a6458ac3997db2a2185124877a",
+    "matches_review_batch": true
+  },
+  {
+    "file": "pilot-v6/figures/figure_A4.png",
+    "bytes": 165703,
+    "sha256": "813481bdd5bae6bcf913c34b5b81ca67d3f2954027b0550f7d95040d40a468bb",
+    "matches_review_batch": true
+  },
+  {
+    "file": "pilot-v6/manuscript.md",
+    "bytes": 108694,
+    "sha256": "0b6cc750342a87e46fddf83f9b2e3499b6bdb878bf04e41ae0d2ddad6d3045e2",
+    "matches_review_batch": true
+  },
+  {
+    "file": "pilot-v6/manuscript.pdf",
+    "bytes": 1329851,
+    "sha256": "ff81361cf9d97388abed30f4d2eb37997eaf6c52f27ebf3812d3732ad373e9f4",
+    "matches_review_batch": true
+  },
+  {
+    "file": "STATUS-P01-pilot-v6-key.json",
+    "bytes": 84325,
+    "sha256": "a49b3751c074fe4991621a1202f0fb9e94ae7269842efe39afec4f6b8bba5f22",
+    "handling": "Restricted; content not copied into analysis configuration"
+  },
+  {
+    "file": "STATUS-P01-pilot-v6-key.md",
+    "bytes": 47310,
+    "sha256": "4f69e4e71e24b6c8122f6c9c99e723714c0b02760863b709bff16ba51729d742",
+    "handling": "Restricted; content not copied into analysis configuration"
+  },
+  {
+    "file": "Coding_Sheet_v1.0_frozen.docx",
+    "bytes": 46015,
+    "sha256": "c67c0e4e6a9aac5b1e405f7d5b264d28fcef450c7f1f9f12ca40bc24143b21a2",
+    "handling": "Restricted; content not copied into analysis configuration"
+  },
+  {
+    "file": "STATUS-P01-coding-sheet-v1.0-frozen.docx",
+    "bytes": 46015,
+    "sha256": "c67c0e4e6a9aac5b1e405f7d5b264d28fcef450c7f1f9f12ca40bc24143b21a2",
+    "handling": "Restricted; content not copied into analysis configuration"
+  }
+]

@@ -1,0 +1,11 @@
+# Check before the main runs: the documented default effort is now sent explicitly for Claude and Gemini.
+# Same model, prompt and manuscript as in practice_v1, so token counts can be compared one to one.
+# If they differ much from the practice runs, the documentation is wrong.
+plan_id: effort_check_v1
+purpose: check
+cells:
+  - {models: [claude-fable-5-1],      prompts: [p1_bare_v1],     manuscripts: [pilot-v6, clean-matched-v6]}
+  - {models: [claude-haiku-5-5],      prompts: [p2_reader_v1],   manuscripts: [pilot-v6, clean-matched-v6]}
+  - {models: [gemini-4-argon],        prompts: [p3_criteria_v1], manuscripts: [pilot-v6, clean-matched-v6]}
+  - {models: [gemini-3-5-flash-lite], prompts: [p1_bare_v1],     manuscripts: [pilot-v6, clean-matched-v6]}
+  - {models: [gemini-4-argon-mdfig],  prompts: [p2_reader_v1],   manuscripts: [pilot-v6, clean-matched-v6]}

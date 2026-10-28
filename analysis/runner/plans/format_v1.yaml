@@ -1,0 +1,9 @@
+# Format comparison: Gemini 4 Argon on text + figures, Prompt 2, both versions, 10 each = 20.
+# The PDF arm is the main-run Gemini 4 Argon Prompt 2 reviews.
+plan_id: format_v1
+purpose: format
+cells:
+  - models: [gemini-4-argon-mdfig]
+    prompts: [p2_reader_v1]
+    manuscripts: [pilot-v6, clean-matched-v6]
+    reps: 10

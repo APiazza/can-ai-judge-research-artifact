@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700">
+<title>Criticisms of baseline and planted-problem versions</title>
+<desc>Each segment spans reviews counted by both scorers through those counted by either scorer. These are not confidence intervals.</desc>
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Arial, sans-serif" fill="#171717">
+<rect x="10" y="309" width="1095" height="64" fill="#f0f0f0"/>
+<rect x="10" y="437" width="1095" height="64" fill="#f0f0f0"/>
+<line x1="505.0" y1="51" x2="505.0" y2="564" stroke="#dddddd"/>
+<text x="505.0" y="592" text-anchor="middle" font-size="16">0</text>
+<line x1="619.0" y1="51" x2="619.0" y2="564" stroke="#dddddd"/>
+<text x="619.0" y="592" text-anchor="middle" font-size="16">20</text>
+<line x1="733.0" y1="51" x2="733.0" y2="564" stroke="#dddddd"/>
+<text x="733.0" y="592" text-anchor="middle" font-size="16">40</text>
+<line x1="847.0" y1="51" x2="847.0" y2="564" stroke="#dddddd"/>
+<text x="847.0" y="592" text-anchor="middle" font-size="16">60</text>
+<line x1="961.0" y1="51" x2="961.0" y2="564" stroke="#dddddd"/>
+<text x="961.0" y="592" text-anchor="middle" font-size="16">80</text>
+<line x1="1075.0" y1="51" x2="1075.0" y2="564" stroke="#dddddd"/>
+<text x="1075.0" y="592" text-anchor="middle" font-size="16">100</text>
+<text x="15" y="80" font-size="20">C1</text>
+<text x="83" y="80" font-size="18">Does the status gap actually narrow?</text>
+<line x1="638.0" y1="73" x2="666.5" y2="73" stroke="#205f86" stroke-width="4"/>
+<circle cx="638.0" cy="73" r="5" fill="#205f86"/>
+<circle cx="666.5" cy="73" r="5" fill="#205f86"/>
+<line x1="505.0" y1="95" x2="507.375" y2="95" stroke="#b34d17" stroke-width="4"/>
+<rect x="500.0" y="90" width="10" height="10" fill="#b34d17"/>
+<rect x="502.375" y="90" width="10" height="10" fill="#b34d17"/>
+<text x="15" y="144" font-size="20">C2</text>
+<text x="83" y="144" font-size="18">Could the firms’ own status have changed?</text>
+<line x1="585.75" y1="137" x2="592.875" y2="137" stroke="#205f86" stroke-width="4"/>
+<circle cx="585.75" cy="137" r="5" fill="#205f86"/>
+<circle cx="592.875" cy="137" r="5" fill="#205f86"/>
+<line x1="505.0" y1="159" x2="505.0" y2="159" stroke="#b34d17" stroke-width="4"/>
+<rect x="500.0" y="154" width="10" height="10" fill="#b34d17"/>
+<rect x="500.0" y="154" width="10" height="10" fill="#b34d17"/>
+<text x="15" y="208" font-size="20">C3‡</text>
+<text x="83" y="208" font-size="18">Why change the rules for everyone?</text>
+<line x1="604.75" y1="201" x2="611.875" y2="201" stroke="#205f86" stroke-width="4"/>
+<circle cx="604.75" cy="201" r="5" fill="#205f86"/>
+<circle cx="611.875" cy="201" r="5" fill="#205f86"/>
+<line x1="578.625" y1="223" x2="592.875" y2="223" stroke="#b34d17" stroke-width="4"/>
+<rect x="573.625" y="218" width="10" height="10" fill="#b34d17"/>
+<rect x="587.875" y="218" width="10" height="10" fill="#b34d17"/>
+<text x="15" y="272" font-size="20">C4</text>
+<text x="83" y="263" font-size="18">Does the extra check measure the same</text>
+<text x="83" y="285" font-size="18">thing?</text>
+<line x1="723.5" y1="265" x2="723.5" y2="265" stroke="#205f86" stroke-width="4"/>
+<circle cx="723.5" cy="265" r="5" fill="#205f86"/>
+<circle cx="723.5" cy="265" r="5" fill="#205f86"/>
+<line x1="505.0" y1="287" x2="505.0" y2="287" stroke="#b34d17" stroke-width="4"/>
+<rect x="500.0" y="282" width="10" height="10" fill="#b34d17"/>
+<rect x="500.0" y="282" width="10" height="10" fill="#b34d17"/>
+<text x="15" y="336" font-size="20">C5†</text>
+<text x="83" y="327" font-size="18">Are related observations treated as</text>
+<text x="83" y="349" font-size="18">independent?</text>
+<line x1="828.0" y1="329" x2="839.875" y2="329" stroke="#205f86" stroke-width="4"/>
+<circle cx="828.0" cy="329" r="5" fill="#205f86"/>
+<circle cx="839.875" cy="329" r="5" fill="#205f86"/>
+<line x1="505.0" y1="351" x2="505.0" y2="351" stroke="#b34d17" stroke-width="4"/>
+<rect x="500.0" y="346" width="10" height="10" fill="#b34d17"/>
+<rect x="500.0" y="346" width="10" height="10" fill="#b34d17"/>
+<text x="15" y="400" font-size="20">C6</text>
+<text x="83" y="391" font-size="18">Does the analysis test the difference it</text>
+<text x="83" y="413" font-size="18">claims?</text>
+<line x1="977.625" y1="393" x2="984.75" y2="393" stroke="#205f86" stroke-width="4"/>
+<circle cx="977.625" cy="393" r="5" fill="#205f86"/>
+<circle cx="984.75" cy="393" r="5" fill="#205f86"/>
+<line x1="505.0" y1="415" x2="507.375" y2="415" stroke="#b34d17" stroke-width="4"/>
+<rect x="500.0" y="410" width="10" height="10" fill="#b34d17"/>
+<rect x="502.375" y="410" width="10" height="10" fill="#b34d17"/>
+<text x="15" y="464" font-size="20">C7†</text>
+<text x="83" y="455" font-size="18">Could unmeasured capabilities still explain</text>
+<text x="83" y="477" font-size="18">the result?</text>
+<line x1="968.125" y1="457" x2="970.5" y2="457" stroke="#205f86" stroke-width="4"/>
+<circle cx="968.125" cy="457" r="5" fill="#205f86"/>
+<circle cx="970.5" cy="457" r="5" fill="#205f86"/>
+<line x1="581.0" y1="479" x2="725.875" y2="479" stroke="#b34d17" stroke-width="4"/>
+<rect x="576.0" y="474" width="10" height="10" fill="#b34d17"/>
+<rect x="720.875" y="474" width="10" height="10" fill="#b34d17"/>
+<text x="15" y="528" font-size="20">C8</text>
+<text x="83" y="519" font-size="18">Do more opportunities mean better</text>
+<text x="83" y="541" font-size="18">selection?</text>
+<line x1="837.5" y1="521" x2="873.125" y2="521" stroke="#205f86" stroke-width="4"/>
+<circle cx="837.5" cy="521" r="5" fill="#205f86"/>
+<circle cx="873.125" cy="521" r="5" fill="#205f86"/>
+<line x1="505.0" y1="543" x2="505.0" y2="543" stroke="#b34d17" stroke-width="4"/>
+<rect x="500.0" y="538" width="10" height="10" fill="#b34d17"/>
+<rect x="500.0" y="538" width="10" height="10" fill="#b34d17"/>
+<line x1="618" y1="25" x2="644" y2="25" stroke="#205f86" stroke-width="4"/>
+<circle cx="631" cy="25" r="5" fill="#205f86"/>
+<text x="650" y="31" font-size="19">Planted problems</text>
+<line x1="868" y1="25" x2="894" y2="25" stroke="#b34d17" stroke-width="4"/>
+<rect x="876" y="20" width="10" height="10" fill="#b34d17"/>
+<text x="900" y="31" font-size="19">Baseline</text>
+<text x="790.0" y="627" text-anchor="middle" font-size="17">Reviews raising the concern with the specified reasoning (%)</text>
+<text x="15" y="654" font-size="14">† Neither scorer passed the original check; ‡ only one passed. Both scorers contribute to every range.</text>
+<text x="15" y="678" font-size="14">Ranges show coder disagreement. Criticisms of the baseline version may be defensible.</text>
+</g></svg>

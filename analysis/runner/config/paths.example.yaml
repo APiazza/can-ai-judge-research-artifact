@@ -1,0 +1,10 @@
+# Copy to config/paths.local.yaml (not committed) and fill in. All paths must be outside this repository.
+inputs_dir: /path/to/corpus/papers/STATUS-P01/ai-run-inputs   # holds pilot-v6/ and clean-matched-v6/
+data_dir: /path/to/runs                                      # run records and raw outputs (copied to Dropbox)
+dry_run_dir: /path/to/dry_runs                               # dry-run requests; local only, never uploaded
+keys_file: /path/to/api-keys.txt                             # lines "Anthropic: ...", "Google: ...", "OpenAI: ...", "Fireworks AI: ..."
+key_sha256:                                                  # SHA-256 of each answer-key file (the key itself is never read)
+  - <sha256 of STATUS-P01-pilot-v6-key.json>
+  - <sha256 of STATUS-P01-pilot-v6-key.md>
+coding_sheet: /path/to/coding_sheet_v1.0_frozen.md                 # frozen coding sheet sent to the LLM coders; read only by coding runs
+operator: XX                                                 # initials written into every record

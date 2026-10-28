@@ -1,0 +1,3948 @@
+{
+  "primary": {
+    "F": {
+      "C1": {
+        "planted": {
+          "n": 240,
+          "lower": 56,
+          "higher": 68
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 0,
+          "higher": 1
+        }
+      },
+      "C2": {
+        "planted": {
+          "n": 240,
+          "lower": 34,
+          "higher": 37
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 0,
+          "higher": 0
+        }
+      },
+      "C3": {
+        "planted": {
+          "n": 240,
+          "lower": 42,
+          "higher": 45
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 31,
+          "higher": 37
+        }
+      },
+      "C4": {
+        "planted": {
+          "n": 240,
+          "lower": 92,
+          "higher": 92
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 0,
+          "higher": 0
+        }
+      },
+      "C5": {
+        "planted": {
+          "n": 240,
+          "lower": 136,
+          "higher": 141
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 0,
+          "higher": 0
+        }
+      },
+      "C6": {
+        "planted": {
+          "n": 240,
+          "lower": 199,
+          "higher": 202
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 0,
+          "higher": 1
+        }
+      },
+      "C7": {
+        "planted": {
+          "n": 240,
+          "lower": 195,
+          "higher": 196
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 32,
+          "higher": 93
+        }
+      },
+      "C8": {
+        "planted": {
+          "n": 240,
+          "lower": 140,
+          "higher": 155
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 0,
+          "higher": 0
+        }
+      },
+      "All": {
+        "planted": {
+          "n": 1920,
+          "lower": 894,
+          "higher": 936
+        },
+        "baseline": {
+          "n": 1920,
+          "lower": 63,
+          "higher": 132
+        }
+      }
+    },
+    "FP": {
+      "C1": {
+        "planted": {
+          "n": 240,
+          "lower": 93,
+          "higher": 97
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 2,
+          "higher": 9
+        }
+      },
+      "C2": {
+        "planted": {
+          "n": 240,
+          "lower": 37,
+          "higher": 38
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 0,
+          "higher": 0
+        }
+      },
+      "C3": {
+        "planted": {
+          "n": 240,
+          "lower": 57,
+          "higher": 60
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 55,
+          "higher": 67
+        }
+      },
+      "C4": {
+        "planted": {
+          "n": 240,
+          "lower": 92,
+          "higher": 93
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 1,
+          "higher": 4
+        }
+      },
+      "C5": {
+        "planted": {
+          "n": 240,
+          "lower": 149,
+          "higher": 150
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 3,
+          "higher": 5
+        }
+      },
+      "C6": {
+        "planted": {
+          "n": 240,
+          "lower": 239,
+          "higher": 240
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 203,
+          "higher": 225
+        }
+      },
+      "C7": {
+        "planted": {
+          "n": 240,
+          "lower": 204,
+          "higher": 209
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 213,
+          "higher": 218
+        }
+      },
+      "C8": {
+        "planted": {
+          "n": 240,
+          "lower": 195,
+          "higher": 195
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 2,
+          "higher": 7
+        }
+      },
+      "All": {
+        "planted": {
+          "n": 1920,
+          "lower": 1066,
+          "higher": 1082
+        },
+        "baseline": {
+          "n": 1920,
+          "lower": 479,
+          "higher": 535
+        }
+      }
+    }
+  },
+  "original_primary": {
+    "F": {
+      "C1": {
+        "planted": {
+          "n": 240,
+          "lower": 56,
+          "higher": 68
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 0,
+          "higher": 1
+        }
+      },
+      "C2": {
+        "planted": {
+          "n": 240,
+          "lower": 34,
+          "higher": 37
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 0,
+          "higher": 0
+        }
+      },
+      "C3": {
+        "planted": {
+          "n": 240,
+          "lower": 42,
+          "higher": 45
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 31,
+          "higher": 37
+        }
+      },
+      "C4": {
+        "planted": {
+          "n": 240,
+          "lower": 92,
+          "higher": 92
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 0,
+          "higher": 0
+        }
+      },
+      "C5": {
+        "planted": {
+          "n": 240,
+          "lower": 136,
+          "higher": 141
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 0,
+          "higher": 0
+        }
+      },
+      "C6": {
+        "planted": {
+          "n": 240,
+          "lower": 199,
+          "higher": 202
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 0,
+          "higher": 1
+        }
+      },
+      "C7": {
+        "planted": {
+          "n": 240,
+          "lower": 195,
+          "higher": 196
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 31,
+          "higher": 93
+        }
+      },
+      "C8": {
+        "planted": {
+          "n": 240,
+          "lower": 139,
+          "higher": 155
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 0,
+          "higher": 0
+        }
+      },
+      "All": {
+        "planted": {
+          "n": 1920,
+          "lower": 893,
+          "higher": 936
+        },
+        "baseline": {
+          "n": 1920,
+          "lower": 62,
+          "higher": 132
+        }
+      }
+    },
+    "FP": {
+      "C1": {
+        "planted": {
+          "n": 240,
+          "lower": 93,
+          "higher": 97
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 2,
+          "higher": 9
+        }
+      },
+      "C2": {
+        "planted": {
+          "n": 240,
+          "lower": 37,
+          "higher": 38
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 0,
+          "higher": 0
+        }
+      },
+      "C3": {
+        "planted": {
+          "n": 240,
+          "lower": 57,
+          "higher": 60
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 55,
+          "higher": 67
+        }
+      },
+      "C4": {
+        "planted": {
+          "n": 240,
+          "lower": 92,
+          "higher": 93
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 1,
+          "higher": 4
+        }
+      },
+      "C5": {
+        "planted": {
+          "n": 240,
+          "lower": 149,
+          "higher": 150
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 3,
+          "higher": 5
+        }
+      },
+      "C6": {
+        "planted": {
+          "n": 240,
+          "lower": 239,
+          "higher": 240
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 203,
+          "higher": 225
+        }
+      },
+      "C7": {
+        "planted": {
+          "n": 240,
+          "lower": 204,
+          "higher": 209
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 214,
+          "higher": 219
+        }
+      },
+      "C8": {
+        "planted": {
+          "n": 240,
+          "lower": 195,
+          "higher": 195
+        },
+        "baseline": {
+          "n": 240,
+          "lower": 2,
+          "higher": 7
+        }
+      },
+      "All": {
+        "planted": {
+          "n": 1920,
+          "lower": 1066,
+          "higher": 1082
+        },
+        "baseline": {
+          "n": 1920,
+          "lower": 480,
+          "higher": 536
+        }
+      }
+    }
+  },
+  "sensitivities": {
+    "original_all_eight": {
+      "F": {
+        "planted": {
+          "n": 1920,
+          "lower": 893,
+          "higher": 936
+        },
+        "baseline": {
+          "n": 1920,
+          "lower": 62,
+          "higher": 132
+        }
+      },
+      "FP": {
+        "planted": {
+          "n": 1920,
+          "lower": 1066,
+          "higher": 1082
+        },
+        "baseline": {
+          "n": 1920,
+          "lower": 480,
+          "higher": 536
+        }
+      }
+    },
+    "all_eight": {
+      "F": {
+        "planted": {
+          "n": 1920,
+          "lower": 894,
+          "higher": 936
+        },
+        "baseline": {
+          "n": 1920,
+          "lower": 63,
+          "higher": 132
+        }
+      },
+      "FP": {
+        "planted": {
+          "n": 1920,
+          "lower": 1066,
+          "higher": 1082
+        },
+        "baseline": {
+          "n": 1920,
+          "lower": 479,
+          "higher": 535
+        }
+      }
+    },
+    "exclude_C5_C7_Qwen_C3": {
+      "F": {
+        "planted": {
+          "n": 1440,
+          "lower": 563,
+          "higher": 596
+        },
+        "baseline": {
+          "n": 1440,
+          "lower": 35,
+          "higher": 37
+        }
+      },
+      "FP": {
+        "planted": {
+          "n": 1440,
+          "lower": 713,
+          "higher": 720
+        },
+        "baseline": {
+          "n": 1440,
+          "lower": 267,
+          "higher": 304
+        }
+      }
+    },
+    "exclude_C2_C5_C7_Qwen_C3": {
+      "F": {
+        "planted": {
+          "n": 1200,
+          "lower": 529,
+          "higher": 559
+        },
+        "baseline": {
+          "n": 1200,
+          "lower": 35,
+          "higher": 37
+        }
+      },
+      "FP": {
+        "planted": {
+          "n": 1200,
+          "lower": 676,
+          "higher": 682
+        },
+        "baseline": {
+          "n": 1200,
+          "lower": 267,
+          "higher": 304
+        }
+      }
+    }
+  },
+  "per_model": {
+    "claude-fable-5-1": {
+      "planted": {
+        "F": {
+          "n": 240,
+          "lower": 145,
+          "higher": 150
+        },
+        "FP": {
+          "n": 240,
+          "lower": 159,
+          "higher": 160
+        },
+        "reviews": 30
+      },
+      "baseline": {
+        "F": {
+          "n": 240,
+          "lower": 10,
+          "higher": 21
+        },
+        "FP": {
+          "n": 240,
+          "lower": 64,
+          "higher": 74
+        },
+        "reviews": 30
+      }
+    },
+    "claude-haiku-5-5": {
+      "planted": {
+        "F": {
+          "n": 240,
+          "lower": 115,
+          "higher": 124
+        },
+        "FP": {
+          "n": 240,
+          "lower": 139,
+          "higher": 141
+        },
+        "reviews": 30
+      },
+      "baseline": {
+        "F": {
+          "n": 240,
+          "lower": 15,
+          "higher": 22
+        },
+        "FP": {
+          "n": 240,
+          "lower": 58,
+          "higher": 65
+        },
+        "reviews": 30
+      }
+    },
+    "gpt-6-astra": {
+      "planted": {
+        "F": {
+          "n": 240,
+          "lower": 213,
+          "higher": 221
+        },
+        "FP": {
+          "n": 240,
+          "lower": 223,
+          "higher": 223
+        },
+        "reviews": 30
+      },
+      "baseline": {
+        "F": {
+          "n": 240,
+          "lower": 16,
+          "higher": 21
+        },
+        "FP": {
+          "n": 240,
+          "lower": 76,
+          "higher": 78
+        },
+        "reviews": 30
+      }
+    },
+    "gpt-6-luna": {
+      "planted": {
+        "F": {
+          "n": 240,
+          "lower": 115,
+          "higher": 121
+        },
+        "FP": {
+          "n": 240,
+          "lower": 141,
+          "higher": 143
+        },
+        "reviews": 30
+      },
+      "baseline": {
+        "F": {
+          "n": 240,
+          "lower": 8,
+          "higher": 26
+        },
+        "FP": {
+          "n": 240,
+          "lower": 56,
+          "higher": 62
+        },
+        "reviews": 30
+      }
+    },
+    "gemini-4-argon": {
+      "planted": {
+        "F": {
+          "n": 240,
+          "lower": 134,
+          "higher": 137
+        },
+        "FP": {
+          "n": 240,
+          "lower": 143,
+          "higher": 143
+        },
+        "reviews": 30
+      },
+      "baseline": {
+        "F": {
+          "n": 240,
+          "lower": 0,
+          "higher": 0
+        },
+        "FP": {
+          "n": 240,
+          "lower": 34,
+          "higher": 47
+        },
+        "reviews": 30
+      }
+    },
+    "gemini-3-5-flash-lite": {
+      "planted": {
+        "F": {
+          "n": 240,
+          "lower": 3,
+          "higher": 3
+        },
+        "FP": {
+          "n": 240,
+          "lower": 37,
+          "higher": 43
+        },
+        "reviews": 30
+      },
+      "baseline": {
+        "F": {
+          "n": 240,
+          "lower": 0,
+          "higher": 1
+        },
+        "FP": {
+          "n": 240,
+          "lower": 54,
+          "higher": 64
+        },
+        "reviews": 30
+      }
+    },
+    "deepseek-v4p1-flash": {
+      "planted": {
+        "F": {
+          "n": 240,
+          "lower": 51,
+          "higher": 58
+        },
+        "FP": {
+          "n": 240,
+          "lower": 89,
+          "higher": 93
+        },
+        "reviews": 30
+      },
+      "baseline": {
+        "F": {
+          "n": 240,
+          "lower": 7,
+          "higher": 24
+        },
+        "FP": {
+          "n": 240,
+          "lower": 68,
+          "higher": 72
+        },
+        "reviews": 30
+      }
+    },
+    "kimi-k3": {
+      "planted": {
+        "F": {
+          "n": 240,
+          "lower": 118,
+          "higher": 122
+        },
+        "FP": {
+          "n": 240,
+          "lower": 135,
+          "higher": 136
+        },
+        "reviews": 30
+      },
+      "baseline": {
+        "F": {
+          "n": 240,
+          "lower": 7,
+          "higher": 17
+        },
+        "FP": {
+          "n": 240,
+          "lower": 69,
+          "higher": 73
+        },
+        "reviews": 30
+      }
+    }
+  },
+  "prompts": {
+    "Bare": {
+      "F": {
+        "planted": {
+          "n": 640,
+          "lower": 294,
+          "higher": 309
+        },
+        "baseline": {
+          "n": 640,
+          "lower": 20,
+          "higher": 42
+        }
+      },
+      "FP": {
+        "planted": {
+          "n": 640,
+          "lower": 347,
+          "higher": 348
+        },
+        "baseline": {
+          "n": 640,
+          "lower": 154,
+          "higher": 173
+        }
+      }
+    },
+    "Reader instructions": {
+      "F": {
+        "planted": {
+          "n": 640,
+          "lower": 291,
+          "higher": 309
+        },
+        "baseline": {
+          "n": 640,
+          "lower": 14,
+          "higher": 36
+        }
+      },
+      "FP": {
+        "planted": {
+          "n": 640,
+          "lower": 351,
+          "higher": 358
+        },
+        "baseline": {
+          "n": 640,
+          "lower": 159,
+          "higher": 175
+        }
+      }
+    },
+    "Reader + criteria": {
+      "F": {
+        "planted": {
+          "n": 640,
+          "lower": 309,
+          "higher": 318
+        },
+        "baseline": {
+          "n": 640,
+          "lower": 29,
+          "higher": 54
+        }
+      },
+      "FP": {
+        "planted": {
+          "n": 640,
+          "lower": 368,
+          "higher": 376
+        },
+        "baseline": {
+          "n": 640,
+          "lower": 166,
+          "higher": 187
+        }
+      }
+    }
+  },
+  "per_model_ever": {
+    "claude-fable-5-1": {
+      "F": {
+        "lower": 7,
+        "higher": 7
+      },
+      "FP": {
+        "lower": 7,
+        "higher": 7
+      }
+    },
+    "claude-haiku-5-5": {
+      "F": {
+        "lower": 7,
+        "higher": 7
+      },
+      "FP": {
+        "lower": 7,
+        "higher": 7
+      }
+    },
+    "gpt-6-astra": {
+      "F": {
+        "lower": 8,
+        "higher": 8
+      },
+      "FP": {
+        "lower": 8,
+        "higher": 8
+      }
+    },
+    "gpt-6-luna": {
+      "F": {
+        "lower": 7,
+        "higher": 7
+      },
+      "FP": {
+        "lower": 7,
+        "higher": 8
+      }
+    },
+    "gemini-4-argon": {
+      "F": {
+        "lower": 5,
+        "higher": 5
+      },
+      "FP": {
+        "lower": 6,
+        "higher": 6
+      }
+    },
+    "gemini-3-5-flash-lite": {
+      "F": {
+        "lower": 2,
+        "higher": 2
+      },
+      "FP": {
+        "lower": 5,
+        "higher": 5
+      }
+    },
+    "deepseek-v4p1-flash": {
+      "F": {
+        "lower": 5,
+        "higher": 5
+      },
+      "FP": {
+        "lower": 6,
+        "higher": 6
+      }
+    },
+    "kimi-k3": {
+      "F": {
+        "lower": 7,
+        "higher": 7
+      },
+      "FP": {
+        "lower": 7,
+        "higher": 7
+      }
+    }
+  },
+  "diagnostics": {
+    "effort": {
+      "low": {
+        "planted": {
+          "F": {
+            "n": 80,
+            "lower": 79,
+            "higher": 80
+          },
+          "FP": {
+            "n": 80,
+            "lower": 79,
+            "higher": 80
+          },
+          "reviews": 10,
+          "criticisms": 21.75
+        },
+        "baseline": {
+          "F": {
+            "n": 80,
+            "lower": 9,
+            "higher": 13
+          },
+          "FP": {
+            "n": 80,
+            "lower": 30,
+            "higher": 31
+          },
+          "reviews": 10,
+          "criticisms": 17.7
+        }
+      },
+      "default": {
+        "planted": {
+          "F": {
+            "n": 80,
+            "lower": 76,
+            "higher": 77
+          },
+          "FP": {
+            "n": 80,
+            "lower": 78,
+            "higher": 78
+          },
+          "reviews": 10,
+          "criticisms": 21.75
+        },
+        "baseline": {
+          "F": {
+            "n": 80,
+            "lower": 8,
+            "higher": 9
+          },
+          "FP": {
+            "n": 80,
+            "lower": 28,
+            "higher": 28
+          },
+          "reviews": 10,
+          "criticisms": 18.35
+        }
+      },
+      "max": {
+        "planted": {
+          "F": {
+            "n": 80,
+            "lower": 75,
+            "higher": 76
+          },
+          "FP": {
+            "n": 80,
+            "lower": 78,
+            "higher": 78
+          },
+          "reviews": 10,
+          "criticisms": 23.45
+        },
+        "baseline": {
+          "F": {
+            "n": 80,
+            "lower": 8,
+            "higher": 15
+          },
+          "FP": {
+            "n": 80,
+            "lower": 29,
+            "higher": 32
+          },
+          "reviews": 10,
+          "criticisms": 21.4
+        }
+      }
+    },
+    "format": {
+      "PDF": {
+        "planted": {
+          "F": {
+            "n": 80,
+            "lower": 45,
+            "higher": 47
+          },
+          "FP": {
+            "n": 80,
+            "lower": 47,
+            "higher": 47
+          },
+          "reviews": 10,
+          "criticisms": 9.9
+        },
+        "baseline": {
+          "F": {
+            "n": 80,
+            "lower": 0,
+            "higher": 0
+          },
+          "FP": {
+            "n": 80,
+            "lower": 17,
+            "higher": 19
+          },
+          "reviews": 10,
+          "criticisms": 8.8
+        }
+      },
+      "Text + figures": {
+        "planted": {
+          "F": {
+            "n": 80,
+            "lower": 50,
+            "higher": 50
+          },
+          "FP": {
+            "n": 80,
+            "lower": 51,
+            "higher": 51
+          },
+          "reviews": 10,
+          "criticisms": 10.1
+        },
+        "baseline": {
+          "F": {
+            "n": 80,
+            "lower": 0,
+            "higher": 0
+          },
+          "FP": {
+            "n": 80,
+            "lower": 14,
+            "higher": 19
+          },
+          "reviews": 10,
+          "criticisms": 8.55
+        }
+      }
+    }
+  },
+  "calibration_original": [
+    {
+      "concern": "C1",
+      "n": 24,
+      "human": 16,
+      "sonnet": 22,
+      "sonnet_passes": true,
+      "qwen": 23,
+      "qwen_passes": true
+    },
+    {
+      "concern": "C2",
+      "n": 24,
+      "human": 19,
+      "sonnet": 22,
+      "sonnet_passes": true,
+      "qwen": 22,
+      "qwen_passes": true
+    },
+    {
+      "concern": "C3",
+      "n": 24,
+      "human": 13,
+      "sonnet": 19,
+      "sonnet_passes": false,
+      "qwen": 21,
+      "qwen_passes": true
+    },
+    {
+      "concern": "C4",
+      "n": 24,
+      "human": 21,
+      "sonnet": 24,
+      "sonnet_passes": true,
+      "qwen": 23,
+      "qwen_passes": true
+    },
+    {
+      "concern": "C5",
+      "n": 24,
+      "human": 18,
+      "sonnet": 19,
+      "sonnet_passes": false,
+      "qwen": 19,
+      "qwen_passes": false
+    },
+    {
+      "concern": "C6",
+      "n": 24,
+      "human": 11,
+      "sonnet": 23,
+      "sonnet_passes": true,
+      "qwen": 22,
+      "qwen_passes": true
+    },
+    {
+      "concern": "C7",
+      "n": 24,
+      "human": 20,
+      "sonnet": 15,
+      "sonnet_passes": false,
+      "qwen": 19,
+      "qwen_passes": false
+    },
+    {
+      "concern": "C8",
+      "n": 24,
+      "human": 19,
+      "sonnet": 22,
+      "sonnet_passes": true,
+      "qwen": 23,
+      "qwen_passes": true
+    }
+  ],
+  "calibration_corrected": [
+    {
+      "concern": "C1",
+      "n": 24,
+      "human": 16,
+      "sonnet": 22,
+      "sonnet_passes": true,
+      "qwen": 23,
+      "qwen_passes": true
+    },
+    {
+      "concern": "C2",
+      "n": 24,
+      "human": 19,
+      "sonnet": 22,
+      "sonnet_passes": true,
+      "qwen": 22,
+      "qwen_passes": true
+    },
+    {
+      "concern": "C3",
+      "n": 24,
+      "human": 13,
+      "sonnet": 19,
+      "sonnet_passes": false,
+      "qwen": 21,
+      "qwen_passes": true
+    },
+    {
+      "concern": "C4",
+      "n": 24,
+      "human": 21,
+      "sonnet": 24,
+      "sonnet_passes": true,
+      "qwen": 23,
+      "qwen_passes": true
+    },
+    {
+      "concern": "C5",
+      "n": 24,
+      "human": 18,
+      "sonnet": 19,
+      "sonnet_passes": false,
+      "qwen": 19,
+      "qwen_passes": false
+    },
+    {
+      "concern": "C6",
+      "n": 24,
+      "human": 11,
+      "sonnet": 23,
+      "sonnet_passes": true,
+      "qwen": 22,
+      "qwen_passes": true
+    },
+    {
+      "concern": "C7",
+      "n": 24,
+      "human": 20,
+      "sonnet": 16,
+      "sonnet_passes": false,
+      "qwen": 20,
+      "qwen_passes": true
+    },
+    {
+      "concern": "C8",
+      "n": 24,
+      "human": 19,
+      "sonnet": 22,
+      "sonnet_passes": true,
+      "qwen": 23,
+      "qwen_passes": true
+    }
+  ],
+  "original_qualification": {
+    "included": [
+      "C1",
+      "C2",
+      "C3",
+      "C4",
+      "C6",
+      "C8"
+    ],
+    "excluded": [
+      "C5",
+      "C7"
+    ],
+    "single_scorers": {
+      "C3": "qwen"
+    }
+  },
+  "post_hoc_human_exclusion": {
+    "concerns": [
+      "C2"
+    ],
+    "basis": "Observed majority No after disclosure; post hoc, not a prespecified exclusion rule"
+  },
+  "judge": {
+    "gpt-5-5": {
+      "pairs": 240,
+      "decided": 223,
+      "first_position_wins": {
+        "k": 253,
+        "n": 480,
+        "share": 0.5270833333333333
+      },
+      "variants": {
+        "lower|F|all pairs": {
+          "agreement": {
+            "all 8 concerns": {
+              "k": 80,
+              "n": 98,
+              "share": 0.8163265306122449
+            },
+            "reliably coded only": {
+              "k": 75,
+              "n": 89,
+              "share": 0.8426966292134831
+            }
+          },
+          "raised_on_baseline": {
+            "all 8 concerns": {
+              "k": 29,
+              "n": 41,
+              "share": 0.7073170731707317
+            },
+            "reliably coded only": {
+              "k": 15,
+              "n": 26,
+              "share": 0.5769230769230769
+            }
+          },
+          "agreement_by_prompt": {
+            "Bare": {
+              "k": 29,
+              "n": 33,
+              "share": 0.8787878787878788
+            },
+            "Reader instructions": {
+              "k": 27,
+              "n": 33,
+              "share": 0.8181818181818182
+            },
+            "Reader + criteria": {
+              "k": 24,
+              "n": 32,
+              "share": 0.75
+            }
+          },
+          "agreement_by_type": {
+            "Mixed": {
+              "k": 21,
+              "n": 29,
+              "share": 0.7241379310344828
+            },
+            "Taste/mixed": {
+              "k": 61,
+              "n": 75,
+              "share": 0.8133333333333334
+            },
+            "Technical": {
+              "k": 55,
+              "n": 71,
+              "share": 0.7746478873239436
+            },
+            "Technical/mixed": {
+              "k": 52,
+              "n": 70,
+              "share": 0.7428571428571429
+            }
+          },
+          "preferred_but_missed": {
+            "C1": {
+              "k": 11,
+              "n": 46,
+              "share": 0.2391304347826087
+            },
+            "C2": {
+              "k": 8,
+              "n": 29,
+              "share": 0.27586206896551724
+            },
+            "C3": {
+              "k": 12,
+              "n": 35,
+              "share": 0.34285714285714286
+            },
+            "C4": {
+              "k": 18,
+              "n": 49,
+              "share": 0.3673469387755102
+            },
+            "C5": {
+              "k": 18,
+              "n": 59,
+              "share": 0.3050847457627119
+            },
+            "C6": {
+              "k": 0,
+              "n": 39,
+              "share": 0.0
+            },
+            "C7": {
+              "k": 0,
+              "n": 39,
+              "share": 0.0
+            },
+            "C8": {
+              "k": 9,
+              "n": 56,
+              "share": 0.16071428571428573
+            }
+          }
+        },
+        "lower|F|no OpenAI pairs": {
+          "agreement": {
+            "all 8 concerns": {
+              "k": 48,
+              "n": 54,
+              "share": 0.8888888888888888
+            },
+            "reliably coded only": {
+              "k": 45,
+              "n": 49,
+              "share": 0.9183673469387755
+            }
+          },
+          "raised_on_baseline": {
+            "all 8 concerns": {
+              "k": 16,
+              "n": 20,
+              "share": 0.8
+            },
+            "reliably coded only": {
+              "k": 8,
+              "n": 11,
+              "share": 0.7272727272727273
+            }
+          },
+          "agreement_by_prompt": {
+            "Bare": {
+              "k": 18,
+              "n": 19,
+              "share": 0.9473684210526315
+            },
+            "Reader instructions": {
+              "k": 17,
+              "n": 17,
+              "share": 1.0
+            },
+            "Reader + criteria": {
+              "k": 13,
+              "n": 18,
+              "share": 0.7222222222222222
+            }
+          },
+          "agreement_by_type": {
+            "Mixed": {
+              "k": 1,
+              "n": 1,
+              "share": 1.0
+            },
+            "Taste/mixed": {
+              "k": 40,
+              "n": 45,
+              "share": 0.8888888888888888
+            },
+            "Technical": {
+              "k": 39,
+              "n": 46,
+              "share": 0.8478260869565217
+            },
+            "Technical/mixed": {
+              "k": 34,
+              "n": 42,
+              "share": 0.8095238095238095
+            }
+          },
+          "preferred_but_missed": {
+            "C1": {
+              "k": 2,
+              "n": 14,
+              "share": 0.14285714285714285
+            },
+            "C2": {
+              "k": 0,
+              "n": 1,
+              "share": 0.0
+            },
+            "C3": {
+              "k": 7,
+              "n": 22,
+              "share": 0.3181818181818182
+            },
+            "C4": {
+              "k": 8,
+              "n": 24,
+              "share": 0.3333333333333333
+            },
+            "C5": {
+              "k": 9,
+              "n": 35,
+              "share": 0.2571428571428571
+            },
+            "C6": {
+              "k": 0,
+              "n": 30,
+              "share": 0.0
+            },
+            "C7": {
+              "k": 0,
+              "n": 29,
+              "share": 0.0
+            },
+            "C8": {
+              "k": 2,
+              "n": 32,
+              "share": 0.0625
+            }
+          }
+        },
+        "lower|FP|all pairs": {
+          "agreement": {
+            "all 8 concerns": {
+              "k": 74,
+              "n": 92,
+              "share": 0.8043478260869565
+            },
+            "reliably coded only": {
+              "k": 74,
+              "n": 91,
+              "share": 0.8131868131868132
+            }
+          },
+          "raised_on_baseline": {
+            "all 8 concerns": {
+              "k": 38,
+              "n": 65,
+              "share": 0.5846153846153846
+            },
+            "reliably coded only": {
+              "k": 31,
+              "n": 55,
+              "share": 0.5636363636363636
+            }
+          },
+          "agreement_by_prompt": {
+            "Bare": {
+              "k": 27,
+              "n": 31,
+              "share": 0.8709677419354839
+            },
+            "Reader instructions": {
+              "k": 24,
+              "n": 28,
+              "share": 0.8571428571428571
+            },
+            "Reader + criteria": {
+              "k": 23,
+              "n": 33,
+              "share": 0.696969696969697
+            }
+          },
+          "agreement_by_type": {
+            "Mixed": {
+              "k": 23,
+              "n": 31,
+              "share": 0.7419354838709677
+            },
+            "Taste/mixed": {
+              "k": 66,
+              "n": 79,
+              "share": 0.8354430379746836
+            },
+            "Technical": {
+              "k": 39,
+              "n": 55,
+              "share": 0.7090909090909091
+            },
+            "Technical/mixed": {
+              "k": 50,
+              "n": 68,
+              "share": 0.7352941176470589
+            }
+          },
+          "preferred_but_missed": {
+            "C1": {
+              "k": 12,
+              "n": 57,
+              "share": 0.21052631578947367
+            },
+            "C2": {
+              "k": 8,
+              "n": 31,
+              "share": 0.25806451612903225
+            },
+            "C3": {
+              "k": 10,
+              "n": 39,
+              "share": 0.2564102564102564
+            },
+            "C4": {
+              "k": 18,
+              "n": 49,
+              "share": 0.3673469387755102
+            },
+            "C5": {
+              "k": 16,
+              "n": 54,
+              "share": 0.2962962962962963
+            },
+            "C6": {
+              "k": 0,
+              "n": 1,
+              "share": 0.0
+            },
+            "C7": {
+              "k": 0,
+              "n": 32,
+              "share": 0.0
+            },
+            "C8": {
+              "k": 0,
+              "n": 36,
+              "share": 0.0
+            }
+          }
+        },
+        "lower|FP|no OpenAI pairs": {
+          "agreement": {
+            "all 8 concerns": {
+              "k": 46,
+              "n": 53,
+              "share": 0.8679245283018868
+            },
+            "reliably coded only": {
+              "k": 45,
+              "n": 52,
+              "share": 0.8653846153846154
+            }
+          },
+          "raised_on_baseline": {
+            "all 8 concerns": {
+              "k": 21,
+              "n": 34,
+              "share": 0.6176470588235294
+            },
+            "reliably coded only": {
+              "k": 16,
+              "n": 26,
+              "share": 0.6153846153846154
+            }
+          },
+          "agreement_by_prompt": {
+            "Bare": {
+              "k": 17,
+              "n": 18,
+              "share": 0.9444444444444444
+            },
+            "Reader instructions": {
+              "k": 15,
+              "n": 15,
+              "share": 1.0
+            },
+            "Reader + criteria": {
+              "k": 14,
+              "n": 20,
+              "share": 0.7
+            }
+          },
+          "agreement_by_type": {
+            "Mixed": {
+              "k": 1,
+              "n": 1,
+              "share": 1.0
+            },
+            "Taste/mixed": {
+              "k": 42,
+              "n": 49,
+              "share": 0.8571428571428571
+            },
+            "Technical": {
+              "k": 26,
+              "n": 34,
+              "share": 0.7647058823529411
+            },
+            "Technical/mixed": {
+              "k": 32,
+              "n": 40,
+              "share": 0.8
+            }
+          },
+          "preferred_but_missed": {
+            "C1": {
+              "k": 6,
+              "n": 28,
+              "share": 0.21428571428571427
+            },
+            "C2": {
+              "k": 0,
+              "n": 1,
+              "share": 0.0
+            },
+            "C3": {
+              "k": 6,
+              "n": 26,
+              "share": 0.23076923076923078
+            },
+            "C4": {
+              "k": 8,
+              "n": 24,
+              "share": 0.3333333333333333
+            },
+            "C5": {
+              "k": 8,
+              "n": 33,
+              "share": 0.24242424242424243
+            },
+            "C6": {
+              "k": 0,
+              "n": 1,
+              "share": 0.0
+            },
+            "C7": {
+              "k": 0,
+              "n": 24,
+              "share": 0.0
+            },
+            "C8": {
+              "k": 0,
+              "n": 27,
+              "share": 0.0
+            }
+          }
+        },
+        "higher|F|all pairs": {
+          "agreement": {
+            "all 8 concerns": {
+              "k": 78,
+              "n": 94,
+              "share": 0.8297872340425532
+            },
+            "reliably coded only": {
+              "k": 76,
+              "n": 90,
+              "share": 0.8444444444444444
+            }
+          },
+          "raised_on_baseline": {
+            "all 8 concerns": {
+              "k": 42,
+              "n": 66,
+              "share": 0.6363636363636364
+            },
+            "reliably coded only": {
+              "k": 16,
+              "n": 29,
+              "share": 0.5517241379310345
+            }
+          },
+          "agreement_by_prompt": {
+            "Bare": {
+              "k": 28,
+              "n": 31,
+              "share": 0.9032258064516129
+            },
+            "Reader instructions": {
+              "k": 26,
+              "n": 31,
+              "share": 0.8387096774193549
+            },
+            "Reader + criteria": {
+              "k": 24,
+              "n": 32,
+              "share": 0.75
+            }
+          },
+          "agreement_by_type": {
+            "Mixed": {
+              "k": 23,
+              "n": 31,
+              "share": 0.7419354838709677
+            },
+            "Taste/mixed": {
+              "k": 68,
+              "n": 84,
+              "share": 0.8095238095238095
+            },
+            "Technical": {
+              "k": 50,
+              "n": 66,
+              "share": 0.7575757575757576
+            },
+            "Technical/mixed": {
+              "k": 52,
+              "n": 70,
+              "share": 0.7428571428571429
+            }
+          },
+          "preferred_but_missed": {
+            "C1": {
+              "k": 13,
+              "n": 54,
+              "share": 0.24074074074074073
+            },
+            "C2": {
+              "k": 8,
+              "n": 31,
+              "share": 0.25806451612903225
+            },
+            "C3": {
+              "k": 12,
+              "n": 37,
+              "share": 0.32432432432432434
+            },
+            "C4": {
+              "k": 18,
+              "n": 49,
+              "share": 0.3673469387755102
+            },
+            "C5": {
+              "k": 18,
+              "n": 55,
+              "share": 0.32727272727272727
+            },
+            "C6": {
+              "k": 0,
+              "n": 36,
+              "share": 0.0
+            },
+            "C7": {
+              "k": 0,
+              "n": 38,
+              "share": 0.0
+            },
+            "C8": {
+              "k": 3,
+              "n": 51,
+              "share": 0.058823529411764705
+            }
+          }
+        },
+        "higher|F|no OpenAI pairs": {
+          "agreement": {
+            "all 8 concerns": {
+              "k": 46,
+              "n": 52,
+              "share": 0.8846153846153846
+            },
+            "reliably coded only": {
+              "k": 44,
+              "n": 49,
+              "share": 0.8979591836734694
+            }
+          },
+          "raised_on_baseline": {
+            "all 8 concerns": {
+              "k": 25,
+              "n": 36,
+              "share": 0.6944444444444444
+            },
+            "reliably coded only": {
+              "k": 9,
+              "n": 12,
+              "share": 0.75
+            }
+          },
+          "agreement_by_prompt": {
+            "Bare": {
+              "k": 17,
+              "n": 18,
+              "share": 0.9444444444444444
+            },
+            "Reader instructions": {
+              "k": 16,
+              "n": 16,
+              "share": 1.0
+            },
+            "Reader + criteria": {
+              "k": 13,
+              "n": 18,
+              "share": 0.7222222222222222
+            }
+          },
+          "agreement_by_type": {
+            "Mixed": {
+              "k": 1,
+              "n": 1,
+              "share": 1.0
+            },
+            "Taste/mixed": {
+              "k": 41,
+              "n": 48,
+              "share": 0.8541666666666666
+            },
+            "Technical": {
+              "k": 36,
+              "n": 43,
+              "share": 0.8372093023255814
+            },
+            "Technical/mixed": {
+              "k": 34,
+              "n": 42,
+              "share": 0.8095238095238095
+            }
+          },
+          "preferred_but_missed": {
+            "C1": {
+              "k": 4,
+              "n": 22,
+              "share": 0.18181818181818182
+            },
+            "C2": {
+              "k": 0,
+              "n": 1,
+              "share": 0.0
+            },
+            "C3": {
+              "k": 7,
+              "n": 24,
+              "share": 0.2916666666666667
+            },
+            "C4": {
+              "k": 8,
+              "n": 24,
+              "share": 0.3333333333333333
+            },
+            "C5": {
+              "k": 9,
+              "n": 33,
+              "share": 0.2727272727272727
+            },
+            "C6": {
+              "k": 0,
+              "n": 28,
+              "share": 0.0
+            },
+            "C7": {
+              "k": 0,
+              "n": 29,
+              "share": 0.0
+            },
+            "C8": {
+              "k": 2,
+              "n": 32,
+              "share": 0.0625
+            }
+          }
+        },
+        "higher|FP|all pairs": {
+          "agreement": {
+            "all 8 concerns": {
+              "k": 74,
+              "n": 93,
+              "share": 0.7956989247311828
+            },
+            "reliably coded only": {
+              "k": 73,
+              "n": 89,
+              "share": 0.8202247191011236
+            }
+          },
+          "raised_on_baseline": {
+            "all 8 concerns": {
+              "k": 36,
+              "n": 59,
+              "share": 0.6101694915254238
+            },
+            "reliably coded only": {
+              "k": 31,
+              "n": 53,
+              "share": 0.5849056603773585
+            }
+          },
+          "agreement_by_prompt": {
+            "Bare": {
+              "k": 27,
+              "n": 31,
+              "share": 0.8709677419354839
+            },
+            "Reader instructions": {
+              "k": 24,
+              "n": 29,
+              "share": 0.8275862068965517
+            },
+            "Reader + criteria": {
+              "k": 23,
+              "n": 33,
+              "share": 0.696969696969697
+            }
+          },
+          "agreement_by_type": {
+            "Mixed": {
+              "k": 23,
+              "n": 31,
+              "share": 0.7419354838709677
+            },
+            "Taste/mixed": {
+              "k": 66,
+              "n": 78,
+              "share": 0.8461538461538461
+            },
+            "Technical": {
+              "k": 37,
+              "n": 53,
+              "share": 0.6981132075471698
+            },
+            "Technical/mixed": {
+              "k": 48,
+              "n": 66,
+              "share": 0.7272727272727273
+            }
+          },
+          "preferred_but_missed": {
+            "C1": {
+              "k": 12,
+              "n": 57,
+              "share": 0.21052631578947367
+            },
+            "C2": {
+              "k": 8,
+              "n": 31,
+              "share": 0.25806451612903225
+            },
+            "C3": {
+              "k": 10,
+              "n": 38,
+              "share": 0.2631578947368421
+            },
+            "C4": {
+              "k": 18,
+              "n": 50,
+              "share": 0.36
+            },
+            "C5": {
+              "k": 16,
+              "n": 53,
+              "share": 0.3018867924528302
+            },
+            "C6": {
+              "k": 0,
+              "n": 0,
+              "share": null
+            },
+            "C7": {
+              "k": 0,
+              "n": 29,
+              "share": 0.0
+            },
+            "C8": {
+              "k": 0,
+              "n": 36,
+              "share": 0.0
+            }
+          }
+        },
+        "higher|FP|no OpenAI pairs": {
+          "agreement": {
+            "all 8 concerns": {
+              "k": 47,
+              "n": 54,
+              "share": 0.8703703703703703
+            },
+            "reliably coded only": {
+              "k": 45,
+              "n": 51,
+              "share": 0.8823529411764706
+            }
+          },
+          "raised_on_baseline": {
+            "all 8 concerns": {
+              "k": 22,
+              "n": 31,
+              "share": 0.7096774193548387
+            },
+            "reliably coded only": {
+              "k": 17,
+              "n": 24,
+              "share": 0.7083333333333334
+            }
+          },
+          "agreement_by_prompt": {
+            "Bare": {
+              "k": 17,
+              "n": 18,
+              "share": 0.9444444444444444
+            },
+            "Reader instructions": {
+              "k": 15,
+              "n": 16,
+              "share": 0.9375
+            },
+            "Reader + criteria": {
+              "k": 15,
+              "n": 20,
+              "share": 0.75
+            }
+          },
+          "agreement_by_type": {
+            "Mixed": {
+              "k": 1,
+              "n": 1,
+              "share": 1.0
+            },
+            "Taste/mixed": {
+              "k": 42,
+              "n": 48,
+              "share": 0.875
+            },
+            "Technical": {
+              "k": 24,
+              "n": 32,
+              "share": 0.75
+            },
+            "Technical/mixed": {
+              "k": 31,
+              "n": 39,
+              "share": 0.7948717948717948
+            }
+          },
+          "preferred_but_missed": {
+            "C1": {
+              "k": 6,
+              "n": 28,
+              "share": 0.21428571428571427
+            },
+            "C2": {
+              "k": 0,
+              "n": 1,
+              "share": 0.0
+            },
+            "C3": {
+              "k": 6,
+              "n": 27,
+              "share": 0.2222222222222222
+            },
+            "C4": {
+              "k": 8,
+              "n": 24,
+              "share": 0.3333333333333333
+            },
+            "C5": {
+              "k": 8,
+              "n": 32,
+              "share": 0.25
+            },
+            "C6": {
+              "k": 0,
+              "n": 0,
+              "share": null
+            },
+            "C7": {
+              "k": 0,
+              "n": 23,
+              "share": 0.0
+            },
+            "C8": {
+              "k": 0,
+              "n": 27,
+              "share": 0.0
+            }
+          }
+        }
+      }
+    },
+    "qwen3p8-2p4t-a95b": {
+      "pairs": 240,
+      "decided": 214,
+      "first_position_wins": {
+        "k": 236,
+        "n": 480,
+        "share": 0.49166666666666664
+      },
+      "variants": {
+        "lower|F|all pairs": {
+          "agreement": {
+            "all 8 concerns": {
+              "k": 69,
+              "n": 95,
+              "share": 0.7263157894736842
+            },
+            "reliably coded only": {
+              "k": 64,
+              "n": 86,
+              "share": 0.7441860465116279
+            }
+          },
+          "raised_on_baseline": {
+            "all 8 concerns": {
+              "k": 25,
+              "n": 39,
+              "share": 0.6410256410256411
+            },
+            "reliably coded only": {
+              "k": 11,
+              "n": 25,
+              "share": 0.44
+            }
+          },
+          "agreement_by_prompt": {
+            "Bare": {
+              "k": 27,
+              "n": 31,
+              "share": 0.8709677419354839
+            },
+            "Reader instructions": {
+              "k": 26,
+              "n": 33,
+              "share": 0.7878787878787878
+            },
+            "Reader + criteria": {
+              "k": 16,
+              "n": 31,
+              "share": 0.5161290322580645
+            }
+          },
+          "agreement_by_type": {
+            "Mixed": {
+              "k": 14,
+              "n": 28,
+              "share": 0.5
+            },
+            "Taste/mixed": {
+              "k": 54,
+              "n": 74,
+              "share": 0.7297297297297297
+            },
+            "Technical": {
+              "k": 50,
+              "n": 69,
+              "share": 0.7246376811594203
+            },
+            "Technical/mixed": {
+              "k": 48,
+              "n": 68,
+              "share": 0.7058823529411765
+            }
+          },
+          "preferred_but_missed": {
+            "C1": {
+              "k": 19,
+              "n": 43,
+              "share": 0.4418604651162791
+            },
+            "C2": {
+              "k": 14,
+              "n": 28,
+              "share": 0.5
+            },
+            "C3": {
+              "k": 16,
+              "n": 33,
+              "share": 0.48484848484848486
+            },
+            "C4": {
+              "k": 20,
+              "n": 48,
+              "share": 0.4166666666666667
+            },
+            "C5": {
+              "k": 21,
+              "n": 57,
+              "share": 0.3684210526315789
+            },
+            "C6": {
+              "k": 0,
+              "n": 39,
+              "share": 0.0
+            },
+            "C7": {
+              "k": 0,
+              "n": 38,
+              "share": 0.0
+            },
+            "C8": {
+              "k": 7,
+              "n": 55,
+              "share": 0.12727272727272726
+            }
+          }
+        },
+        "lower|F|no OpenAI pairs": {
+          "agreement": {
+            "all 8 concerns": {
+              "k": 46,
+              "n": 53,
+              "share": 0.8679245283018868
+            },
+            "reliably coded only": {
+              "k": 42,
+              "n": 47,
+              "share": 0.8936170212765957
+            }
+          },
+          "raised_on_baseline": {
+            "all 8 concerns": {
+              "k": 15,
+              "n": 19,
+              "share": 0.7894736842105263
+            },
+            "reliably coded only": {
+              "k": 7,
+              "n": 10,
+              "share": 0.7
+            }
+          },
+          "agreement_by_prompt": {
+            "Bare": {
+              "k": 17,
+              "n": 18,
+              "share": 0.9444444444444444
+            },
+            "Reader instructions": {
+              "k": 17,
+              "n": 18,
+              "share": 0.9444444444444444
+            },
+            "Reader + criteria": {
+              "k": 12,
+              "n": 17,
+              "share": 0.7058823529411765
+            }
+          },
+          "agreement_by_type": {
+            "Mixed": {
+              "k": 1,
+              "n": 1,
+              "share": 1.0
+            },
+            "Taste/mixed": {
+              "k": 39,
+              "n": 45,
+              "share": 0.8666666666666667
+            },
+            "Technical": {
+              "k": 38,
+              "n": 44,
+              "share": 0.8636363636363636
+            },
+            "Technical/mixed": {
+              "k": 34,
+              "n": 41,
+              "share": 0.8292682926829268
+            }
+          },
+          "preferred_but_missed": {
+            "C1": {
+              "k": 3,
+              "n": 12,
+              "share": 0.25
+            },
+            "C2": {
+              "k": 0,
+              "n": 1,
+              "share": 0.0
+            },
+            "C3": {
+              "k": 7,
+              "n": 20,
+              "share": 0.35
+            },
+            "C4": {
+              "k": 7,
+              "n": 23,
+              "share": 0.30434782608695654
+            },
+            "C5": {
+              "k": 8,
+              "n": 33,
+              "share": 0.24242424242424243
+            },
+            "C6": {
+              "k": 0,
+              "n": 30,
+              "share": 0.0
+            },
+            "C7": {
+              "k": 0,
+              "n": 29,
+              "share": 0.0
+            },
+            "C8": {
+              "k": 1,
+              "n": 31,
+              "share": 0.03225806451612903
+            }
+          }
+        },
+        "lower|FP|all pairs": {
+          "agreement": {
+            "all 8 concerns": {
+              "k": 61,
+              "n": 87,
+              "share": 0.7011494252873564
+            },
+            "reliably coded only": {
+              "k": 62,
+              "n": 87,
+              "share": 0.7126436781609196
+            }
+          },
+          "raised_on_baseline": {
+            "all 8 concerns": {
+              "k": 30,
+              "n": 63,
+              "share": 0.47619047619047616
+            },
+            "reliably coded only": {
+              "k": 25,
+              "n": 53,
+              "share": 0.4716981132075472
+            }
+          },
+          "agreement_by_prompt": {
+            "Bare": {
+              "k": 25,
+              "n": 29,
+              "share": 0.8620689655172413
+            },
+            "Reader instructions": {
+              "k": 22,
+              "n": 27,
+              "share": 0.8148148148148148
+            },
+            "Reader + criteria": {
+              "k": 14,
+              "n": 31,
+              "share": 0.45161290322580644
+            }
+          },
+          "agreement_by_type": {
+            "Mixed": {
+              "k": 16,
+              "n": 30,
+              "share": 0.5333333333333333
+            },
+            "Taste/mixed": {
+              "k": 54,
+              "n": 74,
+              "share": 0.7297297297297297
+            },
+            "Technical": {
+              "k": 35,
+              "n": 53,
+              "share": 0.660377358490566
+            },
+            "Technical/mixed": {
+              "k": 46,
+              "n": 66,
+              "share": 0.696969696969697
+            }
+          },
+          "preferred_but_missed": {
+            "C1": {
+              "k": 19,
+              "n": 52,
+              "share": 0.36538461538461536
+            },
+            "C2": {
+              "k": 14,
+              "n": 30,
+              "share": 0.4666666666666667
+            },
+            "C3": {
+              "k": 14,
+              "n": 38,
+              "share": 0.3684210526315789
+            },
+            "C4": {
+              "k": 20,
+              "n": 48,
+              "share": 0.4166666666666667
+            },
+            "C5": {
+              "k": 18,
+              "n": 52,
+              "share": 0.34615384615384615
+            },
+            "C6": {
+              "k": 0,
+              "n": 1,
+              "share": 0.0
+            },
+            "C7": {
+              "k": 0,
+              "n": 31,
+              "share": 0.0
+            },
+            "C8": {
+              "k": 0,
+              "n": 37,
+              "share": 0.0
+            }
+          }
+        },
+        "lower|FP|no OpenAI pairs": {
+          "agreement": {
+            "all 8 concerns": {
+              "k": 42,
+              "n": 50,
+              "share": 0.84
+            },
+            "reliably coded only": {
+              "k": 41,
+              "n": 49,
+              "share": 0.8367346938775511
+            }
+          },
+          "raised_on_baseline": {
+            "all 8 concerns": {
+              "k": 18,
+              "n": 33,
+              "share": 0.5454545454545454
+            },
+            "reliably coded only": {
+              "k": 15,
+              "n": 26,
+              "share": 0.5769230769230769
+            }
+          },
+          "agreement_by_prompt": {
+            "Bare": {
+              "k": 16,
+              "n": 17,
+              "share": 0.9411764705882353
+            },
+            "Reader instructions": {
+              "k": 14,
+              "n": 15,
+              "share": 0.9333333333333333
+            },
+            "Reader + criteria": {
+              "k": 12,
+              "n": 18,
+              "share": 0.6666666666666666
+            }
+          },
+          "agreement_by_type": {
+            "Mixed": {
+              "k": 1,
+              "n": 1,
+              "share": 1.0
+            },
+            "Taste/mixed": {
+              "k": 38,
+              "n": 45,
+              "share": 0.8444444444444444
+            },
+            "Technical": {
+              "k": 25,
+              "n": 32,
+              "share": 0.78125
+            },
+            "Technical/mixed": {
+              "k": 32,
+              "n": 39,
+              "share": 0.8205128205128205
+            }
+          },
+          "preferred_but_missed": {
+            "C1": {
+              "k": 6,
+              "n": 24,
+              "share": 0.25
+            },
+            "C2": {
+              "k": 0,
+              "n": 1,
+              "share": 0.0
+            },
+            "C3": {
+              "k": 7,
+              "n": 25,
+              "share": 0.28
+            },
+            "C4": {
+              "k": 7,
+              "n": 23,
+              "share": 0.30434782608695654
+            },
+            "C5": {
+              "k": 7,
+              "n": 31,
+              "share": 0.22580645161290322
+            },
+            "C6": {
+              "k": 0,
+              "n": 1,
+              "share": 0.0
+            },
+            "C7": {
+              "k": 0,
+              "n": 24,
+              "share": 0.0
+            },
+            "C8": {
+              "k": 0,
+              "n": 28,
+              "share": 0.0
+            }
+          }
+        },
+        "higher|F|all pairs": {
+          "agreement": {
+            "all 8 concerns": {
+              "k": 68,
+              "n": 92,
+              "share": 0.7391304347826086
+            },
+            "reliably coded only": {
+              "k": 65,
+              "n": 87,
+              "share": 0.7471264367816092
+            }
+          },
+          "raised_on_baseline": {
+            "all 8 concerns": {
+              "k": 40,
+              "n": 64,
+              "share": 0.625
+            },
+            "reliably coded only": {
+              "k": 12,
+              "n": 27,
+              "share": 0.4444444444444444
+            }
+          },
+          "agreement_by_prompt": {
+            "Bare": {
+              "k": 27,
+              "n": 30,
+              "share": 0.9
+            },
+            "Reader instructions": {
+              "k": 25,
+              "n": 31,
+              "share": 0.8064516129032258
+            },
+            "Reader + criteria": {
+              "k": 16,
+              "n": 31,
+              "share": 0.5161290322580645
+            }
+          },
+          "agreement_by_type": {
+            "Mixed": {
+              "k": 16,
+              "n": 30,
+              "share": 0.5333333333333333
+            },
+            "Taste/mixed": {
+              "k": 59,
+              "n": 81,
+              "share": 0.7283950617283951
+            },
+            "Technical": {
+              "k": 46,
+              "n": 65,
+              "share": 0.7076923076923077
+            },
+            "Technical/mixed": {
+              "k": 48,
+              "n": 68,
+              "share": 0.7058823529411765
+            }
+          },
+          "preferred_but_missed": {
+            "C1": {
+              "k": 20,
+              "n": 50,
+              "share": 0.4
+            },
+            "C2": {
+              "k": 14,
+              "n": 30,
+              "share": 0.4666666666666667
+            },
+            "C3": {
+              "k": 16,
+              "n": 35,
+              "share": 0.45714285714285713
+            },
+            "C4": {
+              "k": 20,
+              "n": 48,
+              "share": 0.4166666666666667
+            },
+            "C5": {
+              "k": 21,
+              "n": 54,
+              "share": 0.3888888888888889
+            },
+            "C6": {
+              "k": 0,
+              "n": 36,
+              "share": 0.0
+            },
+            "C7": {
+              "k": 0,
+              "n": 37,
+              "share": 0.0
+            },
+            "C8": {
+              "k": 3,
+              "n": 49,
+              "share": 0.061224489795918366
+            }
+          }
+        },
+        "higher|F|no OpenAI pairs": {
+          "agreement": {
+            "all 8 concerns": {
+              "k": 45,
+              "n": 52,
+              "share": 0.8653846153846154
+            },
+            "reliably coded only": {
+              "k": 42,
+              "n": 48,
+              "share": 0.875
+            }
+          },
+          "raised_on_baseline": {
+            "all 8 concerns": {
+              "k": 24,
+              "n": 37,
+              "share": 0.6486486486486487
+            },
+            "reliably coded only": {
+              "k": 8,
+              "n": 11,
+              "share": 0.7272727272727273
+            }
+          },
+          "agreement_by_prompt": {
+            "Bare": {
+              "k": 17,
+              "n": 18,
+              "share": 0.9444444444444444
+            },
+            "Reader instructions": {
+              "k": 16,
+              "n": 17,
+              "share": 0.9411764705882353
+            },
+            "Reader + criteria": {
+              "k": 12,
+              "n": 17,
+              "share": 0.7058823529411765
+            }
+          },
+          "agreement_by_type": {
+            "Mixed": {
+              "k": 1,
+              "n": 1,
+              "share": 1.0
+            },
+            "Taste/mixed": {
+              "k": 40,
+              "n": 47,
+              "share": 0.851063829787234
+            },
+            "Technical": {
+              "k": 35,
+              "n": 41,
+              "share": 0.8536585365853658
+            },
+            "Technical/mixed": {
+              "k": 34,
+              "n": 41,
+              "share": 0.8292682926829268
+            }
+          },
+          "preferred_but_missed": {
+            "C1": {
+              "k": 4,
+              "n": 19,
+              "share": 0.21052631578947367
+            },
+            "C2": {
+              "k": 0,
+              "n": 1,
+              "share": 0.0
+            },
+            "C3": {
+              "k": 7,
+              "n": 22,
+              "share": 0.3181818181818182
+            },
+            "C4": {
+              "k": 7,
+              "n": 23,
+              "share": 0.30434782608695654
+            },
+            "C5": {
+              "k": 8,
+              "n": 31,
+              "share": 0.25806451612903225
+            },
+            "C6": {
+              "k": 0,
+              "n": 28,
+              "share": 0.0
+            },
+            "C7": {
+              "k": 0,
+              "n": 29,
+              "share": 0.0
+            },
+            "C8": {
+              "k": 1,
+              "n": 31,
+              "share": 0.03225806451612903
+            }
+          }
+        },
+        "higher|FP|all pairs": {
+          "agreement": {
+            "all 8 concerns": {
+              "k": 62,
+              "n": 89,
+              "share": 0.6966292134831461
+            },
+            "reliably coded only": {
+              "k": 61,
+              "n": 85,
+              "share": 0.7176470588235294
+            }
+          },
+          "raised_on_baseline": {
+            "all 8 concerns": {
+              "k": 29,
+              "n": 55,
+              "share": 0.5272727272727272
+            },
+            "reliably coded only": {
+              "k": 25,
+              "n": 48,
+              "share": 0.5208333333333334
+            }
+          },
+          "agreement_by_prompt": {
+            "Bare": {
+              "k": 25,
+              "n": 29,
+              "share": 0.8620689655172413
+            },
+            "Reader instructions": {
+              "k": 22,
+              "n": 28,
+              "share": 0.7857142857142857
+            },
+            "Reader + criteria": {
+              "k": 15,
+              "n": 32,
+              "share": 0.46875
+            }
+          },
+          "agreement_by_type": {
+            "Mixed": {
+              "k": 16,
+              "n": 30,
+              "share": 0.5333333333333333
+            },
+            "Taste/mixed": {
+              "k": 54,
+              "n": 73,
+              "share": 0.7397260273972602
+            },
+            "Technical": {
+              "k": 34,
+              "n": 52,
+              "share": 0.6538461538461539
+            },
+            "Technical/mixed": {
+              "k": 45,
+              "n": 65,
+              "share": 0.6923076923076923
+            }
+          },
+          "preferred_but_missed": {
+            "C1": {
+              "k": 19,
+              "n": 52,
+              "share": 0.36538461538461536
+            },
+            "C2": {
+              "k": 14,
+              "n": 30,
+              "share": 0.4666666666666667
+            },
+            "C3": {
+              "k": 14,
+              "n": 37,
+              "share": 0.3783783783783784
+            },
+            "C4": {
+              "k": 20,
+              "n": 49,
+              "share": 0.40816326530612246
+            },
+            "C5": {
+              "k": 18,
+              "n": 52,
+              "share": 0.34615384615384615
+            },
+            "C6": {
+              "k": 0,
+              "n": 0,
+              "share": null
+            },
+            "C7": {
+              "k": 0,
+              "n": 29,
+              "share": 0.0
+            },
+            "C8": {
+              "k": 0,
+              "n": 37,
+              "share": 0.0
+            }
+          }
+        },
+        "higher|FP|no OpenAI pairs": {
+          "agreement": {
+            "all 8 concerns": {
+              "k": 43,
+              "n": 51,
+              "share": 0.8431372549019608
+            },
+            "reliably coded only": {
+              "k": 41,
+              "n": 48,
+              "share": 0.8541666666666666
+            }
+          },
+          "raised_on_baseline": {
+            "all 8 concerns": {
+              "k": 18,
+              "n": 29,
+              "share": 0.6206896551724138
+            },
+            "reliably coded only": {
+              "k": 15,
+              "n": 24,
+              "share": 0.625
+            }
+          },
+          "agreement_by_prompt": {
+            "Bare": {
+              "k": 16,
+              "n": 17,
+              "share": 0.9411764705882353
+            },
+            "Reader instructions": {
+              "k": 14,
+              "n": 16,
+              "share": 0.875
+            },
+            "Reader + criteria": {
+              "k": 13,
+              "n": 18,
+              "share": 0.7222222222222222
+            }
+          },
+          "agreement_by_type": {
+            "Mixed": {
+              "k": 1,
+              "n": 1,
+              "share": 1.0
+            },
+            "Taste/mixed": {
+              "k": 38,
+              "n": 44,
+              "share": 0.8636363636363636
+            },
+            "Technical": {
+              "k": 24,
+              "n": 31,
+              "share": 0.7741935483870968
+            },
+            "Technical/mixed": {
+              "k": 31,
+              "n": 38,
+              "share": 0.8157894736842105
+            }
+          },
+          "preferred_but_missed": {
+            "C1": {
+              "k": 6,
+              "n": 24,
+              "share": 0.25
+            },
+            "C2": {
+              "k": 0,
+              "n": 1,
+              "share": 0.0
+            },
+            "C3": {
+              "k": 7,
+              "n": 26,
+              "share": 0.2692307692307692
+            },
+            "C4": {
+              "k": 7,
+              "n": 23,
+              "share": 0.30434782608695654
+            },
+            "C5": {
+              "k": 7,
+              "n": 31,
+              "share": 0.22580645161290322
+            },
+            "C6": {
+              "k": 0,
+              "n": 0,
+              "share": null
+            },
+            "C7": {
+              "k": 0,
+              "n": 23,
+              "share": 0.0
+            },
+            "C8": {
+              "k": 0,
+              "n": 28,
+              "share": 0.0
+            }
+          }
+        },
+        "sonnet|F|all pairs": {
+          "agreement": {
+            "all 8 concerns": {
+              "k": 68,
+              "n": 92,
+              "share": 0.7391304347826086
+            },
+            "reliably coded only": {
+              "k": 66,
+              "n": 88,
+              "share": 0.75
+            }
+          },
+          "raised_on_baseline": {
+            "all 8 concerns": {
+              "k": 25,
+              "n": 40,
+              "share": 0.625
+            },
+            "reliably coded only": {
+              "k": 11,
+              "n": 26,
+              "share": 0.4230769230769231
+            }
+          },
+          "agreement_by_prompt": {
+            "Bare": {
+              "k": 28,
+              "n": 31,
+              "share": 0.9032258064516129
+            },
+            "Reader instructions": {
+              "k": 25,
+              "n": 31,
+              "share": 0.8064516129032258
+            },
+            "Reader + criteria": {
+              "k": 15,
+              "n": 30,
+              "share": 0.5
+            }
+          },
+          "agreement_by_type": {
+            "Mixed": {
+              "k": 16,
+              "n": 30,
+              "share": 0.5333333333333333
+            },
+            "Taste/mixed": {
+              "k": 56,
+              "n": 77,
+              "share": 0.7272727272727273
+            },
+            "Technical": {
+              "k": 49,
+              "n": 68,
+              "share": 0.7205882352941176
+            },
+            "Technical/mixed": {
+              "k": 48,
+              "n": 68,
+              "share": 0.7058823529411765
+            }
+          },
+          "preferred_but_missed": {
+            "C1": {
+              "k": 20,
+              "n": 46,
+              "share": 0.43478260869565216
+            },
+            "C2": {
+              "k": 14,
+              "n": 30,
+              "share": 0.4666666666666667
+            },
+            "C3": {
+              "k": 16,
+              "n": 35,
+              "share": 0.45714285714285713
+            },
+            "C4": {
+              "k": 20,
+              "n": 48,
+              "share": 0.4166666666666667
+            },
+            "C5": {
+              "k": 21,
+              "n": 56,
+              "share": 0.375
+            },
+            "C6": {
+              "k": 0,
+              "n": 39,
+              "share": 0.0
+            },
+            "C7": {
+              "k": 0,
+              "n": 38,
+              "share": 0.0
+            },
+            "C8": {
+              "k": 5,
+              "n": 53,
+              "share": 0.09433962264150944
+            }
+          }
+        },
+        "sonnet|F|no OpenAI pairs": {
+          "agreement": {
+            "all 8 concerns": {
+              "k": 44,
+              "n": 51,
+              "share": 0.8627450980392157
+            },
+            "reliably coded only": {
+              "k": 42,
+              "n": 48,
+              "share": 0.875
+            }
+          },
+          "raised_on_baseline": {
+            "all 8 concerns": {
+              "k": 15,
+              "n": 19,
+              "share": 0.7894736842105263
+            },
+            "reliably coded only": {
+              "k": 7,
+              "n": 10,
+              "share": 0.7
+            }
+          },
+          "agreement_by_prompt": {
+            "Bare": {
+              "k": 17,
+              "n": 18,
+              "share": 0.9444444444444444
+            },
+            "Reader instructions": {
+              "k": 16,
+              "n": 17,
+              "share": 0.9411764705882353
+            },
+            "Reader + criteria": {
+              "k": 11,
+              "n": 16,
+              "share": 0.6875
+            }
+          },
+          "agreement_by_type": {
+            "Mixed": {
+              "k": 1,
+              "n": 1,
+              "share": 1.0
+            },
+            "Taste/mixed": {
+              "k": 39,
+              "n": 46,
+              "share": 0.8478260869565217
+            },
+            "Technical": {
+              "k": 37,
+              "n": 43,
+              "share": 0.8604651162790697
+            },
+            "Technical/mixed": {
+              "k": 34,
+              "n": 41,
+              "share": 0.8292682926829268
+            }
+          },
+          "preferred_but_missed": {
+            "C1": {
+              "k": 4,
+              "n": 15,
+              "share": 0.26666666666666666
+            },
+            "C2": {
+              "k": 0,
+              "n": 1,
+              "share": 0.0
+            },
+            "C3": {
+              "k": 7,
+              "n": 22,
+              "share": 0.3181818181818182
+            },
+            "C4": {
+              "k": 7,
+              "n": 23,
+              "share": 0.30434782608695654
+            },
+            "C5": {
+              "k": 8,
+              "n": 32,
+              "share": 0.25
+            },
+            "C6": {
+              "k": 0,
+              "n": 30,
+              "share": 0.0
+            },
+            "C7": {
+              "k": 0,
+              "n": 29,
+              "share": 0.0
+            },
+            "C8": {
+              "k": 1,
+              "n": 30,
+              "share": 0.03333333333333333
+            }
+          }
+        },
+        "sonnet|FP|all pairs": {
+          "agreement": {
+            "all 8 concerns": {
+              "k": 61,
+              "n": 89,
+              "share": 0.6853932584269663
+            },
+            "reliably coded only": {
+              "k": 61,
+              "n": 86,
+              "share": 0.7093023255813954
+            }
+          },
+          "raised_on_baseline": {
+            "all 8 concerns": {
+              "k": 32,
+              "n": 67,
+              "share": 0.47761194029850745
+            },
+            "reliably coded only": {
+              "k": 26,
+              "n": 57,
+              "share": 0.45614035087719296
+            }
+          },
+          "agreement_by_prompt": {
+            "Bare": {
+              "k": 25,
+              "n": 29,
+              "share": 0.8620689655172413
+            },
+            "Reader instructions": {
+              "k": 22,
+              "n": 28,
+              "share": 0.7857142857142857
+            },
+            "Reader + criteria": {
+              "k": 14,
+              "n": 32,
+              "share": 0.4375
+            }
+          },
+          "agreement_by_type": {
+            "Mixed": {
+              "k": 16,
+              "n": 30,
+              "share": 0.5333333333333333
+            },
+            "Taste/mixed": {
+              "k": 54,
+              "n": 74,
+              "share": 0.7297297297297297
+            },
+            "Technical": {
+              "k": 35,
+              "n": 53,
+              "share": 0.660377358490566
+            },
+            "Technical/mixed": {
+              "k": 45,
+              "n": 65,
+              "share": 0.6923076923076923
+            }
+          },
+          "preferred_but_missed": {
+            "C1": {
+              "k": 20,
+              "n": 54,
+              "share": 0.37037037037037035
+            },
+            "C2": {
+              "k": 14,
+              "n": 30,
+              "share": 0.4666666666666667
+            },
+            "C3": {
+              "k": 14,
+              "n": 37,
+              "share": 0.3783783783783784
+            },
+            "C4": {
+              "k": 20,
+              "n": 49,
+              "share": 0.40816326530612246
+            },
+            "C5": {
+              "k": 18,
+              "n": 52,
+              "share": 0.34615384615384615
+            },
+            "C6": {
+              "k": 0,
+              "n": 1,
+              "share": 0.0
+            },
+            "C7": {
+              "k": 0,
+              "n": 30,
+              "share": 0.0
+            },
+            "C8": {
+              "k": 0,
+              "n": 37,
+              "share": 0.0
+            }
+          }
+        },
+        "sonnet|FP|no OpenAI pairs": {
+          "agreement": {
+            "all 8 concerns": {
+              "k": 42,
+              "n": 51,
+              "share": 0.8235294117647058
+            },
+            "reliably coded only": {
+              "k": 41,
+              "n": 49,
+              "share": 0.8367346938775511
+            }
+          },
+          "raised_on_baseline": {
+            "all 8 concerns": {
+              "k": 19,
+              "n": 35,
+              "share": 0.5428571428571428
+            },
+            "reliably coded only": {
+              "k": 15,
+              "n": 28,
+              "share": 0.5357142857142857
+            }
+          },
+          "agreement_by_prompt": {
+            "Bare": {
+              "k": 16,
+              "n": 17,
+              "share": 0.9411764705882353
+            },
+            "Reader instructions": {
+              "k": 14,
+              "n": 16,
+              "share": 0.875
+            },
+            "Reader + criteria": {
+              "k": 12,
+              "n": 18,
+              "share": 0.6666666666666666
+            }
+          },
+          "agreement_by_type": {
+            "Mixed": {
+              "k": 1,
+              "n": 1,
+              "share": 1.0
+            },
+            "Taste/mixed": {
+              "k": 38,
+              "n": 45,
+              "share": 0.8444444444444444
+            },
+            "Technical": {
+              "k": 25,
+              "n": 32,
+              "share": 0.78125
+            },
+            "Technical/mixed": {
+              "k": 31,
+              "n": 38,
+              "share": 0.8157894736842105
+            }
+          },
+          "preferred_but_missed": {
+            "C1": {
+              "k": 7,
+              "n": 26,
+              "share": 0.2692307692307692
+            },
+            "C2": {
+              "k": 0,
+              "n": 1,
+              "share": 0.0
+            },
+            "C3": {
+              "k": 7,
+              "n": 26,
+              "share": 0.2692307692307692
+            },
+            "C4": {
+              "k": 7,
+              "n": 23,
+              "share": 0.30434782608695654
+            },
+            "C5": {
+              "k": 7,
+              "n": 31,
+              "share": 0.22580645161290322
+            },
+            "C6": {
+              "k": 0,
+              "n": 1,
+              "share": 0.0
+            },
+            "C7": {
+              "k": 0,
+              "n": 23,
+              "share": 0.0
+            },
+            "C8": {
+              "k": 0,
+              "n": 28,
+              "share": 0.0
+            }
+          }
+        }
+      }
+    }
+  },
+  "recommendations": {
+    "Bare": {
+      "planted": {
+        "Reject": 0,
+        "Major revision": 58,
+        "Minor revision": 0,
+        "Accept": 0,
+        "None": 22,
+        "n": 80
+      },
+      "baseline": {
+        "Reject": 0,
+        "Major revision": 55,
+        "Minor revision": 0,
+        "Accept": 1,
+        "None": 24,
+        "n": 80
+      }
+    },
+    "Reader instructions": {
+      "planted": {
+        "Reject": 11,
+        "Major revision": 62,
+        "Minor revision": 7,
+        "Accept": 0,
+        "None": 0,
+        "n": 80
+      },
+      "baseline": {
+        "Reject": 2,
+        "Major revision": 71,
+        "Minor revision": 7,
+        "Accept": 0,
+        "None": 0,
+        "n": 80
+      }
+    },
+    "Reader + criteria": {
+      "planted": {
+        "Reject": 13,
+        "Major revision": 62,
+        "Minor revision": 5,
+        "Accept": 0,
+        "None": 0,
+        "n": 80
+      },
+      "baseline": {
+        "Reject": 10,
+        "Major revision": 53,
+        "Minor revision": 16,
+        "Accept": 1,
+        "None": 0,
+        "n": 80
+      }
+    },
+    "Both requested prompts": {
+      "planted": {
+        "Reject": 24,
+        "Major revision": 124,
+        "Minor revision": 12,
+        "Accept": 0,
+        "None": 0,
+        "n": 160
+      },
+      "baseline": {
+        "Reject": 12,
+        "Major revision": 124,
+        "Minor revision": 23,
+        "Accept": 1,
+        "None": 0,
+        "n": 160
+      }
+    }
+  },
+  "construction": {
+    "F": {
+      "used in construction": {
+        "planted": {
+          "lower": 4.9,
+          "higher": 5.133333333333334
+        },
+        "baseline": {
+          "lower": 0.4083333333333333,
+          "higher": 0.75
+        }
+      },
+      "not used in construction": {
+        "planted": {
+          "lower": 2.55,
+          "higher": 2.6666666666666665
+        },
+        "baseline": {
+          "lower": 0.11666666666666667,
+          "higher": 0.35
+        }
+      }
+    },
+    "FP": {
+      "used in construction": {
+        "planted": {
+          "lower": 5.516666666666667,
+          "higher": 5.558333333333334
+        },
+        "baseline": {
+          "lower": 2.1166666666666667,
+          "higher": 2.325
+        }
+      },
+      "not used in construction": {
+        "planted": {
+          "lower": 3.3666666666666667,
+          "higher": 3.4583333333333335
+        },
+        "baseline": {
+          "lower": 1.875,
+          "higher": 2.1333333333333333
+        }
+      }
+    }
+  },
+  "criticisms": {
+    "all": {
+      "planted": {
+        "reviews": 240,
+        "mean": 18.68125
+      },
+      "baseline": {
+        "reviews": 240,
+        "mean": 18.177083333333332
+      }
+    },
+    "by_model": {
+      "claude-fable-5-1": {
+        "planted": {
+          "reviews": 30,
+          "mean": 23.666666666666668
+        },
+        "baseline": {
+          "reviews": 30,
+          "mean": 22.683333333333334
+        }
+      },
+      "claude-haiku-5-5": {
+        "planted": {
+          "reviews": 30,
+          "mean": 35.53333333333333
+        },
+        "baseline": {
+          "reviews": 30,
+          "mean": 34.11666666666667
+        }
+      },
+      "gpt-6-astra": {
+        "planted": {
+          "reviews": 30,
+          "mean": 20.65
+        },
+        "baseline": {
+          "reviews": 30,
+          "mean": 18.533333333333335
+        }
+      },
+      "gpt-6-luna": {
+        "planted": {
+          "reviews": 30,
+          "mean": 13.15
+        },
+        "baseline": {
+          "reviews": 30,
+          "mean": 14.733333333333333
+        }
+      },
+      "gemini-4-argon": {
+        "planted": {
+          "reviews": 30,
+          "mean": 9.566666666666666
+        },
+        "baseline": {
+          "reviews": 30,
+          "mean": 7.716666666666667
+        }
+      },
+      "gemini-3-5-flash-lite": {
+        "planted": {
+          "reviews": 30,
+          "mean": 4.733333333333333
+        },
+        "baseline": {
+          "reviews": 30,
+          "mean": 4.9
+        }
+      },
+      "deepseek-v4p1-flash": {
+        "planted": {
+          "reviews": 30,
+          "mean": 18.416666666666668
+        },
+        "baseline": {
+          "reviews": 30,
+          "mean": 19.533333333333335
+        }
+      },
+      "kimi-k3": {
+        "planted": {
+          "reviews": 30,
+          "mean": 23.733333333333334
+        },
+        "baseline": {
+          "reviews": 30,
+          "mean": 23.2
+        }
+      }
+    },
+    "by_prompt": {
+      "Bare": {
+        "planted": {
+          "reviews": 80,
+          "mean": 17.1375
+        },
+        "baseline": {
+          "reviews": 80,
+          "mean": 16.6625
+        }
+      },
+      "Reader instructions": {
+        "planted": {
+          "reviews": 80,
+          "mean": 20.15
+        },
+        "baseline": {
+          "reviews": 80,
+          "mean": 19.425
+        }
+      },
+      "Reader + criteria": {
+        "planted": {
+          "reviews": 80,
+          "mean": 18.75625
+        },
+        "baseline": {
+          "reviews": 80,
+          "mean": 18.44375
+        }
+      }
+    }
+  },
+  "applied_corrections": [
+    {
+      "blind_id": "B312",
+      "concern": "C3",
+      "coder": "qwen",
+      "old_code": "P",
+      "recommended_code": "F",
+      "purpose": "effort",
+      "model": "gpt-6-astra-effort-low",
+      "version": "planted",
+      "prompt": "Reader + criteria"
+    },
+    {
+      "blind_id": "B492",
+      "concern": "C7",
+      "coder": "sonnet",
+      "old_code": "P",
+      "recommended_code": "–",
+      "purpose": "main",
+      "model": "gemini-4-argon",
+      "version": "baseline",
+      "prompt": "Reader + criteria"
+    },
+    {
+      "blind_id": "B366",
+      "concern": "C8",
+      "coder": "sonnet",
+      "old_code": "P",
+      "recommended_code": "F",
+      "purpose": "main",
+      "model": "gpt-6-astra",
+      "version": "planted",
+      "prompt": "Bare"
+    },
+    {
+      "blind_id": "B441",
+      "concern": "C7",
+      "coder": "sonnet",
+      "old_code": "P",
+      "recommended_code": "F",
+      "purpose": "main",
+      "model": "claude-haiku-5-5",
+      "version": "baseline",
+      "prompt": "Bare"
+    },
+    {
+      "blind_id": "B312",
+      "concern": "C3",
+      "coder": "sonnet",
+      "old_code": "P",
+      "recommended_code": "F",
+      "purpose": "effort",
+      "model": "gpt-6-astra-effort-low",
+      "version": "planted",
+      "prompt": "Reader + criteria"
+    },
+    {
+      "blind_id": "B492",
+      "concern": "C7",
+      "coder": "qwen",
+      "old_code": "P",
+      "recommended_code": "–",
+      "purpose": "main",
+      "model": "gemini-4-argon",
+      "version": "baseline",
+      "prompt": "Reader + criteria"
+    }
+  ],
+  "scalar_claims": {
+    "reviews_by_purpose": {
+      "main": 480,
+      "effort": 40,
+      "format": 20
+    },
+    "main_reviews": 480,
+    "main_reviews_per_version": {
+      "planted": 240,
+      "baseline": 240
+    },
+    "main_models": 8,
+    "main_prompts": 3,
+    "repeats_per_model_version_prompt": [
+      10
+    ],
+    "scoring_rows": 4320,
+    "scorer_review_assignments": 1080,
+    "corrections": 6,
+    "corrected_review_concern_cases": 4,
+    "investigator_check_reviews": 24,
+    "investigator_check_cells": 192,
+    "investigator_initial_agreement": {
+      "n": 192,
+      "same": 137,
+      "share": 0.7135416666666666,
+      "kappa": 0.45653852092017905
+    },
+    "investigator_disagreements": 55,
+    "final_reference_equals_investigator_2": true,
+    "scorer_agreement_original": {
+      "n": 4320,
+      "same": 4117,
+      "share": 0.9530092592592593,
+      "kappa": 0.9182185795346136
+    },
+    "scorer_agreement_corrected": {
+      "n": 4320,
+      "same": 4119,
+      "share": 0.9534722222222223,
+      "kappa": 0.9189772501420642
+    },
+    "human_validation_readers": 5,
+    "concerns_with_at_least_three_endorsements_including_qualified": 7,
+    "observed_majority_rejected_concerns": [
+      "C2"
+    ],
+    "always_major_models_requested_prompts": [
+      "claude-fable-5-1",
+      "claude-haiku-5-5",
+      "deepseek-v4p1-flash",
+      "gpt-6-luna",
+      "kimi-k3"
+    ],
+    "always_major_model_count": 5,
+    "recommendations_extracted_by_method": {
+      "automatic": 410,
+      "none stated": 46,
+      "mixed statements, investigator checked": 24
+    },
+    "requested_recommendations_present": 320,
+    "criticisms": {
+      "all": {
+        "planted": {
+          "reviews": 240,
+          "mean": 18.68125
+        },
+        "baseline": {
+          "reviews": 240,
+          "mean": 18.177083333333332
+        }
+      },
+      "by_model": {
+        "claude-fable-5-1": {
+          "planted": {
+            "reviews": 30,
+            "mean": 23.666666666666668
+          },
+          "baseline": {
+            "reviews": 30,
+            "mean": 22.683333333333334
+          }
+        },
+        "claude-haiku-5-5": {
+          "planted": {
+            "reviews": 30,
+            "mean": 35.53333333333333
+          },
+          "baseline": {
+            "reviews": 30,
+            "mean": 34.11666666666667
+          }
+        },
+        "gpt-6-astra": {
+          "planted": {
+            "reviews": 30,
+            "mean": 20.65
+          },
+          "baseline": {
+            "reviews": 30,
+            "mean": 18.533333333333335
+          }
+        },
+        "gpt-6-luna": {
+          "planted": {
+            "reviews": 30,
+            "mean": 13.15
+          },
+          "baseline": {
+            "reviews": 30,
+            "mean": 14.733333333333333
+          }
+        },
+        "gemini-4-argon": {
+          "planted": {
+            "reviews": 30,
+            "mean": 9.566666666666666
+          },
+          "baseline": {
+            "reviews": 30,
+            "mean": 7.716666666666667
+          }
+        },
+        "gemini-3-5-flash-lite": {
+          "planted": {
+            "reviews": 30,
+            "mean": 4.733333333333333
+          },
+          "baseline": {
+            "reviews": 30,
+            "mean": 4.9
+          }
+        },
+        "deepseek-v4p1-flash": {
+          "planted": {
+            "reviews": 30,
+            "mean": 18.416666666666668
+          },
+          "baseline": {
+            "reviews": 30,
+            "mean": 19.533333333333335
+          }
+        },
+        "kimi-k3": {
+          "planted": {
+            "reviews": 30,
+            "mean": 23.733333333333334
+          },
+          "baseline": {
+            "reviews": 30,
+            "mean": 23.2
+          }
+        }
+      },
+      "by_prompt": {
+        "Bare": {
+          "planted": {
+            "reviews": 80,
+            "mean": 17.1375
+          },
+          "baseline": {
+            "reviews": 80,
+            "mean": 16.6625
+          }
+        },
+        "Reader instructions": {
+          "planted": {
+            "reviews": 80,
+            "mean": 20.15
+          },
+          "baseline": {
+            "reviews": 80,
+            "mean": 19.425
+          }
+        },
+        "Reader + criteria": {
+          "planted": {
+            "reviews": 80,
+            "mean": 18.75625
+          },
+          "baseline": {
+            "reviews": 80,
+            "mean": 18.44375
+          }
+        }
+      }
+    }
+  },
+  "study_metadata_not_recomputed": {
+    "scope": "Single invented manuscript pair; original scoring plus six dated audit corrections.",
+    "human_validation": "Five completed post-disclosure validation assessments, shared only as aggregate counts. Original human referee reports are not included or scored.",
+    "calibration": "Investigator 1 and Investigator 2 are research-team coders of AI reviews, distinct from the five external readers. Original first-code qualification is retained.",
+    "C2_sensitivity": "Exploratory exclusion of C2 following three of five No responses, not a prospectively specified exclusion rule.",
+    "planned_simulations": "No sample-size or power simulation results are claimed or reproduced."
+  },
+  "input_hashes": {
+    "llm_codes_by_review_and_concern.csv": "5a8ce7b44afeb9421531a8acf3194a46e1934211003e3e648e67aa870e1d11d6",
+    "judge_verdicts_by_pair.csv": "d31bd23c349f148e3ad9e2f2e7ae1799d7bda1c94f0da8f50e3dce1f0e1bad1d",
+    "recommendations_by_review.csv": "b16087d19a8e1c0adb36e07eb0d3328898473a3be9ee4deffccce3b85c6e099f",
+    "corrections.json": "c121764cf4b16535dcc3122608651a7e24344309b4ca2f3e0e7e5eec88055e59",
+    "human_validation_aggregate.csv": "2288e81197afe347c05628fc5e48cee0e28b77fc679e8a104f5ee91b04cf1d60",
+    "study_register.json": "bda8b7d2d530820cb9d65c5f12e203c825095d0a15c82b54117e71e5087ab8d2"
+  }
+}

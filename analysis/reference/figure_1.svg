@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="511" height="353" preserveAspectRatio="xMinYMin meet" viewBox="0 0 511 353" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="511" height="353"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-353)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="178" width="505" height="30" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,94%,94%); fill-rule: evenodd;"/>
+			<rect x="0" y="114" width="505" height="30" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,94%,94%); fill-rule: evenodd;"/>
+			<path d="M 255,61 L 255,333 Z" style="stroke: rgb(86%,86%,86%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="252.359" y="45" style="font-family: Helvetica; font-size: 9.5px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,90) scale(1,-1)">0</text>
+			<path d="M 304,61 L 304,333 Z" style="stroke: rgb(86%,86%,86%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="298.718" y="45" style="font-family: Helvetica; font-size: 9.5px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,90) scale(1,-1)">20</text>
+			<path d="M 353,61 L 353,333 Z" style="stroke: rgb(86%,86%,86%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="347.718" y="45" style="font-family: Helvetica; font-size: 9.5px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,90) scale(1,-1)">40</text>
+			<path d="M 402,61 L 402,333 Z" style="stroke: rgb(86%,86%,86%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="396.718" y="45" style="font-family: Helvetica; font-size: 9.5px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,90) scale(1,-1)">60</text>
+			<path d="M 451,61 L 451,333 Z" style="stroke: rgb(86%,86%,86%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="445.718" y="45" style="font-family: Helvetica; font-size: 9.5px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,90) scale(1,-1)">80</text>
+			<path d="M 500,61 L 500,333 Z" style="stroke: rgb(86%,86%,86%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="492.077" y="45" style="font-family: Helvetica; font-size: 9.5px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,90) scale(1,-1)">100</text>
+			<text x="2" y="321" style="font-family: Helvetica; font-size: 10px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,642) scale(1,-1)">C1</text>
+			<text x="28" y="324.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,648) scale(1,-1)">Does the status gap actually narrow?</text>
+			<path d="M 312.166667,324.5 L 324.416667,324.5 Z" style="stroke: rgb(12%,35%,51%); stroke-linecap: butt; stroke-width: 2.2;"/>
+			<circle cx="312.1666666666667" cy="324.5" r="2.1" style="stroke: rgb(12%,35%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(12%,35%,51%); fill-rule: evenodd;"/>
+			<circle cx="324.4166666666667" cy="324.5" r="2.1" style="stroke: rgb(12%,35%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(12%,35%,51%); fill-rule: evenodd;"/>
+			<path d="M 255,315.5 L 256.020833,315.5 Z" style="stroke: rgb(67%,31%,10%); stroke-linecap: butt; stroke-width: 2.2;"/>
+			<rect x="253.0" y="313.5" width="4.0" height="4.0" style="stroke: rgb(67%,31%,10%); stroke-linecap: butt; stroke-width: 1; fill: rgb(67%,31%,10%); fill-rule: evenodd;"/>
+			<rect x="254.02083333333331" y="313.5" width="4.0" height="4.0" style="stroke: rgb(67%,31%,10%); stroke-linecap: butt; stroke-width: 1; fill: rgb(67%,31%,10%); fill-rule: evenodd;"/>
+			<text x="2" y="289" style="font-family: Helvetica; font-size: 10px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,578) scale(1,-1)">C2</text>
+			<text x="28" y="297.5" style="font-family: Helvetica; font-size: 10px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,595) scale(1,-1)">Could the firms’ own status have</text>
+			<text x="28" y="286.5" style="font-family: Helvetica; font-size: 10px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,573) scale(1,-1)">changed?</text>
+			<path d="M 289.708333,292.5 L 292.770833,292.5 Z" style="stroke: rgb(12%,35%,51%); stroke-linecap: butt; stroke-width: 2.2;"/>
+			<circle cx="289.7083333333333" cy="292.5" r="2.1" style="stroke: rgb(12%,35%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(12%,35%,51%); fill-rule: evenodd;"/>
+			<circle cx="292.7708333333333" cy="292.5" r="2.1" style="stroke: rgb(12%,35%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(12%,35%,51%); fill-rule: evenodd;"/>
+			<path d="M 255,283.5 L 255,283.5 Z" style="stroke: rgb(67%,31%,10%); stroke-linecap: butt; stroke-width: 2.2;"/>
+			<rect x="253.0" y="281.5" width="4.0" height="4.0" style="stroke: rgb(67%,31%,10%); stroke-linecap: butt; stroke-width: 1; fill: rgb(67%,31%,10%); fill-rule: evenodd;"/>
+			<rect x="253.0" y="281.5" width="4.0" height="4.0" style="stroke: rgb(67%,31%,10%); stroke-linecap: butt; stroke-width: 1; fill: rgb(67%,31%,10%); fill-rule: evenodd;"/>
+			<text x="2" y="257" style="font-family: Helvetica; font-size: 10px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,514) scale(1,-1)">C3‡</text>
+			<text x="28" y="260.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,520) scale(1,-1)">Why change the rules for everyone?</text>
+			<path d="M 297.875,260.5 L 300.9375,260.5 Z" style="stroke: rgb(12%,35%,51%); stroke-linecap: butt; stroke-width: 2.2;"/>
+			<circle cx="297.875" cy="260.5" r="2.1" style="stroke: rgb(12%,35%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(12%,35%,51%); fill-rule: evenodd;"/>
+			<circle cx="300.9375" cy="260.5" r="2.1" style="stroke: rgb(12%,35%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(12%,35%,51%); fill-rule: evenodd;"/>
+			<path d="M 286.645833,251.5 L 292.770833,251.5 Z" style="stroke: rgb(67%,31%,10%); stroke-linecap: butt; stroke-width: 2.2;"/>
+			<rect x="284.6458333333333" y="249.5" width="4.0" height="4.0" style="stroke: rgb(67%,31%,10%); stroke-linecap: butt; stroke-width: 1; fill: rgb(67%,31%,10%); fill-rule: evenodd;"/>
+			<rect x="290.7708333333333" y="249.5" width="4.0" height="4.0" style="stroke: rgb(67%,31%,10%); stroke-linecap: butt; stroke-width: 1; fill: rgb(67%,31%,10%); fill-rule: evenodd;"/>
+			<text x="2" y="225" style="font-family: Helvetica; font-size: 10px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,450) scale(1,-1)">C4</text>
+			<text x="28" y="233.5" style="font-family: Helvetica; font-size: 10px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,467) scale(1,-1)">Does the extra check measure the same</text>
+			<text x="28" y="222.5" style="font-family: Helvetica; font-size: 10px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,445) scale(1,-1)">thing?</text>
+			<path d="M 348.916667,228.5 L 348.916667,228.5 Z" style="stroke: rgb(12%,35%,51%); stroke-linecap: butt; stroke-width: 2.2;"/>
+			<circle cx="348.9166666666667" cy="228.5" r="2.1" style="stroke: rgb(12%,35%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(12%,35%,51%); fill-rule: evenodd;"/>
+			<circle cx="348.9166666666667" cy="228.5" r="2.1" style="stroke: rgb(12%,35%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(12%,35%,51%); fill-rule: evenodd;"/>
+			<path d="M 255,219.5 L 255,219.5 Z" style="stroke: rgb(67%,31%,10%); stroke-linecap: butt; stroke-width: 2.2;"/>
+			<rect x="253.0" y="217.5" width="4.0" height="4.0" style="stroke: rgb(67%,31%,10%); stroke-linecap: butt; stroke-width: 1; fill: rgb(67%,31%,10%); fill-rule: evenodd;"/>
+			<rect x="253.0" y="217.5" width="4.0" height="4.0" style="stroke: rgb(67%,31%,10%); stroke-linecap: butt; stroke-width: 1; fill: rgb(67%,31%,10%); fill-rule: evenodd;"/>
+			<text x="2" y="193" style="font-family: Helvetica; font-size: 10px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,386) scale(1,-1)">C5†</text>
+			<text x="28" y="201.5" style="font-family: Helvetica; font-size: 10px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,403) scale(1,-1)">Are related observations treated as</text>
+			<text x="28" y="190.5" style="font-family: Helvetica; font-size: 10px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,381) scale(1,-1)">independent?</text>
+			<path d="M 393.833333,196.5 L 398.9375,196.5 Z" style="stroke: rgb(12%,35%,51%); stroke-linecap: butt; stroke-width: 2.2;"/>
+			<circle cx="393.83333333333337" cy="196.5" r="2.1" style="stroke: rgb(12%,35%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(12%,35%,51%); fill-rule: evenodd;"/>
+			<circle cx="398.9375" cy="196.5" r="2.1" style="stroke: rgb(12%,35%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(12%,35%,51%); fill-rule: evenodd;"/>
+			<path d="M 255,187.5 L 255,187.5 Z" style="stroke: rgb(67%,31%,10%); stroke-linecap: butt; stroke-width: 2.2;"/>
+			<rect x="253.0" y="185.5" width="4.0" height="4.0" style="stroke: rgb(67%,31%,10%); stroke-linecap: butt; stroke-width: 1; fill: rgb(67%,31%,10%); fill-rule: evenodd;"/>
+			<rect x="253.0" y="185.5" width="4.0" height="4.0" style="stroke: rgb(67%,31%,10%); stroke-linecap: butt; stroke-width: 1; fill: rgb(67%,31%,10%); fill-rule: evenodd;"/>
+			<text x="2" y="161" style="font-family: Helvetica; font-size: 10px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,322) scale(1,-1)">C6</text>
+			<text x="28" y="169.5" style="font-family: Helvetica; font-size: 10px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,339) scale(1,-1)">Does the analysis test the difference it</text>
+			<text x="28" y="158.5" style="font-family: Helvetica; font-size: 10px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,317) scale(1,-1)">claims?</text>
+			<path d="M 458.145833,164.5 L 461.208333,164.5 Z" style="stroke: rgb(12%,35%,51%); stroke-linecap: butt; stroke-width: 2.2;"/>
+			<circle cx="458.14583333333337" cy="164.5" r="2.1" style="stroke: rgb(12%,35%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(12%,35%,51%); fill-rule: evenodd;"/>
+			<circle cx="461.20833333333337" cy="164.5" r="2.1" style="stroke: rgb(12%,35%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(12%,35%,51%); fill-rule: evenodd;"/>
+			<path d="M 255,155.5 L 256.020833,155.5 Z" style="stroke: rgb(67%,31%,10%); stroke-linecap: butt; stroke-width: 2.2;"/>
+			<rect x="253.0" y="153.5" width="4.0" height="4.0" style="stroke: rgb(67%,31%,10%); stroke-linecap: butt; stroke-width: 1; fill: rgb(67%,31%,10%); fill-rule: evenodd;"/>
+			<rect x="254.02083333333331" y="153.5" width="4.0" height="4.0" style="stroke: rgb(67%,31%,10%); stroke-linecap: butt; stroke-width: 1; fill: rgb(67%,31%,10%); fill-rule: evenodd;"/>
+			<text x="2" y="129" style="font-family: Helvetica; font-size: 10px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,258) scale(1,-1)">C7†</text>
+			<text x="28" y="137.5" style="font-family: Helvetica; font-size: 10px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,275) scale(1,-1)">Could unmeasured capabilities still</text>
+			<text x="28" y="126.5" style="font-family: Helvetica; font-size: 10px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,253) scale(1,-1)">explain the result?</text>
+			<path d="M 454.0625,132.5 L 455.083333,132.5 Z" style="stroke: rgb(12%,35%,51%); stroke-linecap: butt; stroke-width: 2.2;"/>
+			<circle cx="454.0625" cy="132.5" r="2.1" style="stroke: rgb(12%,35%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(12%,35%,51%); fill-rule: evenodd;"/>
+			<circle cx="455.08333333333337" cy="132.5" r="2.1" style="stroke: rgb(12%,35%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(12%,35%,51%); fill-rule: evenodd;"/>
+			<path d="M 287.666667,123.5 L 349.9375,123.5 Z" style="stroke: rgb(67%,31%,10%); stroke-linecap: butt; stroke-width: 2.2;"/>
+			<rect x="285.6666666666667" y="121.5" width="4.0" height="4.0" style="stroke: rgb(67%,31%,10%); stroke-linecap: butt; stroke-width: 1; fill: rgb(67%,31%,10%); fill-rule: evenodd;"/>
+			<rect x="347.9375" y="121.5" width="4.0" height="4.0" style="stroke: rgb(67%,31%,10%); stroke-linecap: butt; stroke-width: 1; fill: rgb(67%,31%,10%); fill-rule: evenodd;"/>
+			<text x="2" y="97" style="font-family: Helvetica; font-size: 10px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,194) scale(1,-1)">C8</text>
+			<text x="28" y="105.5" style="font-family: Helvetica; font-size: 10px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,211) scale(1,-1)">Do more opportunities mean better</text>
+			<text x="28" y="94.5" style="font-family: Helvetica; font-size: 10px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,189) scale(1,-1)">selection?</text>
+			<path d="M 397.916667,100.5 L 413.229167,100.5 Z" style="stroke: rgb(12%,35%,51%); stroke-linecap: butt; stroke-width: 2.2;"/>
+			<circle cx="397.9166666666667" cy="100.5" r="2.1" style="stroke: rgb(12%,35%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(12%,35%,51%); fill-rule: evenodd;"/>
+			<circle cx="413.2291666666667" cy="100.5" r="2.1" style="stroke: rgb(12%,35%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(12%,35%,51%); fill-rule: evenodd;"/>
+			<path d="M 255,91.5 L 255,91.5 Z" style="stroke: rgb(67%,31%,10%); stroke-linecap: butt; stroke-width: 2.2;"/>
+			<rect x="253.0" y="89.5" width="4.0" height="4.0" style="stroke: rgb(67%,31%,10%); stroke-linecap: butt; stroke-width: 1; fill: rgb(67%,31%,10%); fill-rule: evenodd;"/>
+			<rect x="253.0" y="89.5" width="4.0" height="4.0" style="stroke: rgb(67%,31%,10%); stroke-linecap: butt; stroke-width: 1; fill: rgb(67%,31%,10%); fill-rule: evenodd;"/>
+			<path d="M 255,61 L 500,61 Z" style="stroke: rgb(60%,60%,60%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="304.7" y="28" style="font-family: Helvetica; font-size: 10px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,56) scale(1,-1)">Reviews raising the concern with</text>
+			<text x="316.92" y="15" style="font-family: Helvetica; font-size: 10px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,30) scale(1,-1)">the specified reasoning (%)</text>
+			<path d="M 275,344 L 288,344 Z" style="stroke: rgb(12%,35%,51%); stroke-linecap: butt; stroke-width: 2;"/>
+			<circle cx="281.5" cy="344" r="2.1" style="stroke: rgb(12%,35%,51%); stroke-linecap: butt; stroke-width: 1; fill: rgb(12%,35%,51%); fill-rule: evenodd;"/>
+			<text x="294" y="340.5" style="font-family: Helvetica; font-size: 10px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,681) scale(1,-1)">Planted problems</text>
+			<path d="M 425,344 L 438,344 Z" style="stroke: rgb(67%,31%,10%); stroke-linecap: butt; stroke-width: 2;"/>
+			<rect x="429.5" y="342" width="4.0" height="4" style="stroke: rgb(67%,31%,10%); stroke-linecap: butt; stroke-width: 1; fill: rgb(67%,31%,10%); fill-rule: evenodd;"/>
+			<text x="444" y="340.5" style="font-family: Helvetica; font-size: 10px;fill: rgb(6%,6%,6%); stroke:none;" transform="translate(0,681) scale(1,-1)">Baseline</text>
+		</g>
+	</g>
+</svg>

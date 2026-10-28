@@ -1,0 +1,481 @@
+pair_id,version,prompt,review_1,model_1,review_2,model_2,judge,winner_review_1_shown_first,winner_review_2_shown_first,decided_winner
+P001,clean,Bare,B519,claude-haiku-5-5,B244,gemini-3-5-flash-lite,gpt-5-5,B519,B519,B519
+P001,clean,Bare,B519,claude-haiku-5-5,B244,gemini-3-5-flash-lite,qwen3p8-2p4t-a95b,B519,B519,B519
+P002,clean,Bare,B441,claude-haiku-5-5,B210,gpt-6-astra,gpt-5-5,B441,B441,B441
+P002,clean,Bare,B441,claude-haiku-5-5,B210,gpt-6-astra,qwen3p8-2p4t-a95b,B441,B441,B441
+P003,clean,Bare,B386,kimi-k3,B120,claude-fable-5-1,gpt-5-5,B120,B120,B120
+P003,clean,Bare,B386,kimi-k3,B120,claude-fable-5-1,qwen3p8-2p4t-a95b,B386,B120,undecided
+P004,clean,Bare,B263,claude-fable-5-1,B491,kimi-k3,gpt-5-5,B491,B491,B491
+P004,clean,Bare,B263,claude-fable-5-1,B491,kimi-k3,qwen3p8-2p4t-a95b,B491,B263,undecided
+P005,clean,Bare,B464,gpt-6-luna,B473,gemini-3-5-flash-lite,gpt-5-5,B464,B464,B464
+P005,clean,Bare,B464,gpt-6-luna,B473,gemini-3-5-flash-lite,qwen3p8-2p4t-a95b,B464,B464,B464
+P006,clean,Bare,B269,gpt-6-astra,B234,deepseek-v4p1-flash,gpt-5-5,B269,B269,B269
+P006,clean,Bare,B269,gpt-6-astra,B234,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B269,B269,B269
+P007,clean,Bare,B511,gemini-4-argon,B227,claude-haiku-5-5,gpt-5-5,B227,B227,B227
+P007,clean,Bare,B511,gemini-4-argon,B227,claude-haiku-5-5,qwen3p8-2p4t-a95b,B227,B227,B227
+P008,clean,Bare,B380,gemini-4-argon,B032,gpt-6-astra,gpt-5-5,B032,B032,B032
+P008,clean,Bare,B380,gemini-4-argon,B032,gpt-6-astra,qwen3p8-2p4t-a95b,B032,B032,B032
+P009,clean,Bare,B532,kimi-k3,B237,gemini-4-argon,gpt-5-5,B532,B532,B532
+P009,clean,Bare,B532,kimi-k3,B237,gemini-4-argon,qwen3p8-2p4t-a95b,B532,B532,B532
+P010,clean,Bare,B173,claude-haiku-5-5,B399,gpt-6-luna,gpt-5-5,B173,B173,B173
+P010,clean,Bare,B173,claude-haiku-5-5,B399,gpt-6-luna,qwen3p8-2p4t-a95b,B173,B173,B173
+P011,clean,Bare,B086,gemini-3-5-flash-lite,B303,claude-haiku-5-5,gpt-5-5,B303,B303,B303
+P011,clean,Bare,B086,gemini-3-5-flash-lite,B303,claude-haiku-5-5,qwen3p8-2p4t-a95b,B303,B303,B303
+P012,clean,Bare,B178,gpt-6-luna,B522,gemini-3-5-flash-lite,gpt-5-5,B178,B178,B178
+P012,clean,Bare,B178,gpt-6-luna,B522,gemini-3-5-flash-lite,qwen3p8-2p4t-a95b,B178,B178,B178
+P013,clean,Bare,B371,gemini-3-5-flash-lite,B271,gpt-6-luna,gpt-5-5,B271,B271,B271
+P013,clean,Bare,B371,gemini-3-5-flash-lite,B271,gpt-6-luna,qwen3p8-2p4t-a95b,B271,B271,B271
+P014,clean,Bare,B186,gemini-3-5-flash-lite,B135,claude-haiku-5-5,gpt-5-5,B135,B135,B135
+P014,clean,Bare,B186,gemini-3-5-flash-lite,B135,claude-haiku-5-5,qwen3p8-2p4t-a95b,B135,B135,B135
+P015,clean,Bare,B003,gemini-4-argon,B105,claude-fable-5-1,gpt-5-5,B105,B105,B105
+P015,clean,Bare,B003,gemini-4-argon,B105,claude-fable-5-1,qwen3p8-2p4t-a95b,B105,B105,B105
+P016,clean,Bare,B018,gemini-4-argon,B064,claude-haiku-5-5,gpt-5-5,B064,B064,B064
+P016,clean,Bare,B018,gemini-4-argon,B064,claude-haiku-5-5,qwen3p8-2p4t-a95b,B064,B064,B064
+P017,clean,Bare,B381,gpt-6-astra,B163,gpt-6-luna,gpt-5-5,B381,B381,B381
+P017,clean,Bare,B381,gpt-6-astra,B163,gpt-6-luna,qwen3p8-2p4t-a95b,B381,B381,B381
+P018,clean,Bare,B047,gemini-4-argon,B091,deepseek-v4p1-flash,gpt-5-5,B047,B091,undecided
+P018,clean,Bare,B047,gemini-4-argon,B091,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B047,B047,B047
+P019,clean,Bare,B132,deepseek-v4p1-flash,B275,gemini-3-5-flash-lite,gpt-5-5,B132,B132,B132
+P019,clean,Bare,B132,deepseek-v4p1-flash,B275,gemini-3-5-flash-lite,qwen3p8-2p4t-a95b,B132,B132,B132
+P020,clean,Bare,B025,gemini-3-5-flash-lite,B442,gpt-6-luna,gpt-5-5,B442,B442,B442
+P020,clean,Bare,B025,gemini-3-5-flash-lite,B442,gpt-6-luna,qwen3p8-2p4t-a95b,B442,B442,B442
+P021,clean,Bare,B286,gpt-6-luna,B313,claude-fable-5-1,gpt-5-5,B313,B313,B313
+P021,clean,Bare,B286,gpt-6-luna,B313,claude-fable-5-1,qwen3p8-2p4t-a95b,B313,B313,B313
+P022,clean,Bare,B368,gpt-6-astra,B162,claude-fable-5-1,gpt-5-5,B368,B162,undecided
+P022,clean,Bare,B368,gpt-6-astra,B162,claude-fable-5-1,qwen3p8-2p4t-a95b,B162,B162,B162
+P023,clean,Bare,B226,claude-haiku-5-5,B325,gemini-4-argon,gpt-5-5,B226,B226,B226
+P023,clean,Bare,B226,claude-haiku-5-5,B325,gemini-4-argon,qwen3p8-2p4t-a95b,B226,B226,B226
+P024,clean,Bare,B334,gpt-6-astra,B193,deepseek-v4p1-flash,gpt-5-5,B334,B334,B334
+P024,clean,Bare,B334,gpt-6-astra,B193,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B334,B334,B334
+P025,clean,Bare,B221,deepseek-v4p1-flash,B293,kimi-k3,gpt-5-5,B293,B293,B293
+P025,clean,Bare,B221,deepseek-v4p1-flash,B293,kimi-k3,qwen3p8-2p4t-a95b,B293,B293,B293
+P026,clean,Bare,B038,kimi-k3,B061,gpt-6-astra,gpt-5-5,B061,B061,B061
+P026,clean,Bare,B038,kimi-k3,B061,gpt-6-astra,qwen3p8-2p4t-a95b,B038,B038,B038
+P027,clean,Bare,B278,claude-haiku-5-5,B474,deepseek-v4p1-flash,gpt-5-5,B278,B278,B278
+P027,clean,Bare,B278,claude-haiku-5-5,B474,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B278,B278,B278
+P028,clean,Bare,B217,gpt-6-luna,B114,kimi-k3,gpt-5-5,B114,B114,B114
+P028,clean,Bare,B217,gpt-6-luna,B114,kimi-k3,qwen3p8-2p4t-a95b,B114,B114,B114
+P029,clean,Bare,B248,gpt-6-astra,B154,claude-fable-5-1,gpt-5-5,B154,B154,B154
+P029,clean,Bare,B248,gpt-6-astra,B154,claude-fable-5-1,qwen3p8-2p4t-a95b,B154,B154,B154
+P030,clean,Bare,B255,kimi-k3,B510,gpt-6-luna,gpt-5-5,B255,B255,B255
+P030,clean,Bare,B255,kimi-k3,B510,gpt-6-luna,qwen3p8-2p4t-a95b,B255,B255,B255
+P031,clean,Bare,B054,deepseek-v4p1-flash,B506,claude-fable-5-1,gpt-5-5,B506,B506,B506
+P031,clean,Bare,B054,deepseek-v4p1-flash,B506,claude-fable-5-1,qwen3p8-2p4t-a95b,B506,B506,B506
+P032,clean,Bare,B426,gpt-6-luna,B130,gpt-6-astra,gpt-5-5,B130,B130,B130
+P032,clean,Bare,B426,gpt-6-luna,B130,gpt-6-astra,qwen3p8-2p4t-a95b,B130,B426,undecided
+P033,clean,Bare,B165,deepseek-v4p1-flash,B434,gemini-4-argon,gpt-5-5,B165,B434,undecided
+P033,clean,Bare,B165,deepseek-v4p1-flash,B434,gemini-4-argon,qwen3p8-2p4t-a95b,B434,B434,B434
+P034,clean,Bare,B207,kimi-k3,B232,claude-fable-5-1,gpt-5-5,B207,B207,B207
+P034,clean,Bare,B207,kimi-k3,B232,claude-fable-5-1,qwen3p8-2p4t-a95b,B207,B207,B207
+P035,clean,Bare,B410,kimi-k3,B264,gemini-3-5-flash-lite,gpt-5-5,B410,B410,B410
+P035,clean,Bare,B410,kimi-k3,B264,gemini-3-5-flash-lite,qwen3p8-2p4t-a95b,B410,B410,B410
+P036,clean,Bare,B228,gpt-6-astra,B147,kimi-k3,gpt-5-5,B228,B228,B228
+P036,clean,Bare,B228,gpt-6-astra,B147,kimi-k3,qwen3p8-2p4t-a95b,B228,B147,undecided
+P037,clean,Bare,B331,gemini-3-5-flash-lite,B361,claude-haiku-5-5,gpt-5-5,B361,B361,B361
+P037,clean,Bare,B331,gemini-3-5-flash-lite,B361,claude-haiku-5-5,qwen3p8-2p4t-a95b,B361,B361,B361
+P038,clean,Bare,B166,deepseek-v4p1-flash,B098,gemini-4-argon,gpt-5-5,B098,B098,B098
+P038,clean,Bare,B166,deepseek-v4p1-flash,B098,gemini-4-argon,qwen3p8-2p4t-a95b,B098,B098,B098
+P039,clean,Bare,B425,claude-fable-5-1,B508,deepseek-v4p1-flash,gpt-5-5,B425,B425,B425
+P039,clean,Bare,B425,claude-fable-5-1,B508,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B425,B425,B425
+P040,clean,Bare,B498,gemini-4-argon,B172,claude-fable-5-1,gpt-5-5,B172,B172,B172
+P040,clean,Bare,B498,gemini-4-argon,B172,claude-fable-5-1,qwen3p8-2p4t-a95b,B172,B172,B172
+P041,clean,Reader instructions,B315,gpt-6-luna,B083,kimi-k3,gpt-5-5,B083,B083,B083
+P041,clean,Reader instructions,B315,gpt-6-luna,B083,kimi-k3,qwen3p8-2p4t-a95b,B083,B083,B083
+P042,clean,Reader instructions,B404,deepseek-v4p1-flash,B463,gpt-6-luna,gpt-5-5,B463,B463,B463
+P042,clean,Reader instructions,B404,deepseek-v4p1-flash,B463,gpt-6-luna,qwen3p8-2p4t-a95b,B463,B463,B463
+P043,clean,Reader instructions,B358,deepseek-v4p1-flash,B112,gemini-4-argon,gpt-5-5,B358,B112,undecided
+P043,clean,Reader instructions,B358,deepseek-v4p1-flash,B112,gemini-4-argon,qwen3p8-2p4t-a95b,B112,B112,B112
+P044,clean,Reader instructions,B245,gpt-6-astra,B335,kimi-k3,gpt-5-5,B335,B335,B335
+P044,clean,Reader instructions,B245,gpt-6-astra,B335,kimi-k3,qwen3p8-2p4t-a95b,B335,B335,B335
+P045,clean,Reader instructions,B413,deepseek-v4p1-flash,B060,kimi-k3,gpt-5-5,B060,B060,B060
+P045,clean,Reader instructions,B413,deepseek-v4p1-flash,B060,kimi-k3,qwen3p8-2p4t-a95b,B060,B060,B060
+P046,clean,Reader instructions,B521,kimi-k3,B502,claude-haiku-5-5,gpt-5-5,B502,B502,B502
+P046,clean,Reader instructions,B521,kimi-k3,B502,claude-haiku-5-5,qwen3p8-2p4t-a95b,B521,B521,B521
+P047,clean,Reader instructions,B534,claude-fable-5-1,B505,deepseek-v4p1-flash,gpt-5-5,B534,B534,B534
+P047,clean,Reader instructions,B534,claude-fable-5-1,B505,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B534,B534,B534
+P048,clean,Reader instructions,B094,gpt-6-luna,B536,gpt-6-astra,gpt-5-5,B536,B536,B536
+P048,clean,Reader instructions,B094,gpt-6-luna,B536,gpt-6-astra,qwen3p8-2p4t-a95b,B536,B536,B536
+P049,clean,Reader instructions,B056,gemini-4-argon,B252,deepseek-v4p1-flash,gpt-5-5,B056,B252,undecided
+P049,clean,Reader instructions,B056,gemini-4-argon,B252,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B056,B056,B056
+P050,clean,Reader instructions,B435,gpt-6-astra,B341,claude-haiku-5-5,gpt-5-5,B341,B341,B341
+P050,clean,Reader instructions,B435,gpt-6-astra,B341,claude-haiku-5-5,qwen3p8-2p4t-a95b,B341,B341,B341
+P051,clean,Reader instructions,B057,gemini-3-5-flash-lite,B206,claude-haiku-5-5,gpt-5-5,B206,B206,B206
+P051,clean,Reader instructions,B057,gemini-3-5-flash-lite,B206,claude-haiku-5-5,qwen3p8-2p4t-a95b,B206,B206,B206
+P052,clean,Reader instructions,B175,gemini-3-5-flash-lite,B161,gemini-4-argon,gpt-5-5,B161,B161,B161
+P052,clean,Reader instructions,B175,gemini-3-5-flash-lite,B161,gemini-4-argon,qwen3p8-2p4t-a95b,B161,B161,B161
+P053,clean,Reader instructions,B040,gemini-3-5-flash-lite,B196,claude-haiku-5-5,gpt-5-5,B196,B196,B196
+P053,clean,Reader instructions,B040,gemini-3-5-flash-lite,B196,claude-haiku-5-5,qwen3p8-2p4t-a95b,B196,B196,B196
+P054,clean,Reader instructions,B048,deepseek-v4p1-flash,B448,gemini-4-argon,gpt-5-5,B048,B448,undecided
+P054,clean,Reader instructions,B048,deepseek-v4p1-flash,B448,gemini-4-argon,qwen3p8-2p4t-a95b,B448,B448,B448
+P055,clean,Reader instructions,B446,claude-fable-5-1,B037,gemini-3-5-flash-lite,gpt-5-5,B446,B446,B446
+P055,clean,Reader instructions,B446,claude-fable-5-1,B037,gemini-3-5-flash-lite,qwen3p8-2p4t-a95b,B446,B446,B446
+P056,clean,Reader instructions,B348,kimi-k3,B456,deepseek-v4p1-flash,gpt-5-5,B348,B348,B348
+P056,clean,Reader instructions,B348,kimi-k3,B456,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B348,B348,B348
+P057,clean,Reader instructions,B411,gpt-6-luna,B401,gemini-4-argon,gpt-5-5,B411,B411,B411
+P057,clean,Reader instructions,B411,gpt-6-luna,B401,gemini-4-argon,qwen3p8-2p4t-a95b,B411,B411,B411
+P058,clean,Reader instructions,B388,gpt-6-luna,B496,gemini-3-5-flash-lite,gpt-5-5,B388,B388,B388
+P058,clean,Reader instructions,B388,gpt-6-luna,B496,gemini-3-5-flash-lite,qwen3p8-2p4t-a95b,B388,B388,B388
+P059,clean,Reader instructions,B297,gemini-3-5-flash-lite,B457,claude-fable-5-1,gpt-5-5,B457,B457,B457
+P059,clean,Reader instructions,B297,gemini-3-5-flash-lite,B457,claude-fable-5-1,qwen3p8-2p4t-a95b,B457,B457,B457
+P060,clean,Reader instructions,B115,claude-fable-5-1,B387,deepseek-v4p1-flash,gpt-5-5,B115,B115,B115
+P060,clean,Reader instructions,B115,claude-fable-5-1,B387,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B115,B115,B115
+P061,clean,Reader instructions,B220,claude-haiku-5-5,B385,gemini-4-argon,gpt-5-5,B220,B220,B220
+P061,clean,Reader instructions,B220,claude-haiku-5-5,B385,gemini-4-argon,qwen3p8-2p4t-a95b,B220,B220,B220
+P062,clean,Reader instructions,B356,claude-fable-5-1,B026,deepseek-v4p1-flash,gpt-5-5,B356,B356,B356
+P062,clean,Reader instructions,B356,claude-fable-5-1,B026,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B356,B356,B356
+P063,clean,Reader instructions,B235,claude-fable-5-1,B006,gemini-4-argon,gpt-5-5,B235,B235,B235
+P063,clean,Reader instructions,B235,claude-fable-5-1,B006,gemini-4-argon,qwen3p8-2p4t-a95b,B235,B235,B235
+P064,clean,Reader instructions,B430,gpt-6-astra,B475,gemini-3-5-flash-lite,gpt-5-5,B430,B430,B430
+P064,clean,Reader instructions,B430,gpt-6-astra,B475,gemini-3-5-flash-lite,qwen3p8-2p4t-a95b,B430,B430,B430
+P065,clean,Reader instructions,B035,kimi-k3,B357,gemini-4-argon,gpt-5-5,B035,B035,B035
+P065,clean,Reader instructions,B035,kimi-k3,B357,gemini-4-argon,qwen3p8-2p4t-a95b,B035,B035,B035
+P066,clean,Reader instructions,B062,claude-haiku-5-5,B407,gpt-6-luna,gpt-5-5,B062,B062,B062
+P066,clean,Reader instructions,B062,claude-haiku-5-5,B407,gpt-6-luna,qwen3p8-2p4t-a95b,B062,B062,B062
+P067,clean,Reader instructions,B211,claude-haiku-5-5,B145,claude-fable-5-1,gpt-5-5,B211,B211,B211
+P067,clean,Reader instructions,B211,claude-haiku-5-5,B145,claude-fable-5-1,qwen3p8-2p4t-a95b,B211,B211,B211
+P068,clean,Reader instructions,B451,gpt-6-luna,B238,claude-haiku-5-5,gpt-5-5,B238,B238,B238
+P068,clean,Reader instructions,B451,gpt-6-luna,B238,claude-haiku-5-5,qwen3p8-2p4t-a95b,B238,B238,B238
+P069,clean,Reader instructions,B119,deepseek-v4p1-flash,B354,claude-fable-5-1,gpt-5-5,B354,B354,B354
+P069,clean,Reader instructions,B119,deepseek-v4p1-flash,B354,claude-fable-5-1,qwen3p8-2p4t-a95b,B354,B354,B354
+P070,clean,Reader instructions,B493,claude-fable-5-1,B017,gpt-6-luna,gpt-5-5,B493,B493,B493
+P070,clean,Reader instructions,B493,claude-fable-5-1,B017,gpt-6-luna,qwen3p8-2p4t-a95b,B493,B493,B493
+P071,clean,Reader instructions,B180,gpt-6-luna,B370,kimi-k3,gpt-5-5,B370,B370,B370
+P071,clean,Reader instructions,B180,gpt-6-luna,B370,kimi-k3,qwen3p8-2p4t-a95b,B370,B370,B370
+P072,clean,Reader instructions,B139,gpt-6-astra,B108,claude-haiku-5-5,gpt-5-5,B108,B108,B108
+P072,clean,Reader instructions,B139,gpt-6-astra,B108,claude-haiku-5-5,qwen3p8-2p4t-a95b,B108,B108,B108
+P073,clean,Reader instructions,B184,kimi-k3,B289,gpt-6-astra,gpt-5-5,B289,B289,B289
+P073,clean,Reader instructions,B184,kimi-k3,B289,gpt-6-astra,qwen3p8-2p4t-a95b,B184,B184,B184
+P074,clean,Reader instructions,B143,kimi-k3,B009,gemini-4-argon,gpt-5-5,B143,B143,B143
+P074,clean,Reader instructions,B143,kimi-k3,B009,gemini-4-argon,qwen3p8-2p4t-a95b,B143,B143,B143
+P075,clean,Reader instructions,B074,gpt-6-astra,B274,claude-haiku-5-5,gpt-5-5,B274,B274,B274
+P075,clean,Reader instructions,B074,gpt-6-astra,B274,claude-haiku-5-5,qwen3p8-2p4t-a95b,B274,B274,B274
+P076,clean,Reader instructions,B027,gemini-3-5-flash-lite,B296,kimi-k3,gpt-5-5,B296,B296,B296
+P076,clean,Reader instructions,B027,gemini-3-5-flash-lite,B296,kimi-k3,qwen3p8-2p4t-a95b,B296,B296,B296
+P077,clean,Reader instructions,B322,gpt-6-astra,B013,gemini-3-5-flash-lite,gpt-5-5,B322,B322,B322
+P077,clean,Reader instructions,B322,gpt-6-astra,B013,gemini-3-5-flash-lite,qwen3p8-2p4t-a95b,B322,B322,B322
+P078,clean,Reader instructions,B372,gemini-3-5-flash-lite,B440,gpt-6-astra,gpt-5-5,B440,B440,B440
+P078,clean,Reader instructions,B372,gemini-3-5-flash-lite,B440,gpt-6-astra,qwen3p8-2p4t-a95b,B440,B440,B440
+P079,clean,Reader instructions,B042,gpt-6-astra,B481,gpt-6-luna,gpt-5-5,B042,B042,B042
+P079,clean,Reader instructions,B042,gpt-6-astra,B481,gpt-6-luna,qwen3p8-2p4t-a95b,B042,B481,undecided
+P080,clean,Reader instructions,B500,gemini-4-argon,B332,claude-fable-5-1,gpt-5-5,B332,B332,B332
+P080,clean,Reader instructions,B500,gemini-4-argon,B332,claude-fable-5-1,qwen3p8-2p4t-a95b,B332,B332,B332
+P081,clean,Reader + criteria,B045,gpt-6-astra,B378,claude-fable-5-1,gpt-5-5,B378,B378,B378
+P081,clean,Reader + criteria,B045,gpt-6-astra,B378,claude-fable-5-1,qwen3p8-2p4t-a95b,B378,B378,B378
+P082,clean,Reader + criteria,B507,gpt-6-astra,B414,kimi-k3,gpt-5-5,B414,B414,B414
+P082,clean,Reader + criteria,B507,gpt-6-astra,B414,kimi-k3,qwen3p8-2p4t-a95b,B414,B414,B414
+P083,clean,Reader + criteria,B391,gemini-3-5-flash-lite,B201,claude-fable-5-1,gpt-5-5,B201,B201,B201
+P083,clean,Reader + criteria,B391,gemini-3-5-flash-lite,B201,claude-fable-5-1,qwen3p8-2p4t-a95b,B201,B201,B201
+P084,clean,Reader + criteria,B412,gemini-4-argon,B284,deepseek-v4p1-flash,gpt-5-5,B284,B284,B284
+P084,clean,Reader + criteria,B412,gemini-4-argon,B284,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B412,B412,B412
+P085,clean,Reader + criteria,B157,gemini-3-5-flash-lite,B336,claude-fable-5-1,gpt-5-5,B336,B336,B336
+P085,clean,Reader + criteria,B157,gemini-3-5-flash-lite,B336,claude-fable-5-1,qwen3p8-2p4t-a95b,B336,B336,B336
+P086,clean,Reader + criteria,B503,gpt-6-luna,B486,gemini-4-argon,gpt-5-5,B503,B503,B503
+P086,clean,Reader + criteria,B503,gpt-6-luna,B486,gemini-4-argon,qwen3p8-2p4t-a95b,B503,B503,B503
+P087,clean,Reader + criteria,B011,kimi-k3,B317,gpt-6-astra,gpt-5-5,B011,B011,B011
+P087,clean,Reader + criteria,B011,kimi-k3,B317,gpt-6-astra,qwen3p8-2p4t-a95b,B011,B011,B011
+P088,clean,Reader + criteria,B258,gemini-4-argon,B181,claude-fable-5-1,gpt-5-5,B181,B181,B181
+P088,clean,Reader + criteria,B258,gemini-4-argon,B181,claude-fable-5-1,qwen3p8-2p4t-a95b,B181,B181,B181
+P089,clean,Reader + criteria,B432,deepseek-v4p1-flash,B311,kimi-k3,gpt-5-5,B311,B311,B311
+P089,clean,Reader + criteria,B432,deepseek-v4p1-flash,B311,kimi-k3,qwen3p8-2p4t-a95b,B311,B311,B311
+P090,clean,Reader + criteria,B185,gpt-6-luna,B071,gemini-3-5-flash-lite,gpt-5-5,B185,B185,B185
+P090,clean,Reader + criteria,B185,gpt-6-luna,B071,gemini-3-5-flash-lite,qwen3p8-2p4t-a95b,B185,B185,B185
+P091,clean,Reader + criteria,B156,claude-fable-5-1,B523,gemini-3-5-flash-lite,gpt-5-5,B156,B156,B156
+P091,clean,Reader + criteria,B156,claude-fable-5-1,B523,gemini-3-5-flash-lite,qwen3p8-2p4t-a95b,B156,B156,B156
+P092,clean,Reader + criteria,B316,claude-haiku-5-5,B392,kimi-k3,gpt-5-5,B316,B316,B316
+P092,clean,Reader + criteria,B316,claude-haiku-5-5,B392,kimi-k3,qwen3p8-2p4t-a95b,B392,B316,undecided
+P093,clean,Reader + criteria,B212,gpt-6-astra,B492,gemini-4-argon,gpt-5-5,B212,B212,B212
+P093,clean,Reader + criteria,B212,gpt-6-astra,B492,gemini-4-argon,qwen3p8-2p4t-a95b,B212,B492,undecided
+P094,clean,Reader + criteria,B055,gemini-4-argon,B268,gemini-3-5-flash-lite,gpt-5-5,B055,B055,B055
+P094,clean,Reader + criteria,B055,gemini-4-argon,B268,gemini-3-5-flash-lite,qwen3p8-2p4t-a95b,B055,B055,B055
+P095,clean,Reader + criteria,B495,gemini-4-argon,B049,gpt-6-astra,gpt-5-5,B049,B049,B049
+P095,clean,Reader + criteria,B495,gemini-4-argon,B049,gpt-6-astra,qwen3p8-2p4t-a95b,B495,B049,undecided
+P096,clean,Reader + criteria,B067,claude-fable-5-1,B466,gpt-6-luna,gpt-5-5,B067,B067,B067
+P096,clean,Reader + criteria,B067,claude-fable-5-1,B466,gpt-6-luna,qwen3p8-2p4t-a95b,B067,B067,B067
+P097,clean,Reader + criteria,B353,gemini-4-argon,B526,gemini-3-5-flash-lite,gpt-5-5,B353,B353,B353
+P097,clean,Reader + criteria,B353,gemini-4-argon,B526,gemini-3-5-flash-lite,qwen3p8-2p4t-a95b,B353,B353,B353
+P098,clean,Reader + criteria,B126,claude-fable-5-1,B390,kimi-k3,gpt-5-5,B126,B126,B126
+P098,clean,Reader + criteria,B126,claude-fable-5-1,B390,kimi-k3,qwen3p8-2p4t-a95b,B390,B126,undecided
+P099,clean,Reader + criteria,B090,kimi-k3,B485,gpt-6-luna,gpt-5-5,B090,B090,B090
+P099,clean,Reader + criteria,B090,kimi-k3,B485,gpt-6-luna,qwen3p8-2p4t-a95b,B090,B090,B090
+P100,clean,Reader + criteria,B122,claude-haiku-5-5,B406,gpt-6-astra,gpt-5-5,B122,B122,B122
+P100,clean,Reader + criteria,B122,claude-haiku-5-5,B406,gpt-6-astra,qwen3p8-2p4t-a95b,B122,B122,B122
+P101,clean,Reader + criteria,B223,deepseek-v4p1-flash,B396,kimi-k3,gpt-5-5,B396,B396,B396
+P101,clean,Reader + criteria,B223,deepseek-v4p1-flash,B396,kimi-k3,qwen3p8-2p4t-a95b,B396,B396,B396
+P102,clean,Reader + criteria,B307,claude-haiku-5-5,B439,deepseek-v4p1-flash,gpt-5-5,B307,B307,B307
+P102,clean,Reader + criteria,B307,claude-haiku-5-5,B439,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B307,B307,B307
+P103,clean,Reader + criteria,B458,claude-fable-5-1,B301,deepseek-v4p1-flash,gpt-5-5,B458,B458,B458
+P103,clean,Reader + criteria,B458,claude-fable-5-1,B301,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B458,B458,B458
+P104,clean,Reader + criteria,B376,gpt-6-astra,B240,claude-haiku-5-5,gpt-5-5,B240,B240,B240
+P104,clean,Reader + criteria,B376,gpt-6-astra,B240,claude-haiku-5-5,qwen3p8-2p4t-a95b,B240,B240,B240
+P105,clean,Reader + criteria,B359,gemini-4-argon,B517,kimi-k3,gpt-5-5,B517,B517,B517
+P105,clean,Reader + criteria,B359,gemini-4-argon,B517,kimi-k3,qwen3p8-2p4t-a95b,B517,B517,B517
+P106,clean,Reader + criteria,B199,deepseek-v4p1-flash,B369,gpt-6-luna,gpt-5-5,B369,B369,B369
+P106,clean,Reader + criteria,B199,deepseek-v4p1-flash,B369,gpt-6-luna,qwen3p8-2p4t-a95b,B369,B199,undecided
+P107,clean,Reader + criteria,B295,claude-haiku-5-5,B528,deepseek-v4p1-flash,gpt-5-5,B295,B295,B295
+P107,clean,Reader + criteria,B295,claude-haiku-5-5,B528,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B295,B295,B295
+P108,clean,Reader + criteria,B514,claude-fable-5-1,B291,gpt-6-luna,gpt-5-5,B514,B514,B514
+P108,clean,Reader + criteria,B514,claude-fable-5-1,B291,gpt-6-luna,qwen3p8-2p4t-a95b,B514,B514,B514
+P109,clean,Reader + criteria,B276,gemini-4-argon,B239,gemini-3-5-flash-lite,gpt-5-5,B276,B276,B276
+P109,clean,Reader + criteria,B276,gemini-4-argon,B239,gemini-3-5-flash-lite,qwen3p8-2p4t-a95b,B276,B276,B276
+P110,clean,Reader + criteria,B272,gemini-3-5-flash-lite,B012,claude-haiku-5-5,gpt-5-5,B012,B012,B012
+P110,clean,Reader + criteria,B272,gemini-3-5-flash-lite,B012,claude-haiku-5-5,qwen3p8-2p4t-a95b,B012,B012,B012
+P111,clean,Reader + criteria,B104,gemini-3-5-flash-lite,B328,gpt-6-astra,gpt-5-5,B328,B328,B328
+P111,clean,Reader + criteria,B104,gemini-3-5-flash-lite,B328,gpt-6-astra,qwen3p8-2p4t-a95b,B328,B328,B328
+P112,clean,Reader + criteria,B445,deepseek-v4p1-flash,B084,claude-haiku-5-5,gpt-5-5,B084,B084,B084
+P112,clean,Reader + criteria,B445,deepseek-v4p1-flash,B084,claude-haiku-5-5,qwen3p8-2p4t-a95b,B084,B084,B084
+P113,clean,Reader + criteria,B215,kimi-k3,B454,deepseek-v4p1-flash,gpt-5-5,B215,B215,B215
+P113,clean,Reader + criteria,B215,kimi-k3,B454,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B215,B215,B215
+P114,clean,Reader + criteria,B085,gpt-6-luna,B389,gpt-6-astra,gpt-5-5,B389,B389,B389
+P114,clean,Reader + criteria,B085,gpt-6-luna,B389,gpt-6-astra,qwen3p8-2p4t-a95b,B085,B085,B085
+P115,clean,Reader + criteria,B171,claude-haiku-5-5,B160,gpt-6-astra,gpt-5-5,B171,B160,undecided
+P115,clean,Reader + criteria,B171,claude-haiku-5-5,B160,gpt-6-astra,qwen3p8-2p4t-a95b,B171,B171,B171
+P116,clean,Reader + criteria,B127,kimi-k3,B093,deepseek-v4p1-flash,gpt-5-5,B127,B127,B127
+P116,clean,Reader + criteria,B127,kimi-k3,B093,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B127,B127,B127
+P117,clean,Reader + criteria,B472,gemini-4-argon,B363,gpt-6-luna,gpt-5-5,B363,B363,B363
+P117,clean,Reader + criteria,B472,gemini-4-argon,B363,gpt-6-luna,qwen3p8-2p4t-a95b,B363,B363,B363
+P118,clean,Reader + criteria,B469,gemini-3-5-flash-lite,B236,claude-haiku-5-5,gpt-5-5,B236,B236,B236
+P118,clean,Reader + criteria,B469,gemini-3-5-flash-lite,B236,claude-haiku-5-5,qwen3p8-2p4t-a95b,B236,B236,B236
+P119,clean,Reader + criteria,B007,gpt-6-luna,B224,claude-haiku-5-5,gpt-5-5,B224,B224,B224
+P119,clean,Reader + criteria,B007,gpt-6-luna,B224,claude-haiku-5-5,qwen3p8-2p4t-a95b,B224,B224,B224
+P120,clean,Reader + criteria,B294,claude-fable-5-1,B326,gpt-6-luna,gpt-5-5,B294,B294,B294
+P120,clean,Reader + criteria,B294,claude-fable-5-1,B326,gpt-6-luna,qwen3p8-2p4t-a95b,B294,B294,B294
+P121,planted,Bare,B285,deepseek-v4p1-flash,B111,gemini-3-5-flash-lite,gpt-5-5,B285,B285,B285
+P121,planted,Bare,B285,deepseek-v4p1-flash,B111,gemini-3-5-flash-lite,qwen3p8-2p4t-a95b,B285,B285,B285
+P122,planted,Bare,B044,kimi-k3,B324,gpt-6-astra,gpt-5-5,B044,B044,B044
+P122,planted,Bare,B044,kimi-k3,B324,gpt-6-astra,qwen3p8-2p4t-a95b,B044,B044,B044
+P123,planted,Bare,B366,gpt-6-astra,B168,gemini-3-5-flash-lite,gpt-5-5,B366,B366,B366
+P123,planted,Bare,B366,gpt-6-astra,B168,gemini-3-5-flash-lite,qwen3p8-2p4t-a95b,B366,B366,B366
+P124,planted,Bare,B455,gemini-4-argon,B265,kimi-k3,gpt-5-5,B265,B265,B265
+P124,planted,Bare,B455,gemini-4-argon,B265,kimi-k3,qwen3p8-2p4t-a95b,B265,B265,B265
+P125,planted,Bare,B330,gpt-6-luna,B046,claude-haiku-5-5,gpt-5-5,B046,B046,B046
+P125,planted,Bare,B330,gpt-6-luna,B046,claude-haiku-5-5,qwen3p8-2p4t-a95b,B046,B046,B046
+P126,planted,Bare,B247,gpt-6-astra,B333,claude-fable-5-1,gpt-5-5,B247,B333,undecided
+P126,planted,Bare,B247,gpt-6-astra,B333,claude-fable-5-1,qwen3p8-2p4t-a95b,B333,B247,undecided
+P127,planted,Bare,B298,gemini-4-argon,B512,deepseek-v4p1-flash,gpt-5-5,B298,B298,B298
+P127,planted,Bare,B298,gemini-4-argon,B512,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B298,B298,B298
+P128,planted,Bare,B144,claude-haiku-5-5,B398,deepseek-v4p1-flash,gpt-5-5,B144,B144,B144
+P128,planted,Bare,B144,claude-haiku-5-5,B398,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B144,B144,B144
+P129,planted,Bare,B292,gemini-3-5-flash-lite,B415,gemini-4-argon,gpt-5-5,B415,B415,B415
+P129,planted,Bare,B292,gemini-3-5-flash-lite,B415,gemini-4-argon,qwen3p8-2p4t-a95b,B415,B415,B415
+P130,planted,Bare,B095,claude-haiku-5-5,B515,gemini-3-5-flash-lite,gpt-5-5,B095,B095,B095
+P130,planted,Bare,B095,claude-haiku-5-5,B515,gemini-3-5-flash-lite,qwen3p8-2p4t-a95b,B095,B095,B095
+P131,planted,Bare,B482,claude-fable-5-1,B030,gemini-4-argon,gpt-5-5,B482,B482,B482
+P131,planted,Bare,B482,claude-fable-5-1,B030,gemini-4-argon,qwen3p8-2p4t-a95b,B482,B482,B482
+P132,planted,Bare,B141,gpt-6-luna,B075,gemini-3-5-flash-lite,gpt-5-5,B141,B141,B141
+P132,planted,Bare,B141,gpt-6-luna,B075,gemini-3-5-flash-lite,qwen3p8-2p4t-a95b,B141,B141,B141
+P133,planted,Bare,B497,gemini-3-5-flash-lite,B428,claude-fable-5-1,gpt-5-5,B428,B428,B428
+P133,planted,Bare,B497,gemini-3-5-flash-lite,B428,claude-fable-5-1,qwen3p8-2p4t-a95b,B428,B428,B428
+P134,planted,Bare,B421,gemini-4-argon,B096,gemini-3-5-flash-lite,gpt-5-5,B421,B421,B421
+P134,planted,Bare,B421,gemini-4-argon,B096,gemini-3-5-flash-lite,qwen3p8-2p4t-a95b,B421,B421,B421
+P135,planted,Bare,B081,claude-fable-5-1,B203,kimi-k3,gpt-5-5,B203,B081,undecided
+P135,planted,Bare,B081,claude-fable-5-1,B203,kimi-k3,qwen3p8-2p4t-a95b,B203,B081,undecided
+P136,planted,Bare,B080,gpt-6-luna,B433,claude-haiku-5-5,gpt-5-5,B433,B433,B433
+P136,planted,Bare,B080,gpt-6-luna,B433,claude-haiku-5-5,qwen3p8-2p4t-a95b,B433,B433,B433
+P137,planted,Bare,B059,claude-fable-5-1,B069,gemini-4-argon,gpt-5-5,B059,B059,B059
+P137,planted,Bare,B059,claude-fable-5-1,B069,gemini-4-argon,qwen3p8-2p4t-a95b,B059,B059,B059
+P138,planted,Bare,B409,kimi-k3,B010,claude-fable-5-1,gpt-5-5,B010,B010,B010
+P138,planted,Bare,B409,kimi-k3,B010,claude-fable-5-1,qwen3p8-2p4t-a95b,B010,B409,undecided
+P139,planted,Bare,B538,gpt-6-luna,B509,deepseek-v4p1-flash,gpt-5-5,B538,B538,B538
+P139,planted,Bare,B538,gpt-6-luna,B509,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B538,B538,B538
+P140,planted,Bare,B065,gpt-6-luna,B360,claude-haiku-5-5,gpt-5-5,B360,B360,B360
+P140,planted,Bare,B065,gpt-6-luna,B360,claude-haiku-5-5,qwen3p8-2p4t-a95b,B360,B360,B360
+P141,planted,Bare,B533,kimi-k3,B494,gpt-6-astra,gpt-5-5,B494,B494,B494
+P141,planted,Bare,B533,kimi-k3,B494,gpt-6-astra,qwen3p8-2p4t-a95b,B533,B533,B533
+P142,planted,Bare,B194,deepseek-v4p1-flash,B420,kimi-k3,gpt-5-5,B420,B420,B420
+P142,planted,Bare,B194,deepseek-v4p1-flash,B420,kimi-k3,qwen3p8-2p4t-a95b,B420,B420,B420
+P143,planted,Bare,B016,kimi-k3,B036,claude-fable-5-1,gpt-5-5,B036,B036,B036
+P143,planted,Bare,B016,kimi-k3,B036,claude-fable-5-1,qwen3p8-2p4t-a95b,B036,B016,undecided
+P144,planted,Bare,B319,gemini-4-argon,B116,claude-fable-5-1,gpt-5-5,B116,B116,B116
+P144,planted,Bare,B319,gemini-4-argon,B116,claude-fable-5-1,qwen3p8-2p4t-a95b,B116,B116,B116
+P145,planted,Bare,B364,claude-fable-5-1,B273,gpt-6-astra,gpt-5-5,B364,B364,B364
+P145,planted,Bare,B364,claude-fable-5-1,B273,gpt-6-astra,qwen3p8-2p4t-a95b,B273,B364,undecided
+P146,planted,Bare,B029,claude-haiku-5-5,B449,gpt-6-luna,gpt-5-5,B029,B029,B029
+P146,planted,Bare,B029,claude-haiku-5-5,B449,gpt-6-luna,qwen3p8-2p4t-a95b,B029,B029,B029
+P147,planted,Bare,B462,gemini-4-argon,B402,claude-haiku-5-5,gpt-5-5,B402,B402,B402
+P147,planted,Bare,B462,gemini-4-argon,B402,claude-haiku-5-5,qwen3p8-2p4t-a95b,B402,B402,B402
+P148,planted,Bare,B257,gpt-6-astra,B483,kimi-k3,gpt-5-5,B257,B483,undecided
+P148,planted,Bare,B257,gpt-6-astra,B483,kimi-k3,qwen3p8-2p4t-a95b,B483,B257,undecided
+P149,planted,Bare,B288,gpt-6-astra,B019,deepseek-v4p1-flash,gpt-5-5,B288,B288,B288
+P149,planted,Bare,B288,gpt-6-astra,B019,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B288,B288,B288
+P150,planted,Bare,B033,claude-haiku-5-5,B346,deepseek-v4p1-flash,gpt-5-5,B033,B033,B033
+P150,planted,Bare,B033,claude-haiku-5-5,B346,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B033,B033,B033
+P151,planted,Bare,B304,deepseek-v4p1-flash,B109,kimi-k3,gpt-5-5,B109,B109,B109
+P151,planted,Bare,B304,deepseek-v4p1-flash,B109,kimi-k3,qwen3p8-2p4t-a95b,B109,B109,B109
+P152,planted,Bare,B539,gemini-4-argon,B384,gemini-3-5-flash-lite,gpt-5-5,B539,B539,B539
+P152,planted,Bare,B539,gemini-4-argon,B384,gemini-3-5-flash-lite,qwen3p8-2p4t-a95b,B539,B539,B539
+P153,planted,Bare,B367,gpt-6-luna,B129,gemini-4-argon,gpt-5-5,B367,B367,B367
+P153,planted,Bare,B367,gpt-6-luna,B129,gemini-4-argon,qwen3p8-2p4t-a95b,B367,B129,undecided
+P154,planted,Bare,B077,claude-fable-5-1,B337,deepseek-v4p1-flash,gpt-5-5,B077,B077,B077
+P154,planted,Bare,B077,claude-fable-5-1,B337,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B077,B077,B077
+P155,planted,Bare,B066,gpt-6-astra,B190,claude-haiku-5-5,gpt-5-5,B066,B190,undecided
+P155,planted,Bare,B066,gpt-6-astra,B190,claude-haiku-5-5,qwen3p8-2p4t-a95b,B066,B066,B066
+P156,planted,Bare,B183,gpt-6-astra,B267,gpt-6-luna,gpt-5-5,B183,B183,B183
+P156,planted,Bare,B183,gpt-6-astra,B267,gpt-6-luna,qwen3p8-2p4t-a95b,B183,B183,B183
+P157,planted,Bare,B290,gpt-6-luna,B087,gemini-3-5-flash-lite,gpt-5-5,B290,B290,B290
+P157,planted,Bare,B290,gpt-6-luna,B087,gemini-3-5-flash-lite,qwen3p8-2p4t-a95b,B290,B290,B290
+P158,planted,Bare,B216,deepseek-v4p1-flash,B008,gpt-6-astra,gpt-5-5,B008,B008,B008
+P158,planted,Bare,B216,deepseek-v4p1-flash,B008,gpt-6-astra,qwen3p8-2p4t-a95b,B008,B008,B008
+P159,planted,Bare,B403,gpt-6-luna,B014,claude-haiku-5-5,gpt-5-5,B014,B014,B014
+P159,planted,Bare,B403,gpt-6-luna,B014,claude-haiku-5-5,qwen3p8-2p4t-a95b,B014,B014,B014
+P160,planted,Bare,B321,kimi-k3,B490,gemini-3-5-flash-lite,gpt-5-5,B321,B321,B321
+P160,planted,Bare,B321,kimi-k3,B490,gemini-3-5-flash-lite,qwen3p8-2p4t-a95b,B321,B321,B321
+P161,planted,Reader instructions,B465,deepseek-v4p1-flash,B208,gemini-3-5-flash-lite,gpt-5-5,B465,B465,B465
+P161,planted,Reader instructions,B465,deepseek-v4p1-flash,B208,gemini-3-5-flash-lite,qwen3p8-2p4t-a95b,B465,B465,B465
+P162,planted,Reader instructions,B394,gpt-6-astra,B327,gemini-4-argon,gpt-5-5,B394,B394,B394
+P162,planted,Reader instructions,B394,gpt-6-astra,B327,gemini-4-argon,qwen3p8-2p4t-a95b,B394,B394,B394
+P163,planted,Reader instructions,B140,gpt-6-astra,B343,gemini-3-5-flash-lite,gpt-5-5,B140,B140,B140
+P163,planted,Reader instructions,B140,gpt-6-astra,B343,gemini-3-5-flash-lite,qwen3p8-2p4t-a95b,B140,B140,B140
+P164,planted,Reader instructions,B150,gemini-4-argon,B339,deepseek-v4p1-flash,gpt-5-5,B150,B150,B150
+P164,planted,Reader instructions,B150,gemini-4-argon,B339,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B150,B150,B150
+P165,planted,Reader instructions,B270,gemini-4-argon,B191,gpt-6-astra,gpt-5-5,B191,B191,B191
+P165,planted,Reader instructions,B270,gemini-4-argon,B191,gpt-6-astra,qwen3p8-2p4t-a95b,B191,B191,B191
+P166,planted,Reader instructions,B416,gpt-6-luna,B028,gemini-4-argon,gpt-5-5,B028,B028,B028
+P166,planted,Reader instructions,B416,gpt-6-luna,B028,gemini-4-argon,qwen3p8-2p4t-a95b,B028,B028,B028
+P167,planted,Reader instructions,B039,claude-fable-5-1,B177,gpt-6-luna,gpt-5-5,B039,B039,B039
+P167,planted,Reader instructions,B039,claude-fable-5-1,B177,gpt-6-luna,qwen3p8-2p4t-a95b,B039,B039,B039
+P168,planted,Reader instructions,B287,kimi-k3,B103,gpt-6-astra,gpt-5-5,B287,B287,B287
+P168,planted,Reader instructions,B287,kimi-k3,B103,gpt-6-astra,qwen3p8-2p4t-a95b,B287,B287,B287
+P169,planted,Reader instructions,B488,gemini-4-argon,B099,gpt-6-luna,gpt-5-5,B099,B488,undecided
+P169,planted,Reader instructions,B488,gemini-4-argon,B099,gpt-6-luna,qwen3p8-2p4t-a95b,B099,B488,undecided
+P170,planted,Reader instructions,B300,gemini-4-argon,B531,deepseek-v4p1-flash,gpt-5-5,B300,B531,undecided
+P170,planted,Reader instructions,B300,gemini-4-argon,B531,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B300,B300,B300
+P171,planted,Reader instructions,B306,gemini-3-5-flash-lite,B213,claude-haiku-5-5,gpt-5-5,B213,B213,B213
+P171,planted,Reader instructions,B306,gemini-3-5-flash-lite,B213,claude-haiku-5-5,qwen3p8-2p4t-a95b,B213,B213,B213
+P172,planted,Reader instructions,B225,gemini-3-5-flash-lite,B418,claude-fable-5-1,gpt-5-5,B418,B418,B418
+P172,planted,Reader instructions,B225,gemini-3-5-flash-lite,B418,claude-fable-5-1,qwen3p8-2p4t-a95b,B418,B418,B418
+P173,planted,Reader instructions,B073,kimi-k3,B377,claude-haiku-5-5,gpt-5-5,B377,B377,B377
+P173,planted,Reader instructions,B073,kimi-k3,B377,claude-haiku-5-5,qwen3p8-2p4t-a95b,B073,B377,undecided
+P174,planted,Reader instructions,B041,gpt-6-astra,B349,kimi-k3,gpt-5-5,B349,B349,B349
+P174,planted,Reader instructions,B041,gpt-6-astra,B349,kimi-k3,qwen3p8-2p4t-a95b,B349,B349,B349
+P175,planted,Reader instructions,B004,gemini-4-argon,B078,kimi-k3,gpt-5-5,B078,B078,B078
+P175,planted,Reader instructions,B004,gemini-4-argon,B078,kimi-k3,qwen3p8-2p4t-a95b,B004,B004,B004
+P176,planted,Reader instructions,B520,claude-haiku-5-5,B350,gpt-6-luna,gpt-5-5,B520,B520,B520
+P176,planted,Reader instructions,B520,claude-haiku-5-5,B350,gpt-6-luna,qwen3p8-2p4t-a95b,B520,B520,B520
+P177,planted,Reader instructions,B123,kimi-k3,B197,gpt-6-luna,gpt-5-5,B123,B197,undecided
+P177,planted,Reader instructions,B123,kimi-k3,B197,gpt-6-luna,qwen3p8-2p4t-a95b,B123,B197,undecided
+P178,planted,Reader instructions,B053,gemini-3-5-flash-lite,B375,claude-fable-5-1,gpt-5-5,B375,B375,B375
+P178,planted,Reader instructions,B053,gemini-3-5-flash-lite,B375,claude-fable-5-1,qwen3p8-2p4t-a95b,B375,B375,B375
+P179,planted,Reader instructions,B479,gpt-6-luna,B266,gpt-6-astra,gpt-5-5,B266,B266,B266
+P179,planted,Reader instructions,B479,gpt-6-luna,B266,gpt-6-astra,qwen3p8-2p4t-a95b,B266,B266,B266
+P180,planted,Reader instructions,B489,claude-haiku-5-5,B152,claude-fable-5-1,gpt-5-5,B489,B152,undecided
+P180,planted,Reader instructions,B489,claude-haiku-5-5,B152,claude-fable-5-1,qwen3p8-2p4t-a95b,B152,B489,undecided
+P181,planted,Reader instructions,B400,gpt-6-astra,B187,gemini-4-argon,gpt-5-5,B400,B400,B400
+P181,planted,Reader instructions,B400,gpt-6-astra,B187,gemini-4-argon,qwen3p8-2p4t-a95b,B400,B400,B400
+P182,planted,Reader instructions,B395,gemini-4-argon,B219,deepseek-v4p1-flash,gpt-5-5,B395,B395,B395
+P182,planted,Reader instructions,B395,gemini-4-argon,B219,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B395,B395,B395
+P183,planted,Reader instructions,B460,gpt-6-astra,B192,claude-fable-5-1,gpt-5-5,B192,B192,B192
+P183,planted,Reader instructions,B460,gpt-6-astra,B192,claude-fable-5-1,qwen3p8-2p4t-a95b,B192,B192,B192
+P184,planted,Reader instructions,B222,gemini-3-5-flash-lite,B447,gpt-6-luna,gpt-5-5,B447,B447,B447
+P184,planted,Reader instructions,B222,gemini-3-5-flash-lite,B447,gpt-6-luna,qwen3p8-2p4t-a95b,B447,B447,B447
+P185,planted,Reader instructions,B068,gemini-3-5-flash-lite,B529,kimi-k3,gpt-5-5,B529,B529,B529
+P185,planted,Reader instructions,B068,gemini-3-5-flash-lite,B529,kimi-k3,qwen3p8-2p4t-a95b,B529,B529,B529
+P186,planted,Reader instructions,B052,claude-haiku-5-5,B089,gpt-6-luna,gpt-5-5,B052,B052,B052
+P186,planted,Reader instructions,B052,claude-haiku-5-5,B089,gpt-6-luna,qwen3p8-2p4t-a95b,B052,B052,B052
+P187,planted,Reader instructions,B088,deepseek-v4p1-flash,B131,claude-fable-5-1,gpt-5-5,B131,B131,B131
+P187,planted,Reader instructions,B088,deepseek-v4p1-flash,B131,claude-fable-5-1,qwen3p8-2p4t-a95b,B131,B131,B131
+P188,planted,Reader instructions,B374,gemini-3-5-flash-lite,B218,kimi-k3,gpt-5-5,B218,B218,B218
+P188,planted,Reader instructions,B374,gemini-3-5-flash-lite,B218,kimi-k3,qwen3p8-2p4t-a95b,B218,B218,B218
+P189,planted,Reader instructions,B450,gpt-6-astra,B155,gemini-4-argon,gpt-5-5,B450,B450,B450
+P189,planted,Reader instructions,B450,gpt-6-astra,B155,gemini-4-argon,qwen3p8-2p4t-a95b,B450,B155,undecided
+P190,planted,Reader instructions,B256,gemini-3-5-flash-lite,B427,claude-haiku-5-5,gpt-5-5,B427,B427,B427
+P190,planted,Reader instructions,B256,gemini-3-5-flash-lite,B427,claude-haiku-5-5,qwen3p8-2p4t-a95b,B427,B427,B427
+P191,planted,Reader instructions,B299,claude-haiku-5-5,B513,kimi-k3,gpt-5-5,B299,B299,B299
+P191,planted,Reader instructions,B299,claude-haiku-5-5,B513,kimi-k3,qwen3p8-2p4t-a95b,B299,B299,B299
+P192,planted,Reader instructions,B034,claude-haiku-5-5,B051,kimi-k3,gpt-5-5,B034,B034,B034
+P192,planted,Reader instructions,B034,claude-haiku-5-5,B051,kimi-k3,qwen3p8-2p4t-a95b,B034,B034,B034
+P193,planted,Reader instructions,B113,claude-fable-5-1,B001,deepseek-v4p1-flash,gpt-5-5,B113,B113,B113
+P193,planted,Reader instructions,B113,claude-fable-5-1,B001,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B113,B113,B113
+P194,planted,Reader instructions,B452,claude-fable-5-1,B340,deepseek-v4p1-flash,gpt-5-5,B452,B452,B452
+P194,planted,Reader instructions,B452,claude-fable-5-1,B340,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B452,B452,B452
+P195,planted,Reader instructions,B195,deepseek-v4p1-flash,B323,claude-fable-5-1,gpt-5-5,B323,B323,B323
+P195,planted,Reader instructions,B195,deepseek-v4p1-flash,B323,claude-fable-5-1,qwen3p8-2p4t-a95b,B323,B323,B323
+P196,planted,Reader instructions,B405,deepseek-v4p1-flash,B169,kimi-k3,gpt-5-5,B169,B169,B169
+P196,planted,Reader instructions,B405,deepseek-v4p1-flash,B169,kimi-k3,qwen3p8-2p4t-a95b,B169,B169,B169
+P197,planted,Reader instructions,B365,gemini-3-5-flash-lite,B043,gpt-6-luna,gpt-5-5,B043,B043,B043
+P197,planted,Reader instructions,B365,gemini-3-5-flash-lite,B043,gpt-6-luna,qwen3p8-2p4t-a95b,B043,B043,B043
+P198,planted,Reader instructions,B527,claude-fable-5-1,B397,deepseek-v4p1-flash,gpt-5-5,B527,B527,B527
+P198,planted,Reader instructions,B527,claude-fable-5-1,B397,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B527,B527,B527
+P199,planted,Reader instructions,B230,gpt-6-astra,B393,claude-haiku-5-5,gpt-5-5,B393,B393,B393
+P199,planted,Reader instructions,B230,gpt-6-astra,B393,claude-haiku-5-5,qwen3p8-2p4t-a95b,B393,B393,B393
+P200,planted,Reader instructions,B005,gpt-6-luna,B251,claude-haiku-5-5,gpt-5-5,B251,B251,B251
+P200,planted,Reader instructions,B005,gpt-6-luna,B251,claude-haiku-5-5,qwen3p8-2p4t-a95b,B251,B251,B251
+P201,planted,Reader + criteria,B423,kimi-k3,B342,claude-haiku-5-5,gpt-5-5,B342,B342,B342
+P201,planted,Reader + criteria,B423,kimi-k3,B342,claude-haiku-5-5,qwen3p8-2p4t-a95b,B342,B342,B342
+P202,planted,Reader + criteria,B382,gemini-3-5-flash-lite,B063,claude-haiku-5-5,gpt-5-5,B063,B063,B063
+P202,planted,Reader + criteria,B382,gemini-3-5-flash-lite,B063,claude-haiku-5-5,qwen3p8-2p4t-a95b,B063,B063,B063
+P203,planted,Reader + criteria,B487,gpt-6-astra,B314,claude-fable-5-1,gpt-5-5,B314,B314,B314
+P203,planted,Reader + criteria,B487,gpt-6-astra,B314,claude-fable-5-1,qwen3p8-2p4t-a95b,B314,B314,B314
+P204,planted,Reader + criteria,B436,claude-haiku-5-5,B516,deepseek-v4p1-flash,gpt-5-5,B436,B436,B436
+P204,planted,Reader + criteria,B436,claude-haiku-5-5,B516,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B436,B436,B436
+P205,planted,Reader + criteria,B110,gemini-3-5-flash-lite,B461,kimi-k3,gpt-5-5,B461,B461,B461
+P205,planted,Reader + criteria,B110,gemini-3-5-flash-lite,B461,kimi-k3,qwen3p8-2p4t-a95b,B461,B461,B461
+P206,planted,Reader + criteria,B302,claude-fable-5-1,B484,gpt-6-astra,gpt-5-5,B302,B302,B302
+P206,planted,Reader + criteria,B302,claude-fable-5-1,B484,gpt-6-astra,qwen3p8-2p4t-a95b,B302,B302,B302
+P207,planted,Reader + criteria,B281,gemini-4-argon,B355,claude-haiku-5-5,gpt-5-5,B355,B355,B355
+P207,planted,Reader + criteria,B281,gemini-4-argon,B355,claude-haiku-5-5,qwen3p8-2p4t-a95b,B355,B355,B355
+P208,planted,Reader + criteria,B279,gemini-4-argon,B031,gpt-6-luna,gpt-5-5,B279,B031,undecided
+P208,planted,Reader + criteria,B279,gemini-4-argon,B031,gpt-6-luna,qwen3p8-2p4t-a95b,B031,B279,undecided
+P209,planted,Reader + criteria,B383,gpt-6-luna,B176,deepseek-v4p1-flash,gpt-5-5,B383,B383,B383
+P209,planted,Reader + criteria,B383,gpt-6-luna,B176,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B383,B383,B383
+P210,planted,Reader + criteria,B417,claude-fable-5-1,B024,gemini-4-argon,gpt-5-5,B417,B417,B417
+P210,planted,Reader + criteria,B417,claude-fable-5-1,B024,gemini-4-argon,qwen3p8-2p4t-a95b,B417,B417,B417
+P211,planted,Reader + criteria,B167,deepseek-v4p1-flash,B188,gpt-6-luna,gpt-5-5,B188,B188,B188
+P211,planted,Reader + criteria,B167,deepseek-v4p1-flash,B188,gpt-6-luna,qwen3p8-2p4t-a95b,B167,B167,B167
+P212,planted,Reader + criteria,B164,gemini-3-5-flash-lite,B101,deepseek-v4p1-flash,gpt-5-5,B101,B101,B101
+P212,planted,Reader + criteria,B164,gemini-3-5-flash-lite,B101,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B101,B101,B101
+P213,planted,Reader + criteria,B246,claude-haiku-5-5,B470,gpt-6-luna,gpt-5-5,B246,B246,B246
+P213,planted,Reader + criteria,B246,claude-haiku-5-5,B470,gpt-6-luna,qwen3p8-2p4t-a95b,B246,B246,B246
+P214,planted,Reader + criteria,B124,gemini-3-5-flash-lite,B092,gemini-4-argon,gpt-5-5,B092,B092,B092
+P214,planted,Reader + criteria,B124,gemini-3-5-flash-lite,B092,gemini-4-argon,qwen3p8-2p4t-a95b,B092,B092,B092
+P215,planted,Reader + criteria,B082,gpt-6-luna,B241,claude-fable-5-1,gpt-5-5,B241,B241,B241
+P215,planted,Reader + criteria,B082,gpt-6-luna,B241,claude-fable-5-1,qwen3p8-2p4t-a95b,B241,B241,B241
+P216,planted,Reader + criteria,B310,gemini-4-argon,B338,deepseek-v4p1-flash,gpt-5-5,B310,B310,B310
+P216,planted,Reader + criteria,B310,gemini-4-argon,B338,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B310,B310,B310
+P217,planted,Reader + criteria,B373,gpt-6-astra,B525,gemini-4-argon,gpt-5-5,B373,B525,undecided
+P217,planted,Reader + criteria,B373,gpt-6-astra,B525,gemini-4-argon,qwen3p8-2p4t-a95b,B525,B525,B525
+P218,planted,Reader + criteria,B282,deepseek-v4p1-flash,B200,gpt-6-astra,gpt-5-5,B200,B200,B200
+P218,planted,Reader + criteria,B282,deepseek-v4p1-flash,B200,gpt-6-astra,qwen3p8-2p4t-a95b,B282,B282,B282
+P219,planted,Reader + criteria,B320,gemini-4-argon,B050,gpt-6-astra,gpt-5-5,B050,B050,B050
+P219,planted,Reader + criteria,B320,gemini-4-argon,B050,gpt-6-astra,qwen3p8-2p4t-a95b,B320,B320,B320
+P220,planted,Reader + criteria,B437,gpt-6-luna,B149,deepseek-v4p1-flash,gpt-5-5,B437,B437,B437
+P220,planted,Reader + criteria,B437,gpt-6-luna,B149,deepseek-v4p1-flash,qwen3p8-2p4t-a95b,B437,B437,B437
+P221,planted,Reader + criteria,B261,claude-fable-5-1,B422,kimi-k3,gpt-5-5,B261,B261,B261
+P221,planted,Reader + criteria,B261,claude-fable-5-1,B422,kimi-k3,qwen3p8-2p4t-a95b,B261,B261,B261
+P222,planted,Reader + criteria,B453,gemini-4-argon,B076,kimi-k3,gpt-5-5,B076,B076,B076
+P222,planted,Reader + criteria,B453,gemini-4-argon,B076,kimi-k3,qwen3p8-2p4t-a95b,B076,B076,B076
+P223,planted,Reader + criteria,B444,deepseek-v4p1-flash,B480,kimi-k3,gpt-5-5,B480,B480,B480
+P223,planted,Reader + criteria,B444,deepseek-v4p1-flash,B480,kimi-k3,qwen3p8-2p4t-a95b,B480,B480,B480
+P224,planted,Reader + criteria,B159,claude-fable-5-1,B133,kimi-k3,gpt-5-5,B159,B159,B159
+P224,planted,Reader + criteria,B159,claude-fable-5-1,B133,kimi-k3,qwen3p8-2p4t-a95b,B133,B159,undecided
+P225,planted,Reader + criteria,B174,gpt-6-astra,B250,claude-haiku-5-5,gpt-5-5,B250,B250,B250
+P225,planted,Reader + criteria,B174,gpt-6-astra,B250,claude-haiku-5-5,qwen3p8-2p4t-a95b,B250,B250,B250
+P226,planted,Reader + criteria,B023,gpt-6-luna,B198,gpt-6-astra,gpt-5-5,B198,B198,B198
+P226,planted,Reader + criteria,B023,gpt-6-luna,B198,gpt-6-astra,qwen3p8-2p4t-a95b,B023,B023,B023
+P227,planted,Reader + criteria,B471,deepseek-v4p1-flash,B431,gemini-3-5-flash-lite,gpt-5-5,B471,B471,B471
+P227,planted,Reader + criteria,B471,deepseek-v4p1-flash,B431,gemini-3-5-flash-lite,qwen3p8-2p4t-a95b,B471,B471,B471
+P228,planted,Reader + criteria,B134,gemini-3-5-flash-lite,B138,claude-fable-5-1,gpt-5-5,B138,B138,B138
+P228,planted,Reader + criteria,B134,gemini-3-5-flash-lite,B138,claude-fable-5-1,qwen3p8-2p4t-a95b,B138,B138,B138
+P229,planted,Reader + criteria,B309,claude-haiku-5-5,B499,gpt-6-luna,gpt-5-5,B309,B309,B309
+P229,planted,Reader + criteria,B309,claude-haiku-5-5,B499,gpt-6-luna,qwen3p8-2p4t-a95b,B309,B309,B309
+P230,planted,Reader + criteria,B151,gemini-3-5-flash-lite,B214,claude-fable-5-1,gpt-5-5,B214,B214,B214
+P230,planted,Reader + criteria,B151,gemini-3-5-flash-lite,B214,claude-fable-5-1,qwen3p8-2p4t-a95b,B214,B214,B214
+P231,planted,Reader + criteria,B102,claude-haiku-5-5,B170,claude-fable-5-1,gpt-5-5,B102,B102,B102
+P231,planted,Reader + criteria,B102,claude-haiku-5-5,B170,claude-fable-5-1,qwen3p8-2p4t-a95b,B102,B102,B102
+P232,planted,Reader + criteria,B146,claude-fable-5-1,B158,gemini-4-argon,gpt-5-5,B146,B146,B146
+P232,planted,Reader + criteria,B146,claude-fable-5-1,B158,gemini-4-argon,qwen3p8-2p4t-a95b,B146,B146,B146
+P233,planted,Reader + criteria,B280,claude-haiku-5-5,B318,kimi-k3,gpt-5-5,B280,B280,B280
+P233,planted,Reader + criteria,B280,claude-haiku-5-5,B318,kimi-k3,qwen3p8-2p4t-a95b,B280,B280,B280
+P234,planted,Reader + criteria,B254,gpt-6-astra,B204,gemini-4-argon,gpt-5-5,B254,B254,B254
+P234,planted,Reader + criteria,B254,gpt-6-astra,B204,gemini-4-argon,qwen3p8-2p4t-a95b,B204,B204,B204
+P235,planted,Reader + criteria,B205,gpt-6-astra,B136,gpt-6-luna,gpt-5-5,B205,B205,B205
+P235,planted,Reader + criteria,B205,gpt-6-astra,B136,gpt-6-luna,qwen3p8-2p4t-a95b,B136,B136,B136
+P236,planted,Reader + criteria,B128,deepseek-v4p1-flash,B202,gpt-6-luna,gpt-5-5,B202,B202,B202
+P236,planted,Reader + criteria,B128,deepseek-v4p1-flash,B202,gpt-6-luna,qwen3p8-2p4t-a95b,B128,B202,undecided
+P237,planted,Reader + criteria,B540,claude-haiku-5-5,B242,kimi-k3,gpt-5-5,B540,B540,B540
+P237,planted,Reader + criteria,B540,claude-haiku-5-5,B242,kimi-k3,qwen3p8-2p4t-a95b,B540,B242,undecided
+P238,planted,Reader + criteria,B153,gemini-3-5-flash-lite,B107,gpt-6-astra,gpt-5-5,B107,B107,B107
+P238,planted,Reader + criteria,B153,gemini-3-5-flash-lite,B107,gpt-6-astra,qwen3p8-2p4t-a95b,B107,B107,B107
+P239,planted,Reader + criteria,B253,kimi-k3,B438,gemini-3-5-flash-lite,gpt-5-5,B253,B253,B253
+P239,planted,Reader + criteria,B253,kimi-k3,B438,gemini-3-5-flash-lite,qwen3p8-2p4t-a95b,B253,B253,B253
+P240,planted,Reader + criteria,B106,kimi-k3,B118,gemini-3-5-flash-lite,gpt-5-5,B106,B106,B106
+P240,planted,Reader + criteria,B106,kimi-k3,B118,gemini-3-5-flash-lite,qwen3p8-2p4t-a95b,B106,B106,B106

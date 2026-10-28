@@ -1,0 +1,16 @@
+# Practice runs (20): every model configuration once on each version, prompts rotated.
+# Used only to check the calls and records and to build the coding sheet; not reported.
+plan_id: practice_v1
+purpose: practice
+cells:
+  - {models: [claude-fable-5-1],      prompts: [p1_bare_v1],     manuscripts: [pilot-v6, clean-matched-v6]}
+  - {models: [claude-haiku-5-5],      prompts: [p2_reader_v1],   manuscripts: [pilot-v6, clean-matched-v6]}
+  - {models: [gemini-4-argon],        prompts: [p3_criteria_v1], manuscripts: [pilot-v6, clean-matched-v6]}
+  - {models: [gemini-3-5-flash-lite], prompts: [p1_bare_v1],     manuscripts: [pilot-v6, clean-matched-v6]}
+  - {models: [deepseek-v4p1-flash],   prompts: [p2_reader_v1],   manuscripts: [pilot-v6, clean-matched-v6]}
+  - {models: [kimi-k3],               prompts: [p3_criteria_v1], manuscripts: [pilot-v6, clean-matched-v6]}
+  - {models: [gpt-6-astra],           prompts: [p1_bare_v1],     manuscripts: [pilot-v6, clean-matched-v6]}
+  - {models: [gpt-6-luna],            prompts: [p2_reader_v1],   manuscripts: [pilot-v6, clean-matched-v6]}
+  - {models: [gemini-4-argon-mdfig],  prompts: [p2_reader_v1],   manuscripts: [pilot-v6, clean-matched-v6]}
+  - {models: [gpt-6-astra-effort-low], prompts: [p3_criteria_v1], manuscripts: [pilot-v6]}
+  - {models: [gpt-6-astra-effort-max], prompts: [p3_criteria_v1], manuscripts: [clean-matched-v6]}

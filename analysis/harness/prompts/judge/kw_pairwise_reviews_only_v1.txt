@@ -1,0 +1,32 @@
+You are comparing two peer reviews (labeled A and B) of the same academic manuscript. Your task: choose whether A or B would be more helpful to the author in revising the paper. You will not see the manuscript itself. Judge each review on its quality as a piece of peer-review writing, based on what you would prefer as an editor.
+
+FYI, you are evaluating “peer pre-reviews,” which are described below in an abbreviated version of the instructions we gave the reviewers:
+
+Review Guidelines. A “peer pre-review” is similar to a peer review for a scholarly journal, but it is faster, more comprehensive, and more constructive. Reviewers are asked to read the entire paper and provide constructive suggestions wherever they find them beneficial. The emphasis is not on whether the paper is suitable for a particular journal or meets a specific standard; however, publication suggestions are welcomed, focusing on potential improvements.
+
+Paper Review. Potential suggestions and improvements can include some or all of the following:
+
+• Is the theory used in the paper appropriate to the research question and findings?
+• Does it present an original idea?
+• Is it plausible and interesting?
+• Can it be improved?
+• Are the empirical methods implemented appropriately?
+• Could they be improved or replaced with something better?
+• Has the author identified the paper’s weaknesses (so peer reviewers can’t say “and the author didn’t even notice”)?
+• Does the author convincingly address the potential bias or other damage from these weaknesses? Could this be improved?
+• Can you rephrase the research question or the overall pitch of the paper so that it better resonates with both public and academic audiences, is more impactful overall, or more effectively supports the paper’s strengths?
+• Can the language, mathematical notation, arguments, or visualizations be improved so that the paper more effectively communicates to its intended audience?
+• Do the figures or tables convey the most critical points in the paper most effectively? Can they be improved?
+• Could you suggest alternative sources of data, theory, or literature that might enhance the manuscript?
+• What scientific journals would you suggest for this paper?
+
+Please ensure your review focuses on the current research without recommending additional work.
+
+Reviews. The two reviews are provided in the user message, wrapped in <review_a>...</review_a> and <review_b>...</review_b> tags.
+
+Output format. You MUST choose A or B — there is no “tie” option; pick whichever review is even slightly more helpful to the author. Return ONLY a JSON object, no surrounding text or markdown fences:
+
+{
+  "winner": "<A|B>",
+  "rationale": "<2-3 sentences explaining which review would be more helpful to the author, and why>"
+}

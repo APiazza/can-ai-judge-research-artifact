@@ -1,0 +1,25 @@
+You are coding one referee report for a research study. The coding sheet below gives the rules. Follow it exactly.
+
+<coding_sheet>
+{CODING_SHEET}
+</coding_sheet>
+
+The referee report comes after these instructions. For each of the eight concerns (C1 to C8), answer the two questions in section 1 of the sheet and give F, P or –. Then count the criticisms as section 2 says.
+
+Answer with one JSON object and nothing else, in this form:
+
+{"concerns": [{"concern": "C1", "code": "F", "quote": "...", "why": "...", "unsure": false, "alternative_code": null, "unsure_reason": null}],
+ "criticisms": ["..."],
+ "criticism_count": 1}
+
+- "concerns" has one entry for each of C1 to C8, in that order.
+- "code" is "F", "P" or "–".
+- For F or P, "quote" is the shortest passage of the report that shows the code, copied word for word (at most 40 words; join separate parts with "…"), and "why" is one line. For –, both are "".
+- If you cannot decide between two codes, set "unsure" to true, put your provisional code in "code", the other code in "alternative_code", and a brief reason in "unsure_reason". Otherwise "unsure" is false and both are null.
+- "criticisms" lists each criticism counted under section 2, one short line each, and "criticism_count" is the number of items in that list.
+
+<referee_report>
+{REVIEW}
+</referee_report>
+
+Answer with the JSON object only.

@@ -1,0 +1,188 @@
+{
+  "reviews_by_purpose": {
+    "main": 480,
+    "effort": 40,
+    "format": 20
+  },
+  "main_reviews": 480,
+  "main_reviews_per_version": {
+    "planted": 240,
+    "baseline": 240
+  },
+  "main_models": 8,
+  "main_prompts": 3,
+  "repeats_per_model_version_prompt": [
+    10
+  ],
+  "scoring_rows": 4320,
+  "scorer_review_assignments": 1080,
+  "corrections": 6,
+  "corrected_review_concern_cases": 4,
+  "investigator_check_reviews": 24,
+  "investigator_check_cells": 192,
+  "investigator_initial_agreement": {
+    "n": 192,
+    "same": 137,
+    "share": 0.7135416666666666,
+    "kappa": 0.45653852092017905
+  },
+  "investigator_disagreements": 55,
+  "final_reference_equals_investigator_2": true,
+  "scorer_agreement_original": {
+    "n": 4320,
+    "same": 4117,
+    "share": 0.9530092592592593,
+    "kappa": 0.9182185795346136
+  },
+  "scorer_agreement_corrected": {
+    "n": 4320,
+    "same": 4119,
+    "share": 0.9534722222222223,
+    "kappa": 0.9189772501420642
+  },
+  "human_validation_readers": 5,
+  "concerns_with_at_least_three_endorsements_including_qualified": 7,
+  "observed_majority_rejected_concerns": [
+    "C2"
+  ],
+  "always_major_models_requested_prompts": [
+    "claude-fable-5-1",
+    "claude-haiku-5-5",
+    "deepseek-v4p1-flash",
+    "gpt-6-luna",
+    "kimi-k3"
+  ],
+  "always_major_model_count": 5,
+  "recommendations_extracted_by_method": {
+    "automatic": 410,
+    "none stated": 46,
+    "mixed statements, investigator checked": 24
+  },
+  "requested_recommendations_present": 320,
+  "criticisms": {
+    "all": {
+      "planted": {
+        "reviews": 240,
+        "mean": 18.68125
+      },
+      "baseline": {
+        "reviews": 240,
+        "mean": 18.177083333333332
+      }
+    },
+    "by_model": {
+      "claude-fable-5-1": {
+        "planted": {
+          "reviews": 30,
+          "mean": 23.666666666666668
+        },
+        "baseline": {
+          "reviews": 30,
+          "mean": 22.683333333333334
+        }
+      },
+      "claude-haiku-5-5": {
+        "planted": {
+          "reviews": 30,
+          "mean": 35.53333333333333
+        },
+        "baseline": {
+          "reviews": 30,
+          "mean": 34.11666666666667
+        }
+      },
+      "gpt-6-astra": {
+        "planted": {
+          "reviews": 30,
+          "mean": 20.65
+        },
+        "baseline": {
+          "reviews": 30,
+          "mean": 18.533333333333335
+        }
+      },
+      "gpt-6-luna": {
+        "planted": {
+          "reviews": 30,
+          "mean": 13.15
+        },
+        "baseline": {
+          "reviews": 30,
+          "mean": 14.733333333333333
+        }
+      },
+      "gemini-4-argon": {
+        "planted": {
+          "reviews": 30,
+          "mean": 9.566666666666666
+        },
+        "baseline": {
+          "reviews": 30,
+          "mean": 7.716666666666667
+        }
+      },
+      "gemini-3-5-flash-lite": {
+        "planted": {
+          "reviews": 30,
+          "mean": 4.733333333333333
+        },
+        "baseline": {
+          "reviews": 30,
+          "mean": 4.9
+        }
+      },
+      "deepseek-v4p1-flash": {
+        "planted": {
+          "reviews": 30,
+          "mean": 18.416666666666668
+        },
+        "baseline": {
+          "reviews": 30,
+          "mean": 19.533333333333335
+        }
+      },
+      "kimi-k3": {
+        "planted": {
+          "reviews": 30,
+          "mean": 23.733333333333334
+        },
+        "baseline": {
+          "reviews": 30,
+          "mean": 23.2
+        }
+      }
+    },
+    "by_prompt": {
+      "Bare": {
+        "planted": {
+          "reviews": 80,
+          "mean": 17.1375
+        },
+        "baseline": {
+          "reviews": 80,
+          "mean": 16.6625
+        }
+      },
+      "Reader instructions": {
+        "planted": {
+          "reviews": 80,
+          "mean": 20.15
+        },
+        "baseline": {
+          "reviews": 80,
+          "mean": 19.425
+        }
+      },
+      "Reader + criteria": {
+        "planted": {
+          "reviews": 80,
+          "mean": 18.75625
+        },
+        "baseline": {
+          "reviews": 80,
+          "mean": 18.44375
+        }
+      }
+    }
+  }
+}

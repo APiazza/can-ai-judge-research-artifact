@@ -1,0 +1,8 @@
+# Effort comparison: GPT-6 Astra at low and max effort, Prompt 3, both versions, 10 each = 40.
+plan_id: effort_v1
+purpose: effort
+cells:
+  - models: [gpt-6-astra-effort-low, gpt-6-astra-effort-max]
+    prompts: [p3_criteria_v1]
+    manuscripts: [pilot-v6, clean-matched-v6]
+    reps: 10

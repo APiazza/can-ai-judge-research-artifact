@@ -1,0 +1,14 @@
+Please read the attached paper and write the referee report and recommendation you would ordinarily provide to a journal.
+
+In preparing your report, please consider the following criteria. A manuscript need not have weaknesses on every criterion, and your report need not address each one.
+
+1. Importance of Problem
+2. Relevance to Organization Science
+3. Incorporation of Relevant Literature
+4. Development of Theory
+5. Appropriateness of Design
+6. Appropriateness of Analysis and Interpretation
+7. Legitimacy of Conclusions
+8. Writing Clarity and Organization
+
+At the end of your report, state your recommendation to the editor: Reject, Major revision, Minor revision, or Accept.

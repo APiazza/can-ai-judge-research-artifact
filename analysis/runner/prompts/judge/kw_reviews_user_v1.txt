@@ -1,0 +1,7 @@
+<review_a>
+{REVIEW_A}
+</review_a>
+
+<review_b>
+{REVIEW_B}
+</review_b>
