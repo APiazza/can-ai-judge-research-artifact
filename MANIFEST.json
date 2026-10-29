@@ -1,7 +1,7 @@
 {
   "release": "github-copy",
   "source_archive": "anonymous_artifact_2026-10-29.zip",
-  "source_archive_sha256": "bacd7eff17064ab52380b5feb92afc462b6ed2f7c3c394922e9544490358bdfe",
+  "source_archive_sha256": "d9173c66a59b1ec2dbe9ee6d62200150d00e2478486b1a939d68431f0b1f8c52",
   "scope": "File fingerprints of this repository; excludes this manifest and .gitattributes. analysis/documents/ is withheld (see README).",
   "files": [
     {
