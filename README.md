@@ -3,7 +3,7 @@
 > (`analysis/documents/`), which is submitted through the journal portal. The proposal is supplied separately through that portal. Steps below that open
 > that PDF refers to the submitted copy. The confidential review materials (invented manuscripts,
 > key, and AI review texts) are not in this repository; reviewers receive them through the private
-> link in the submission. `MANIFEST.json` lists the fingerprints of the files in this repository.
+> link in the submission. `MANIFEST.json` lists the fingerprints of the files in this repository. Git attribute files additionally disable line-ending conversion, including the runner’s nested attributes, to preserve released file bytes.
 
 # Anonymous analysis artifact — release 2026-10-29
 

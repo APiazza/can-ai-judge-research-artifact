@@ -1,3 +1,6 @@
 # Prompt templates are hashed byte for byte: git must never change their line endings.
 prompts/**/*.txt -text
 * text=auto eol=lf
+
+# Public artifact snapshot: preserve all released bytes.
+* -text
