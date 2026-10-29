@@ -1,18 +1,18 @@
 {
   "release": "github-copy",
-  "source_archive": "anonymous_artifact_v0.15_2026-10-26.zip",
-  "source_archive_sha256": "e94e45c60068b17c938b6d909c89b15ccb64c3f7fab4c1b84fffd405174f44b0",
+  "source_archive": "anonymous_artifact_2026-10-29.zip",
+  "source_archive_sha256": "bacd7eff17064ab52380b5feb92afc462b6ed2f7c3c394922e9544490358bdfe",
   "scope": "File fingerprints of this repository; excludes this manifest and .gitattributes. analysis/documents/ is withheld (see README).",
   "files": [
     {
       "path": "README.md",
-      "bytes": 8243,
-      "sha256": "ae4d1698575bbe1490b2bedde740df0c432b69752375db57a86fbbf0be80afaa"
+      "bytes": 8592,
+      "sha256": "15c2d34cd171a17c88c0dc191323c87beae0f6d41f7d4f5e2ef7d47f494f449b"
     },
     {
       "path": "VERIFICATION.md",
-      "bytes": 5513,
-      "sha256": "5849523a93a71e2dbb6813fac8d9826655d9e08432a9cded674f998440b1d7fe"
+      "bytes": 6071,
+      "sha256": "779f9510c5c9cbc5eb28bcece8466d6dbdb6a0aff33faee51f997d573dac74a4"
     },
     {
       "path": "analysis/code/README.md",
@@ -211,8 +211,8 @@
     },
     {
       "path": "analysis/runner/RELEASE_NOTE.md",
-      "bytes": 3565,
-      "sha256": "d970d8a0c8be1c95646f4de2e24c8a471a7b704f21ecef984bcc8cd691e025b5"
+      "bytes": 5780,
+      "sha256": "2863bb48c21a42867d7d3217f637f38cf48a7d9ebb6fe19040b4402439f1793c"
     },
     {
       "path": "analysis/runner/RUN.md",

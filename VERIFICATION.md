@@ -1,4 +1,4 @@
-# Verification of the anonymous v0.15 artifact
+# Verification of the anonymous artifact — release 2026-10-29
 
 **Result: the package reproduces the corrected numerical results in the proposal and supplement. No further numerical correction was needed.**
 
@@ -21,20 +21,20 @@ The proposal's main contrast remains 47–49% of planted-version comparisons ver
 
 ## Fresh-extraction test
 
-Both archives were extracted into two new folders and executed from a separate working directory, with Python 3.12.14 on Windows. Python ran with `-I -S -B`: it ignored user/environment imports, omitted site packages, and did not create bytecode caches. An additional audit guard blocked network and subprocess calls and limited file access to the extracted package, its new output folder, and the Python runtime.
+Both archives were extracted into two new folders and executed from a separate working directory, with Python 3.13 on Windows. Python ran with `-I -S -B`: it ignored user/environment imports, omitted site packages, and did not create bytecode caches. An additional audit guard blocked network and subprocess calls and limited file access to the extracted package, its new output folder, and the Python runtime.
 
 Both extractions passed all 1,685 expected assertions, the configuration check, the complete evidence-linkage check, and the file manifests. Each regenerated all nine analysis output files byte-for-byte identically to the supplied outputs and to the other extraction. This is an isolated execution test on the available Windows runtime, not a claim of testing every operating system or Python version. The code requires Python 3.10 or later and uses only the standard library.
 
 ## Documents and anonymity
 
-The tracked working drafts were preserved. The proposal reading copy retains the opening and substantive text and remains 1,932 words including the caption, before references; figure text is excluded. The supplement reading copy changes only three source-provenance paragraphs to withhold repository identifiers and point to this completed verification. Its results and methodological interpretation are unchanged.
+The tracked working drafts were preserved. This release includes only the final clean anonymous technical-supplement reading copy; the proposal is supplied separately through the journal portal. The supplement removes identifying source-repository commit handles while preserving the substantive provenance account. The analysis and confidential-companion payloads retain their original scientific data and calculated outputs. Human reader data appear only as aggregate counts. Legitimate scholarly citations remain.
 
-Metadata scrubbing preserved all pixels across the four reading PDFs (147 pages). The supplement's changed provenance pages and pages affected by comment removal were visually checked. The generated figure was rendered and inspected. Source names, revision authors, comments, local paths, and source Git identifiers were excluded from release copies. Human reader data appear only as aggregate counts. Legitimate scholarly citations remain. The exact baseline model-input PDF retains four anonymous MathML equation attachments; those are documented in its input inventory, not reader records.
+The exact model-input PDFs and confidential manuscript reading copies are retained from the previously inspected release. The exact baseline model-input PDF retains four anonymous MathML equation attachments documented in its input inventory. The new supplement was separately rendered, visually reviewed, and inspected for identifying metadata. The release anonymity scan and exact file fingerprints identify this snapshot; historical page-count and pixel-equality statements are not carried forward as checks of new documents.
 
 ## What this verification does not establish
 
 The check starts from retained, parsed model outputs. It does not regenerate AI reviews, repeat all natural-language recommendation extraction, or independently rejudge every classification. The complete AI-review evidence and selected scorer records are supplied for inspection in the confidential companion.
 
-The offline checker in `analysis/code` is newly assembled analysis code. The original API-call runner, received afterwards, is included separately in `analysis/runner`. From the full run records (not included here), the investigators confirmed that it reproduces the saved scoring, judge, and recommendation outputs, rebuilds all 483 recorded main-review requests exactly, and passes its own 103 tests. Details are in `analysis/runner/RELEASE_NOTE.md`. A new API run would require provider access and would yield different responses.
+The offline checker in `analysis/code` is newly assembled analysis code. The original API-call runner, received afterwards, is included separately in `analysis/runner`. From the full run records (not included here), the investigators confirmed that it reproduces the saved scoring, judge, and recommendation outputs, rebuilds all 483 recorded main-review requests exactly, and passes its own 103 tests. Details are in `analysis/runner/RELEASE_NOTE.md`. A new API run would require provider access and would yield different responses. On October 29, a fresh runner copy using only the released confidential exact inputs and the documented folder mapping generated all 480 main-review dry-run requests and passed key isolation without API access. The extracted runner also passed 100 tests with three manuscript-configuration tests skipped. Scoring/judge dry runs need withheld full records; the anonymous scoring-sheet hash differs from the historical enforced hash, as disclosed in the release note.
 
 The external-reader table is reproduced from supplied aggregate counts; raw human responses and referee reports are excluded, so their extraction cannot be independently repeated from this package. No completed power or sample-size simulation is claimed. Repeated reviews of one invented manuscript pair do not establish results across papers or populations of reviewers.
